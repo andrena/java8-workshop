@@ -9,6 +9,10 @@ public class Person {
 	private final Adresse adresse;
 	private final LocalDate geburtstag;
 
+	public Person(String vorname, String nachname) {
+		this(vorname, nachname, null, null);
+	}
+
 	public Person(String vorname, String nachname, Adresse adresse, LocalDate geburtstag) {
 		this.vorname = vorname;
 		this.nachname = nachname;
@@ -30,5 +34,10 @@ public class Person {
 
 	public LocalDate getGeburtstag() {
 		return geburtstag;
+	}
+
+	@Override
+	public String toString() {
+		return vorname + " " + nachname;
 	}
 }

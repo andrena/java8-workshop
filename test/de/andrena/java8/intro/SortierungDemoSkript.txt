@@ -1,0 +1,8 @@
+1. Ursprungszustand
+2. Konvertierung in Lambda mit Block-Schreibweise
+3. Entfernen der Parametertypen
+4. Konvertierung des Lambdas von Block-Schreibweise in Expression-Schreibweise
+5. Default sort()-Methode auf dem List-Interface verwenden
+6. Comparator.comparing() verwenden mit Lambda
+7. ::-Schreibweise für Lambda verwenden
+8. Static-Imports und Comparator inlinen
