@@ -1,0 +1,2077 @@
+Schlüsselnummer;Stadt;PLZ;Bundesland;Landkreis
+11000;Berlin;10178; Berlin; Berlin
+02000;Hamburg;20038; Hamburg; Hamburg
+09162;München;80331;Freistaat Bayern; Ingolstadt
+05315;Köln;50667;Nordrhein-Westfalen; Bonn
+06412;Frankfurt am Main;60311;Hessen; Darmstadt
+08111;Stuttgart;70173;Baden-Württemberg; Stuttgart
+05111;Düsseldorf;40213;Nordrhein-Westfalen; Düsseldorf
+05913;Dortmund;44135;Nordrhein-Westfalen; Bochum
+05113;Essen;45127;Nordrhein-Westfalen; Duisburg
+04011;Bremen;28195;Freie Hansestadt Bremen; Bremen
+03241;Hannover;30159;Niedersachsen;Hannover
+14713;Leipzig;04109;Freistaat Sachsen; Leipzig
+14612;Dresden;01067;Freistaat Sachsen; Dresden
+09564;Nürnberg;90403;Freistaat Bayern; Fürth
+05112;Duisburg;47051;Nordrhein-Westfalen; Düsseldorf
+05911;Bochum;44787;Nordrhein-Westfalen; Arnsberg
+05124;Wuppertal;42275;Nordrhein-Westfalen; Solingen
+05711;Bielefeld;33602;Nordrhein-Westfalen; Detmold
+05314;Bonn;53111;Nordrhein-Westfalen; Aachen
+08222;Mannheim;68159;Baden-Württemberg; Heidelberg
+08212;Karlsruhe;76133;Baden-Württemberg; Baden-Baden
+06414;Wiesbaden;65183;Hessen; Offenbach am Main
+05515;Münster;48143;Nordrhein-Westfalen; Gelsenkirchen
+09761;Augsburg;86150;Freistaat Bayern; Schwaben
+05513;Gelsenkirchen;45879;Nordrhein-Westfalen; Bottrop
+05334;Aachen;52062;Nordrhein-Westfalen; Leverkusen
+05116;Mönchengladbach;41061;Nordrhein-Westfalen; Krefeld
+03101;Braunschweig;38100;Niedersachsen; Niedersachsen
+14511;Chemnitz;09111;Freistaat Sachsen; Chemnitz
+01002;Kiel;24103;Schleswig-Holstein; Flensburg
+05114;Krefeld;47803;Nordrhein-Westfalen; Essen
+15002;Halle-Saale;06108;Sachsen-Anhalt; Dessau-Roßlau
+15003;Magdeburg;39104;Sachsen-Anhalt; Halle
+08311;Freiburg im Breisgau;79098;Baden-Württemberg; Freiburg
+05119;Oberhausen;46045;Nordrhein-Westfalen; Mülheim an der Ruhr
+01003;Lübeck;23539;Schleswig-Holstein; Kiel
+16051;Erfurt;99084;Freistaat Thüringen; Thüringen
+13003;Rostock;18055;Mecklenburg-Vorpommern; Neubrandenburg
+07315;Mainz;55116;Rheinland-Pfalz; Ludwigshafen am Rhein
+06611;Kassel;34117;Hessen; Kassel
+05914;Hagen;58095;Nordrhein-Westfalen; Dortmund
+05915;Hamm;59065;Nordrhein-Westfalen; Hagen
+10041;Saarbrücken;66111;Saarland; Regionalverband Saarbrücken
+05117;Mülheim an der Ruhr;45468;Nordrhein-Westfalen; Mönchengladbach
+05916;Herne;44623;Nordrhein-Westfalen; Hamm
+03404;Osnabrück;49074;Niedersachsen; Oldenburg
+07314;Ludwigshafen am Rhein;67059;Rheinland-Pfalz; Landau in der Pfalz
+03403;Oldenburg;26122;Niedersachsen; Emden
+05122;Solingen;42651;Nordrhein-Westfalen; Remscheid
+05316;Leverkusen;51373;Nordrhein-Westfalen; Köln
+12054;Potsdam;14461;Brandenburg; Frankfurt
+05162;Neuss;41460;Nordrhein-Westfalen; Rhein-Kreis Neuss
+08221;Heidelberg;69117;Baden-Württemberg; Rheinmünster
+05774;Paderborn;33098;Nordrhein-Westfalen; Paderborn
+06411;Darmstadt;64283;Hessen; Darmstadt
+09362;Regensburg;93047;Freistaat Bayern; Amberg
+09663;Würzburg;97070;Freistaat Bayern; Schweinfurt
+09161;Ingolstadt;85049;Freistaat Bayern; Oberbayern
+08121;Heilbronn;74072;Baden-Württemberg; Kernen im Remstal
+08421;Ulm;89073;Baden-Württemberg; Albstadt
+03152;Göttingen;37083;Niedersachsen; Göttingen
+03103;Wolfsburg;38440;Niedersachsen; Salzgitter
+08231;Pforzheim;75175;Baden-Württemberg; Hirschberg an der Bergstraße
+05562;Recklinghausen;45657;Nordrhein-Westfalen; Recklinghausen
+06413;Offenbach am Main;63065;Hessen; Frankfurt am Main
+05512;Bottrop;46236;Nordrhein-Westfalen; Münster
+09563;Fürth;90762;Freistaat Bayern; Erlangen
+04012;Bremerhaven;27576;Freie Hansestadt Bremen; Bremen
+08415;Reutlingen;72764;Baden-Württemberg; Reutlingen
+05120;Remscheid;42853;Nordrhein-Westfalen; Oberhausen
+07111;Koblenz;56068;Rheinland-Pfalz; Rheinland-Pfalz
+05170;Moers;47441;Nordrhein-Westfalen; Wesel
+05378;Bergisch Gladbach;51465;Nordrhein-Westfalen; Rheinisch-Bergischer Kreis
+09562;Erlangen;91052;Freistaat Bayern; Ansbach
+07211;Trier;54290;Rheinland-Pfalz; Mähren
+16053;Jena;07743;Freistaat Thüringen; Gera
+05970;Siegen;57072;Nordrhein-Westfalen; Siegen-Wittgenstein
+03102;Salzgitter;38226;Niedersachsen; Braunschweig
+03254;Hildesheim;31134;Niedersachsen; Hildesheim
+12052;Cottbus;03046;Brandenburg; Brandenburg an der Havel
+16052;Gera;07545;Freistaat Thüringen; Erfurt
+07312;Kaiserslautern;67657;Rheinland-Pfalz; Frankenthal
+05954;Witten;58452;Nordrhein-Westfalen; Ennepe-Ruhr-Kreis
+05754;Gütersloh;33330;Nordrhein-Westfalen; Gütersloh
+05962;Iserlohn;58636;Nordrhein-Westfalen; Märkischer Kreis
+13004;Schwerin;19053;Mecklenburg-Vorpommern; Rostock
+14524;Zwickau;08056;Freistaat Sachsen; Zwickau
+05358;Düren;52349;Nordrhein-Westfalen; Düren
+08116;Esslingen am Neckar;73728;Baden-Württemberg; Esslingen
+05158;Ratingen;40878;Nordrhein-Westfalen; Mettmann
+01001;Flensburg;24937;Schleswig-Holstein; Schleswig-Holstein
+06435;Hanau;63450;Hessen; Main-Kinzig-Kreis
+05562;Marl;45768;Nordrhein-Westfalen; Recklinghausen
+08416;Tübingen;72070;Baden-Württemberg; Tübingen
+05978;Lünen;44532;Nordrhein-Westfalen; Unna
+15001;Dessau-Roßlau;06844;Sachsen-Anhalt; Sachsen-Anhalt
+08118;Ludwigsburg;71638;Baden-Württemberg; Ludwigsburg
+05158;Velbert;42551;Nordrhein-Westfalen; Mettmann
+08335;Konstanz;78462;Baden-Württemberg; Konstanz
+05770;Minden;32423;Nordrhein-Westfalen; Minden-Lübbecke
+07319;Worms;67547;Rheinland-Pfalz; Speyer
+03405;Wilhelmshaven;26382;Niedersachsen; Osnabrück
+08326;Villingen-Schwenningen;78050;Baden-Württemberg; Schwarzwald-Baar-Kreis
+06534;Marburg;35037;Hessen; Marburg-Biedenkopf
+05562;Dorsten;46284;Nordrhein-Westfalen; Recklinghausen
+01004;Neumünster;24534;Schleswig-Holstein; Lübeck
+05566;Rheine;48431;Nordrhein-Westfalen; Steinfurt
+06531;Gießen;35390;Hessen; Gießen
+05962;Lüdenscheid;58507;Nordrhein-Westfalen; Märkischer Kreis
+05562;Castrop-Rauxel;44575;Nordrhein-Westfalen; Recklinghausen
+05562;Gladbeck;45964;Nordrhein-Westfalen; Recklinghausen
+05166;Viersen;41747;Nordrhein-Westfalen; Viersen
+05382;Troisdorf;53840;Nordrhein-Westfalen; Rhein-Sieg-Kreis
+05958;Arnsberg;59759;Nordrhein-Westfalen; Hochsauerlandkreis
+03401;Delmenhorst;27749;Niedersachsen; Thedinghausen
+05554;Bocholt;46395;Nordrhein-Westfalen; Borken
+05766;Detmold;32756;Nordrhein-Westfalen; Lippe
+03355;Lüneburg;21335;Niedersachsen; Lüneburg
+09462;Bayreuth;95444;Freistaat Bayern; Bamberg
+12051;Brandenburg an der Havel;14770;Brandenburg; Brandenburg
+01060;Norderstedt;22846;Schleswig-Holstein; Segeberg
+03351;Celle;29221;Niedersachsen; Celle
+09461;Bamberg;96047;Freistaat Bayern; Oberfranken
+05170;Dinslaken;46535;Nordrhein-Westfalen; Wesel
+09661;Aschaffenburg;63739;Freistaat Bayern; Unterfranken
+05974;Lippstadt;59555;Nordrhein-Westfalen; Soest
+05978;Unna;59423;Nordrhein-Westfalen; Unna
+14523;Plauen;08523;Freistaat Sachsen; Vogtlandkreis
+08136;Aalen;73430;Baden-Württemberg; Ostalbkreis
+16055;Weimar;99423;Freistaat Thüringen; Suhl
+13002;Neubrandenburg;17033;Mecklenburg-Vorpommern; Greifswald
+05362;Kerpen;50171;Nordrhein-Westfalen; Rhein-Erft-Kreis
+07138;Neuwied;56564;Rheinland-Pfalz; Neuwied
+05758;Herford;32052;Nordrhein-Westfalen; Herford
+06631;Fulda;36037;Hessen; Fulda
+05162;Grevenbroich;41515;Nordrhein-Westfalen; Rhein-Kreis Neuss
+05162;Dormagen;41539;Nordrhein-Westfalen; Rhein-Kreis Neuss
+09261;Landshut;84028;Freistaat Bayern; Niederbayern
+05562;Herten;45699;Nordrhein-Westfalen; Recklinghausen
+05362;Bergheim;50126;Nordrhein-Westfalen; Rhein-Erft-Kreis
+09763;Kempten;87435;Freistaat Bayern; Kaufbeuren
+03241;Garbsen;30827;Niedersachsen;Hannover
+05170;Wesel;46483;Nordrhein-Westfalen; Wesel
+09163;Rosenheim;83022;Freistaat Bayern; München
+12053;Frankfurt;15230;Brandenburg; Cottbus
+08115;Sindelfingen;71063;Baden-Württemberg; Böblingen
+08136;Schwäbisch Gmünd;73525;Baden-Württemberg; Ostalbkreis
+06433;Rüsselsheim;65428;Hessen; Groß-Gerau
+08317;Offenburg;77652;Baden-Württemberg; Ortenaukreis
+05158;Langenfeld;40764;Nordrhein-Westfalen; Mettmann
+08435;Friedrichshafen;88045;Baden-Württemberg; Bodenseekreis
+03252;Hameln;31785;Niedersachsen; Hameln-Pyrmont
+13005;Stralsund;18439;Mecklenburg-Vorpommern; Schwerin
+05334;Stolberg;52222;Nordrhein-Westfalen; Leverkusen
+05362;Hürth;50354;Nordrhein-Westfalen; Rhein-Erft-Kreis
+08117;Göppingen;73033;Baden-Württemberg; Göppingen
+05962;Menden;58706;Nordrhein-Westfalen; Märkischer Kreis
+14626;Görlitz;02826;Freistaat Sachsen; Görlitz
+05366;Euskirchen;53879;Nordrhein-Westfalen; Euskirchen
+05954;Hattingen;45525;Nordrhein-Westfalen; Ennepe-Ruhr-Kreis
+05158;Hilden;40721;Nordrhein-Westfalen; Mettmann
+05382;Sankt Augustin;53757;Nordrhein-Westfalen; Rhein-Sieg-Kreis
+05334;Eschweiler;52249;Nordrhein-Westfalen; Leverkusen
+08211;Baden-Baden;76530;Baden-Württemberg; Karlsruhe
+13001;Greifswald;17489;Mecklenburg-Vorpommern; Mecklenburg-Vorpommern
+05162;Meerbusch;40667;Nordrhein-Westfalen; Rhein-Kreis Neuss
+05766;Bad Salzuflen;32105;Nordrhein-Westfalen; Lippe
+05362;Pulheim;50259;Nordrhein-Westfalen; Rhein-Erft-Kreis
+09662;Schweinfurt;97421;Freistaat Bayern; Aschaffenburg
+07316;Neustadt an der Weinstraße;67433;Rheinland-Pfalz; Mainz
+05570;Ahlen;59227;Nordrhein-Westfalen; Warendorf
+03158;Wolfenbüttel;38300;Niedersachsen; Wolfenbüttel
+03456;Nordhorn;48529;Niedersachsen; Grafschaft Bentheim
+09775;Neu-Ulm;89231;Freistaat Bayern; Neu-Ulm
+08119;Waiblingen;71332;Baden-Württemberg; Rems-Murr-Kreis
+03241;Langenhagen;30853;Niedersachsen;Hannover
+05166;Willich;47877;Nordrhein-Westfalen; Viersen
+06434;Bad Homburg;61348;Hessen; Hochtaunuskreis
+05374;Gummersbach;51643;Nordrhein-Westfalen; Oberbergischer Kreis
+06532;Wetzlar;35578;Hessen; Lahn-Dill-Kreis
+05566;Ibbenbüren;49477;Nordrhein-Westfalen; Steinfurt
+03454;Lingen;49808;Niedersachsen; Emsland
+03402;Emden;26721;Niedersachsen; Delmenhorst
+05978;Bergkamen;59192;Nordrhein-Westfalen; Unna
+03352;Cuxhaven;27472;Niedersachsen; Cuxhaven
+05362;Erftstadt;50374;Nordrhein-Westfalen; Rhein-Erft-Kreis
+09262;Passau;94032;Freistaat Bayern; Landshut
+07318;Speyer;67346;Rheinland-Pfalz; Pirmasens
+05362;Frechen;50226;Nordrhein-Westfalen; Rhein-Erft-Kreis
+08436;Ravensburg;88212;Baden-Württemberg; Ravensburg
+05154;Kleve;47533;Nordrhein-Westfalen; Kleve
+03157;Peine;31224;Niedersachsen; Peine
+05974;Soest;59494;Nordrhein-Westfalen; Soest
+05382;Bornheim;53332;Nordrhein-Westfalen; Rhein-Sieg-Kreis
+05978;Schwerte;58239;Nordrhein-Westfalen; Unna
+05770;Bad Oeynhausen;32545;Nordrhein-Westfalen; Minden-Lübbecke
+08135;Heidenheim an der Brenz;89522;Baden-Württemberg; Heidenheim
+01056;Elmshorn;25335;Schleswig-Holstein; Pinneberg
+08336;Lörrach;79539;Baden-Württemberg; Lörrach
+10043;Neunkirchen;66538;Saarland; Neunkirchen
+08216;Rastatt;76437;Baden-Württemberg; Rastatt
+15091;Wittenberg;06886;Sachsen-Anhalt; Wittenberg
+05334;Herzogenrath;52134;Nordrhein-Westfalen; Leverkusen
+05754;Rheda-Wiedenbrück;33378;Nordrhein-Westfalen; Gütersloh
+07311;Frankenthal;67227;Rheinland-Pfalz; Welschbillig
+05558;Dülmen;48249;Nordrhein-Westfalen; Coesfeld
+09464;Hof;95028;Freistaat Bayern; Coburg
+05554;Gronau;48599;Nordrhein-Westfalen; Borken
+03459;Melle;49324;Niedersachsen; Osnabrück
+08115;Böblingen;71032;Baden-Württemberg; Böblingen
+05158;Erkrath;40699;Nordrhein-Westfalen; Mettmann
+03359;Stade;21682;Niedersachsen; Stade
+15082;Bitterfeld-Wolfen;06766;Sachsen-Anhalt; Anhalt-Bitterfeld
+05382;Hennef;53773;Nordrhein-Westfalen; Rhein-Sieg-Kreis
+16067;Gotha;99867;Freistaat Thüringen; Gotha
+05334;Alsdorf;52477;Nordrhein-Westfalen; Leverkusen
+08335;Singen;78224;Baden-Württemberg; Konstanz
+08417;Albstadt;72458;Baden-Württemberg; Zollernalbkreis
+03241;Neustadt am Rübenberge;31535;Niedersachsen;Hannover
+08115;Leonberg;71229;Baden-Württemberg; Böblingen
+09178;Freising;85354;Freistaat Bayern; Freising
+05978;Kamen;59174;Nordrhein-Westfalen; Unna
+05758;Bünde;32257;Nordrhein-Westfalen; Herford
+05370;Erkelenz;41812;Nordrhein-Westfalen; Heinsberg
+09263;Straubing;94315;Freistaat Bayern; Passau
+13006;Wismar;23952;Mecklenburg-Vorpommern; Stralsund
+08119;Fellbach;70734;Baden-Württemberg; Rems-Murr-Kreis
+05362;Brühl;50321;Nordrhein-Westfalen; Rhein-Erft-Kreis
+16062;Nordhausen;99734;Freistaat Thüringen; Nordhausen
+08116;Filderstadt;70794;Baden-Württemberg; Esslingen
+08317;Lahr/Schwarzwald;77933;Baden-Württemberg; Ortenaukreis
+09361;Amberg;92224;Freistaat Bayern; Oberpfalz
+08226;Weinheim;69469;Baden-Württemberg; Rhein-Neckar-Kreis
+10045;Homburg;66424;Saarland; Saarpfalz-Kreis
+07133;Bad Kreuznach;55545;Rheinland-Pfalz; Bad Kreuznach
+06434;Oberursel;61440;Hessen; Hochtaunuskreis
+03241;Lehrte;31275;Niedersachsen;Hannover
+08215;Bruchsal;76646;Baden-Württemberg; Karlsruhe
+06438;Rodgau;63110;Hessen; Offenbach
+05158;Monheim am Rhein;40789;Nordrhein-Westfalen; Mettmann
+07313;Landau in der Pfalz;76829;Rheinland-Pfalz; Kaiserslautern
+16056;Eisenach;99817;Freistaat Thüringen; Weimar
+08118;Bietigheim-Bissingen;74321;Baden-Württemberg; Ludwigsburg
+08416;Rottenburg am Neckar;72108;Baden-Württemberg; Tübingen
+01056;Pinneberg;25421;Schleswig-Holstein; Pinneberg
+09174;Dachau;85221;Freistaat Bayern; Dachau
+09363;Weiden;92637;Freistaat Bayern; Regensburg
+05166;Nettetal;41334;Nordrhein-Westfalen; Viersen
+09762;Kaufbeuren;87600;Freistaat Bayern; Augsburg
+05162;Kaarst;41564;Nordrhein-Westfalen; Rhein-Kreis Neuss
+14522;Freiberg;09599;Freistaat Sachsen; Mittelsachsen
+05766;Lemgo;32657;Nordrhein-Westfalen; Lippe
+03151;Gifhorn;38518;Niedersachsen; Gifhorn
+12065;Oranienburg;16515;Brandenburg; Oberhavel
+03153;Goslar;38640;Niedersachsen; Goslar
+05554;Borken;46325;Nordrhein-Westfalen; Borken
+09463;Coburg;96450;Freistaat Bayern; Bayreuth
+12060;Eberswalde;16225;Brandenburg; Barnim
+03241;Wunstorf;31515;Niedersachsen;Hannover
+09764;Memmingen;87700;Freistaat Bayern; Kempten
+05370;Heinsberg;52525;Nordrhein-Westfalen; Heinsberg
+05382;Königswinter;53639;Nordrhein-Westfalen; Rhein-Sieg-Kreis
+07317;Pirmasens;66953;Rheinland-Pfalz; Neustadt an der Weinstraße,St.
+14625;Bautzen;02625;Freistaat Sachsen; Bautzen
+03452;Aurich;26603;Niedersachsen; Aurich
+09561;Ansbach;91522;Freistaat Bayern; Mittelfranken
+08116;Nürtingen;72622;Baden-Württemberg; Esslingen
+06438;Dreieich;63303;Hessen; Offenbach
+05758;Löhne;32584;Nordrhein-Westfalen; Herford
+03241;Laatzen;30880;Niedersachsen;Hannover
+12063;Falkensee;14612;Brandenburg; Havelland
+08116;Kirchheim unter Teck;73230;Baden-Württemberg; Esslingen
+10041;Völklingen;66333;Saarland; Regionalverband Saarbrücken
+05382;Siegburg;53721;Nordrhein-Westfalen; Rhein-Sieg-Kreis
+06431;Bensheim;64625;Hessen; Bergstraße
+03359;Buxtehude;21614;Niedersachsen; Stade
+16054;Suhl;98527;Freistaat Thüringen; Jena
+05158;Mettmann;40822;Nordrhein-Westfalen; Mettmann
+08119;Schorndorf;73614;Baden-Württemberg; Rems-Murr-Kreis
+05370;Hückelhoven;41836;Nordrhein-Westfalen; Heinsberg
+14628;Freital;01705;Freistaat Sachsen; Sächs. Schweiz-Osterzgebirge
+09373;Neumarkt;92318;Freistaat Bayern; Neumarkt
+14628;Pirna;01796;Freistaat Sachsen; Sächs. Schweiz-Osterzgebirge
+05554;Ahaus;48683;Nordrhein-Westfalen; Borken
+09565;Schwabach;91126;Freistaat Bayern; Nürnberg
+05170;Kamp-Lintfort;47475;Nordrhein-Westfalen; Wesel
+08215;Ettlingen;76275;Baden-Württemberg; Karlsruhe
+03353;Buchholz in der Nordheide;21244;Niedersachsen; Harburg
+06436;Hofheim am Taunus;65719;Hessen; Main-Taunus-Kreis
+14625;Hoyerswerda;02977;Freistaat Sachsen; Bautzen
+05570;Warendorf;48231;Nordrhein-Westfalen; Warendorf
+15085;Halberstadt;38820;Sachsen-Anhalt; Harz
+05562;Haltern am See;45721;Nordrhein-Westfalen; Recklinghausen
+06435;Maintal;63477;Hessen; Main-Kinzig-Kreis
+05170;Voerde;46562;Nordrhein-Westfalen; Wesel
+05334;Würselen;52146;Nordrhein-Westfalen; Leverkusen
+05962;Hemer;58675;Nordrhein-Westfalen; Märkischer Kreis
+05382;Niederkassel;53859;Nordrhein-Westfalen; Rhein-Sieg-Kreis
+10045;St. Ingbert;66386;Saarland; Saarpfalz-Kreis
+10044;Saarlouis;66740;Saarland; Saarlouis
+09179;Germering;82110;Freistaat Bayern; Fürstenfeldbruck
+08116;Leinfelden-Echterdingen;70771;Baden-Württemberg; Esslingen
+08127;Schwäbisch Hall;74523;Baden-Württemberg; Schwäbisch Hall
+05570;Beckum;59269;Nordrhein-Westfalen; Warendorf
+05558;Coesfeld;48653;Nordrhein-Westfalen; Coesfeld
+12060;Bernau bei Berlin;16321;Brandenburg; Barnim
+16064;Mühlhausen;99974;Freistaat Thüringen; Unstrut-Hainich-Kreis
+05166;Kempen;47906;Nordrhein-Westfalen; Viersen
+08116;Ostfildern;73760;Baden-Württemberg; Esslingen
+05566;Greven;48268;Nordrhein-Westfalen; Steinfurt
+05562;Datteln;45711;Nordrhein-Westfalen; Recklinghausen
+06438;Neu-Isenburg;63263;Hessen; Offenbach
+05378;Wermelskirchen;42929;Nordrhein-Westfalen; Rheinisch-Bergischer Kreis
+05566;Emsdetten;48282;Nordrhein-Westfalen; Steinfurt
+08226;Sinsheim;74889;Baden-Württemberg; Rhein-Neckar-Kreis
+15090;Stendal;39576;Sachsen-Anhalt; Stendal
+16077;Altenburg;04600;Freistaat Thüringen; Altenburger Land
+06438;Langen;63225;Hessen; Offenbach
+08119;Backnang;71522;Baden-Württemberg; Rems-Murr-Kreis
+05770;Porta Westfalica;32457;Nordrhein-Westfalen; Minden-Lübbecke
+05766;Lage;32791;Nordrhein-Westfalen; Lippe
+05362;Wesseling;50389;Nordrhein-Westfalen; Rhein-Erft-Kreis
+03454;Papenburg;26871;Niedersachsen; Emsland
+03454;Meppen;49716;Niedersachsen; Emsland
+08317;Kehl;77694;Baden-Württemberg; Ortenaukreis
+08327;Tuttlingen;78532;Baden-Württemberg; Tuttlingen
+12073;Schwedt/Oder;16303;Brandenburg; Uckermark
+09177;Erding;85435;Freistaat Bayern; Erding
+14627;Riesa;01589;Freistaat Sachsen; Meißen
+15088;Merseburg;06217;Sachsen-Anhalt; Saalekreis
+15089;Schönebeck;39218;Sachsen-Anhalt; Salzlandkreis
+03360;Uelzen;29525;Niedersachsen; Uelzen
+03457;Leer;26789;Niedersachsen; Leer
+07320;Zweibrücken;66482;Rheinland-Pfalz; Worms
+05566;Steinfurt;48565;Nordrhein-Westfalen; Steinfurt
+09179;Fürstenfeldbruck;82256;Freistaat Bayern; Fürstenfeldbruck
+05154;Goch;47574;Nordrhein-Westfalen; Kleve
+03353;Winsen;21423;Niedersachsen; Harburg
+08417;Balingen;72336;Baden-Württemberg; Zollernalbkreis
+06433;Mörfelden-Walldorf;64546;Hessen; Groß-Gerau
+15085;Wernigerode;38855;Sachsen-Anhalt; Harz
+05154;Geldern;47608;Nordrhein-Westfalen; Kleve
+12061;Königs Wusterhausen;15711;Brandenburg; Dahme-Spreewald
+03241;Barsinghausen;30890;Niedersachsen;Hannover
+14627;Radebeul;01445;Freistaat Sachsen; Meißen
+06533;Limburg a.d. Lahn;65549;Hessen; Limburg-Weilburg
+06438;Dietzenbach;63128;Hessen; Offenbach
+05358;Jülich;52428;Nordrhein-Westfalen; Düren
+05162;Korschenbroich;41352;Nordrhein-Westfalen; Rhein-Kreis Neuss
+08127;Crailsheim;74564;Baden-Württemberg; Schwäbisch Hall
+03241;Seelze;30926;Niedersachsen;Hannover
+06431;Viernheim;68519;Hessen; Bergstraße
+01061;Itzehoe;25524;Schleswig-Holstein; Steinburg
+12067;Fürstenwalde/Spree;15517;Brandenburg; Oder-Spree
+03453;Cloppenburg;49661;Niedersachsen; Cloppenburg
+08426;Biberach an der Riß;88400;Baden-Württemberg; Biberach
+01056;Wedel;22880;Schleswig-Holstein; Pinneberg
+08336;Rheinfelden;79618;Baden-Württemberg; Lörrach
+03256;Nienburg;31582;Niedersachsen; Nienburg
+03459;Georgsmarienhütte;49124;Niedersachsen; Osnabrück
+05974;Werl;59457;Nordrhein-Westfalen; Soest
+12067;Eisenhüttenstadt;15890;Brandenburg; Oder-Spree
+05954;Gevelsberg;58285;Nordrhein-Westfalen; Ennepe-Ruhr-Kreis
+05170;Rheinberg;47495;Nordrhein-Westfalen; Wesel
+06440;Bad Vilbel;61118;Hessen; Wetteraukreis
+12068;Neuruppin;16816;Brandenburg; Ostprignitz-Ruppin
+09271;Deggendorf;94469;Freistaat Bayern; Deggendorf
+05762;Höxter;37671;Nordrhein-Westfalen; Höxter
+08115;Herrenberg;71083;Baden-Württemberg; Böblingen
+03460;Vechta;49377;Niedersachsen; Vechta
+05958;Meschede;59872;Nordrhein-Westfalen; Hochsauerlandkreis
+06431;Lampertheim;68623;Hessen; Bergstraße
+05382;Lohmar;53797;Nordrhein-Westfalen; Rhein-Sieg-Kreis
+08118;Kornwestheim;70806;Baden-Württemberg; Ludwigsburg
+06440;Bad Nauheim;61231;Hessen; Wetteraukreis
+05970;Kreuztal;57223;Nordrhein-Westfalen; Siegen-Wittgenstein
+03459;Bramsche;49565;Niedersachsen; Osnabrück
+01062;Ahrensburg;22926;Schleswig-Holstein; Stormarn
+05954;Ennepetal;58256;Nordrhein-Westfalen; Ennepe-Ruhr-Kreis
+07134;Idar-Oberstein;55743;Rheinland-Pfalz; Birkenfeld
+08335;Radolfzell;78315;Baden-Württemberg; Konstanz
+10042;Merzig;66663;Saarland; Merzig-Wadern
+05562;Oer-Erkenschwick;45739;Nordrhein-Westfalen; Recklinghausen
+09474;Forchheim;91301;Freistaat Bayern; Forchheim
+03356;Osterholz-Scharmbeck;27711;Niedersachsen; Osterholz
+15089;Bernburg;06406;Sachsen-Anhalt; Salzlandkreis
+13053;Güstrow;18273;Mecklenburg-Vorpommern; Güstrow
+15087;Sangerhausen;06526;Sachsen-Anhalt; Mansfeld-Südharz
+05774;Delbrück;33129;Nordrhein-Westfalen; Paderborn
+05166;Tönisvorst;47918;Nordrhein-Westfalen; Viersen
+03361;Achim;28832;Niedersachsen; Verden
+05978;Werne;59368;Nordrhein-Westfalen; Unna
+06632;Bad Hersfeld;36251;Hessen; Hersfeld-Rotenburg
+03241;Burgdorf;31303;Niedersachsen;Hannover
+08336;Weil am Rhein;79576;Baden-Württemberg; Lörrach
+05562;Waltrop;45731;Nordrhein-Westfalen; Recklinghausen
+15084;Zeitz;06712;Sachsen-Anhalt; Burgenlandkreis
+03155;Northeim;37154;Niedersachsen; Northeim
+05154;Emmerich am Rhein;46446;Nordrhein-Westfalen; Kleve
+07137;Andernach;56626;Rheinland-Pfalz; Mayen-Koblenz
+08216;Bühl;77815;Baden-Württemberg; Rastatt
+05570;Oelde;59302;Nordrhein-Westfalen; Warendorf
+03241;Springe;31832;Niedersachsen;Hannover
+15089;Staßfurt;39418;Sachsen-Anhalt; Salzlandkreis
+01053;Geesthacht;21502;Schleswig-Holstein; Herzogtum Lauenburg
+05158;Haan;42781;Nordrhein-Westfalen; Mettmann
+05370;Wegberg;41844;Nordrhein-Westfalen; Heinsberg
+08216;Gaggenau;76571;Baden-Württemberg; Rastatt
+09771;Friedberg;86316;Freistaat Bayern; Aichach-Friedberg
+05954;Schwelm;58332;Nordrhein-Westfalen; Ennepe-Ruhr-Kreis
+15089;Aschersleben;06449;Sachsen-Anhalt; Salzlandkreis
+06439;Taunusstein;65232;Hessen; Rheingau-Taunus-Kreis
+05958;Sundern;59846;Nordrhein-Westfalen; Hochsauerlandkreis
+08118;Vaihingen an der Enz;71665;Baden-Württemberg; Ludwigsburg
+05754;Rietberg;33397;Nordrhein-Westfalen; Gütersloh
+14626;Zittau;02763;Freistaat Sachsen; Görlitz
+15084;Weißenfels;06667;Sachsen-Anhalt; Burgenlandkreis
+15082;Köthen;06366;Sachsen-Anhalt; Anhalt-Bitterfeld
+08215;Bretten;75015;Baden-Württemberg; Karlsruhe
+15084;Naumburg;06618;Sachsen-Anhalt; Burgenlandkreis
+05154;Kevelaer;47623;Nordrhein-Westfalen; Kleve
+05954;Wetter;58300;Nordrhein-Westfalen; Ennepe-Ruhr-Kreis
+01058;Rendsburg;24768;Schleswig-Holstein; Rendsburg-Eckernförde
+09185;Neuburg a.d.Donau;86633;Freistaat Bayern; Neuburg-Schrobenhausen
+05370;Geilenkirchen;52511;Nordrhein-Westfalen; Heinsberg
+05334;Baesweiler;52499;Nordrhein-Westfalen; Leverkusen
+06440;Friedberg;61169;Hessen; Wetteraukreis
+09181;Landsberg am Lech;86899;Freistaat Bayern; Landsberg am Lech
+09376;Schwandorf;92421;Freistaat Bayern; Schwandorf
+05170;Hamminkeln;46499;Nordrhein-Westfalen; Wesel
+14627;Meißen;01662;Freistaat Sachsen; Meißen
+06633;Baunatal;34225;Hessen; Kassel
+05170;Neukirchen-Vluyn;47506;Nordrhein-Westfalen; Wesel
+06436;Kelkheim;65779;Hessen; Main-Taunus-Kreis
+08119;Winnenden;71364;Baden-Württemberg; Rems-Murr-Kreis
+05378;Leichlingen;42799;Nordrhein-Westfalen; Rheinisch-Bergischer Kreis
+07131;Bad Neuenahr-Ahrweiler;53474;Rheinland-Pfalz; Ahrweiler
+05974;Warstein;59581;Nordrhein-Westfalen; Soest
+09772;Königsbrunn;86343;Freistaat Bayern; Augsburg
+08436;Wangen;88239;Baden-Württemberg; Ravensburg
+05966;Lennestadt;57368;Nordrhein-Westfalen; Olpe
+05366;Mechernich;53894;Nordrhein-Westfalen; Euskirchen
+08226;Leimen;69181;Baden-Württemberg; Rhein-Neckar-Kreis
+05978;Selm;59379;Nordrhein-Westfalen; Unna
+05378;Rösrath;51503;Nordrhein-Westfalen; Rheinisch-Bergischer Kreis
+05382;Rheinbach;53359;Nordrhein-Westfalen; Rhein-Sieg-Kreis
+03257;Rinteln;31737;Niedersachsen; Schaumburg
+05378;Overath;51491;Nordrhein-Westfalen; Rheinisch-Bergischer Kreis
+03461;Nordenham;26954;Niedersachsen; Wesermarsch
+08117;Geislingen an der Steige;73312;Baden-Württemberg; Göppingen
+16073;Saalfeld/Saale;07318;Freistaat Thüringen; Saalfeld-Rudolstadt
+03361;Verden;27283;Niedersachsen; Verden
+09477;Kulmbach;95326;Freistaat Bayern; Kulmbach
+12066;Senftenberg;01968;Brandenburg; Oberspreewald-Lausitz
+05158;Heiligenhaus;42579;Nordrhein-Westfalen; Mettmann
+03155;Einbeck;37574;Niedersachsen; Northeim
+08316;Emmendingen;79312;Baden-Württemberg; Emmendingen
+05962;Plettenberg;58840;Nordrhein-Westfalen; Märkischer Kreis
+08125;Neckarsulm;74172;Baden-Württemberg; Heilbronn
+06438;Mühlheim am Main;63165;Hessen; Offenbach
+09184;Unterschleißheim;85716;Freistaat Bayern; München
+14730;Delitzsch;04509;Freistaat Sachsen; Nordsachsen
+05958;Brilon;59929;Nordrhein-Westfalen; Hochsauerlandkreis
+08119;Weinstadt;71384;Baden-Württemberg; Rems-Murr-Kreis
+10046;St. Wendel;66606;Saarland; St. Wendel
+12064;Strausberg;15344;Brandenburg; Märkisch-Oderland
+06432;Griesheim;64347;Hessen; Darmstadt-Dieburg
+06438;Rödermark;63322;Hessen; Offenbach
+05754;Schloß Holte-Stukenbrock;33758;Nordrhein-Westfalen; Gütersloh
+09574;Lauf a.d.Pegnitz;91207;Freistaat Bayern; Nürnberger Land
+05770;Petershagen;32469;Nordrhein-Westfalen; Minden-Lübbecke
+16070;Ilmenau;98693;Freistaat Thüringen; Ilm-Kreis
+08226;Wiesloch;69168;Baden-Württemberg; Rhein-Neckar-Kreis
+03460;Lohne;49393;Niedersachsen; Vechta
+12065;Hennigsdorf;16761;Brandenburg; Oberhavel
+05770;Lübbecke;32312;Nordrhein-Westfalen; Minden-Lübbecke
+01062;Reinbek;21465;Schleswig-Holstein; Stormarn
+09573;Zirndorf;90513;Freistaat Bayern; Fürth
+08325;Rottweil;78628;Baden-Württemberg; Rottweil
+08237;Horb am Neckar;72160;Baden-Württemberg; Freudenstadt
+05374;Wiehl;51674;Nordrhein-Westfalen; Oberbergischer Kreis
+08425;Ehingen;89584;Baden-Württemberg; Alb-Donau-Kreis
+14524;Limbach-Oberfrohna;09212;Freistaat Sachsen; Zwickau
+05958;Schmallenberg;57392;Nordrhein-Westfalen; Hochsauerlandkreis
+12063;Rathenow;14712;Brandenburg; Havelland
+08236;Mühlacker;75417;Baden-Württemberg; Enzkreis
+05954;Sprockhövel;45549;Nordrhein-Westfalen; Ennepe-Ruhr-Kreis
+05966;Olpe;57462;Nordrhein-Westfalen; Olpe
+06436;Hattersheim am Main;65795;Hessen; Main-Taunus-Kreis
+06431;Heppenheim;64646;Hessen; Bergstraße
+05770;Espelkamp;32339;Nordrhein-Westfalen; Minden-Lübbecke
+16070;Arnstadt;99310;Freistaat Thüringen; Ilm-Kreis
+05382;Bad Honnef;53604;Nordrhein-Westfalen; Rhein-Sieg-Kreis
+03452;Norden;26506;Niedersachsen; Aurich
+06440;Butzbach;35510;Hessen; Wetteraukreis
+08317;Achern;77855;Baden-Württemberg; Ortenaukreis
+05370;Übach-Palenberg;52531;Nordrhein-Westfalen; Heinsberg
+05774;Salzkotten;33154;Nordrhein-Westfalen; Paderborn
+05954;Herdecke;58313;Nordrhein-Westfalen; Ennepe-Ruhr-Kreis
+05362;Bedburg;50181;Nordrhein-Westfalen; Rhein-Erft-Kreis
+05966;Attendorn;57439;Nordrhein-Westfalen; Olpe
+08136;Ellwangen;73479;Baden-Württemberg; Ostalbkreis
+12071;Spremberg;03130;Brandenburg; Spree-Neiße
+14524;Glauchau;08371;Freistaat Sachsen; Zwickau
+09776;Lindau;88131;Freistaat Bayern; Lindau
+03455;Varel;26316;Niedersachsen; Friesland
+15087;Eisleben;06295;Sachsen-Anhalt; Mansfeld-Südharz
+08225;Mosbach;74821;Baden-Württemberg; Neckar-Odenwald-Kreis
+06432;Pfungstadt;64319;Hessen; Darmstadt-Dieburg
+06434;Friedrichsdorf;61381;Hessen; Hochtaunuskreis
+08118;Ditzingen;71254;Baden-Württemberg; Ludwigsburg
+03152;Hann. Münden;34346;Niedersachsen; Göttingen
+09576;Roth;91154;Freistaat Bayern; Roth
+03251;Syke;28857;Niedersachsen; Diepholz
+15086;Burg;39288;Sachsen-Anhalt; Jerichower Land
+05382;Meckenheim;53340;Nordrhein-Westfalen; Rhein-Sieg-Kreis
+14729;Markkleeberg;04416;Freistaat Sachsen; Leipzig
+05970;Netphen;57250;Nordrhein-Westfalen; Siegen-Wittgenstein
+06432;Weiterstadt;64331;Hessen; Darmstadt-Dieburg
+01062;Bad Oldesloe;23843;Schleswig-Holstein; Stormarn
+05558;Lüdinghausen;59348;Nordrhein-Westfalen; Coesfeld
+12065;Hohen Neuendorf;16540;Brandenburg; Oberhavel
+07339;Bingen am Rhein;55411;Rheinland-Pfalz; Mainz-Bingen
+06438;Obertshausen;63179;Hessen; Offenbach
+03154;Helmstedt;38350;Niedersachsen; Helmstedt
+05754;Harsewinkel;33428;Nordrhein-Westfalen; Gütersloh
+09186;Pfaffenhofen;85276;Freistaat Bayern; Pfaffenhofen
+01059;Schleswig;24837;Schleswig-Holstein; Schleswig-Flensburg
+07339;Ingelheim am Rhein;55218;Rheinland-Pfalz; Mainz-Bingen
+16073;Rudolstadt;07407;Freistaat Thüringen; Saalfeld-Rudolstadt
+03358;Walsrode;29664;Niedersachsen; Soltau-Fallingbostel
+12072;Ludwigsfelde;14974;Brandenburg; Teltow-Fläming
+09183;Waldkraiburg;84478;Freistaat Bayern; Mühldorf a.Inn
+06635;Korbach;34497;Hessen; Waldeck-Frankenberg
+08128;Wertheim;97877;Baden-Württemberg; Main-Tauber-Kreis
+08436;Weingarten;88250;Baden-Württemberg; Ravensburg
+08237;Freudenstadt;72250;Baden-Württemberg; Freudenstadt
+03156;Osterode am Harz;37520;Niedersachsen; Osterode am Harz
+06532;Dillenburg;35683;Hessen; Lahn-Dill-Kreis
+05762;Warburg;34414;Nordrhein-Westfalen; Höxter
+08215;Stutensee;76297;Baden-Württemberg; Karlsruhe
+16065;Sondershausen;99706;Freistaat Thüringen; Kyffhäuserkreis
+05374;Wipperfürth;51688;Nordrhein-Westfalen; Oberbergischer Kreis
+09173;Geretsried;82538;Freistaat Bayern; Bad Tölz-Wolfratshausen
+08118;Remseck am Neckar;71686;Baden-Württemberg; Ludwigsburg
+08235;Calw;75365;Baden-Württemberg; Calw
+06433;Groß-Gerau;64521;Hessen; Groß-Gerau
+16071;Apolda;99510;Freistaat Thüringen; Weimarer Land
+03241;Ronnenberg;30952;Niedersachsen;Hannover
+06439;Idstein;65510;Hessen; Rheingau-Taunus-Kreis
+09188;Starnberg;82319;Freistaat Bayern; Starnberg
+12069;Werder;14542;Brandenburg; Potsdam-Mittelmark
+03454;Haren;49733;Niedersachsen; Emsland
+14524;Werdau;08412;Freistaat Sachsen; Zwickau
+08337;Waldshut-Tiengen;79761;Baden-Württemberg; Waldshut
+09572;Herzogenaurach;91074;Freistaat Bayern; Erlangen-Höchstadt
+03241;Sehnde;31319;Niedersachsen;Hannover
+05374;Radevormwald;42477;Nordrhein-Westfalen; Oberbergischer Kreis
+01058;Eckernförde;24340;Schleswig-Holstein; Rendsburg-Eckernförde
+08126;Öhringen;74613;Baden-Württemberg; Hohenlohekreis
+05554;Vreden;48691;Nordrhein-Westfalen; Borken
+08235;Nagold;72202;Baden-Württemberg; Calw
+16072;Sonneberg;96515;Freistaat Thüringen; Sonneberg
+08128;Bad Mergentheim;97980;Baden-Württemberg; Main-Tauber-Kreis
+05154;Rees;46459;Nordrhein-Westfalen; Kleve
+09775;Senden;89250;Freistaat Bayern; Neu-Ulm
+03257;Stadthagen;31655;Niedersachsen; Schaumburg
+05566;Lengerich;49525;Nordrhein-Westfalen; Steinfurt
+01054;Husum;25813;Schleswig-Holstein; Nordfriesland
+16076;Greiz;07973;Freistaat Thüringen; Greiz
+05978;Fröndenberg/Ruhr;58730;Nordrhein-Westfalen; Unna
+10045;Blieskastel;66440;Saarland; Saarpfalz-Kreis
+14521;Annaberg-Buchholz;09456;Freistaat Sachsen; Erzgebirgskreis
+03153;Bad Harzburg;38667;Niedersachsen; Goslar
+08436;Leutkirch;88299;Baden-Württemberg; Ravensburg
+08415;Metzingen;72555;Baden-Württemberg; Reutlingen
+03451;Westerstede;26655;Niedersachsen; Ammerland
+12069;Teltow;14513;Brandenburg; Potsdam-Mittelmark
+08226;Schwetzingen;68723;Baden-Württemberg; Rhein-Neckar-Kreis
+03152;Duderstadt;37115;Niedersachsen; Göttingen
+03357;Rotenburg;27356;Niedersachsen; Rotenburg
+03358;Soltau;29614;Niedersachsen; Soltau-Fallingbostel
+06440;Karben;61184;Hessen; Wetteraukreis
+08435;Überlingen;88662;Baden-Württemberg; Bodenseekreis
+06436;Bad Soden am Taunus;65812;Hessen; Main-Taunus-Kreis
+09190;Weilheim i.OB;82362;Freistaat Bayern; Weilheim-Schongau
+14627;Coswig;01640;Freistaat Sachsen; Meißen
+13055;Neustrelitz;17235;Mecklenburg-Vorpommern; Mecklenburg-Strelitz
+05170;Xanten;46509;Nordrhein-Westfalen; Wesel
+09772;Neusäß;86356;Freistaat Bayern; Augsburg
+05774;Büren;33142;Nordrhein-Westfalen; Paderborn
+06435;Gelnhausen;63571;Hessen; Main-Kinzig-Kreis
+05158;Wülfrath;42489;Nordrhein-Westfalen; Mettmann
+06433;Riedstadt;64560;Hessen; Groß-Gerau
+08325;Schramberg;78713;Baden-Württemberg; Rottweil
+06432;Groß-Umstadt;64823;Hessen; Darmstadt-Dieburg
+08125;Eppingen;75031;Baden-Württemberg; Heilbronn
+06440;Büdingen;63654;Hessen; Wetteraukreis
+15085;Quedlinburg;06484;Sachsen-Anhalt; Harz
+13056;Waren;17192;Mecklenburg-Vorpommern; Müritz
+14524;Crimmitschau;08451;Freistaat Sachsen; Zwickau
+06534;Stadtallendorf;35260;Hessen; Marburg-Biedenkopf
+08326;Donaueschingen;78166;Baden-Württemberg; Schwarzwald-Baar-Kreis
+08226;Hockenheim;68766;Baden-Württemberg; Rhein-Neckar-Kreis
+05958;Marsberg;34431;Nordrhein-Westfalen; Hochsauerlandkreis
+05754;Halle;33790;Nordrhein-Westfalen; Gütersloh
+05962;Meinerzhagen;58540;Nordrhein-Westfalen; Märkischer Kreis
+05754;Versmold;33775;Nordrhein-Westfalen; Gütersloh
+12071;Forst (Lausitz);03149;Brandenburg; Spree-Neiße
+10044;Dillingen/ Saar;66763;Saarland; Saarlouis
+14729;Borna;04552;Freistaat Sachsen; Leipzig
+09771;Aichach;86551;Freistaat Bayern; Aichach-Friedberg
+03462;Wittmund;26409;Niedersachsen; Wittmund
+09780;Sonthofen;87527;Freistaat Bayern; Oberallgäu
+03252;Bad Pyrmont;31812;Niedersachsen; Hameln-Pyrmont
+09675;Kitzingen;97318;Freistaat Bayern; Kitzingen
+09189;Traunreut;83301;Freistaat Bayern; Traunstein
+06532;Herborn;35745;Hessen; Lahn-Dill-Kreis
+03455;Schortens;26419;Niedersachsen; Friesland
+09672;Bad Kissingen;97688;Freistaat Bayern; Bad Kissingen
+06436;Eschborn;65760;Hessen; Main-Taunus-Kreis
+01051;Heide;25746;Schleswig-Holstein; Dithmarschen
+08316;Waldkirch;79183;Baden-Württemberg; Emmendingen
+16066;Meiningen;98617;Freistaat Thüringen; Schmalkalden-Meiningen
+05554;Stadtlohn;48703;Nordrhein-Westfalen; Borken
+05974;Geseke;59590;Nordrhein-Westfalen; Soest
+07334;Germersheim;76726;Rheinland-Pfalz; Germersheim
+09478;Lichtenfels;96215;Freistaat Bayern; Lichtenfels
+12072;Luckenwalde;14943;Brandenburg; Teltow-Fläming
+06435;Bruchköbel;63486;Hessen; Main-Kinzig-Kreis
+08125;Bad Rappenau;74906;Baden-Württemberg; Heilbronn
+08215;Waghäusel;68753;Baden-Württemberg; Karlsruhe
+08215;Rheinstetten;76287;Baden-Württemberg; Karlsruhe
+03453;Friesoythe;26169;Niedersachsen; Cloppenburg
+09772;Gersthofen;86368;Freistaat Bayern; Augsburg
+01056;Quickborn;25451;Schleswig-Holstein; Pinneberg
+03257;Bückeburg;31675;Niedersachsen; Schaumburg
+03153;Seesen;38723;Niedersachsen; Goslar
+14523;Reichenbach im Vogtland;08468;Freistaat Sachsen; Vogtlandkreis
+03241;Burgwedel;30938;Niedersachsen;Hannover
+03254;Alfeld;31061;Niedersachsen; Hildesheim
+14522;Döbeln;04720;Freistaat Sachsen; Mittelsachsen
+06438;Seligenstadt;63500;Hessen; Offenbach
+16066;Schmalkalden;98574;Freistaat Thüringen; Schmalkalden-Meiningen
+06436;Flörsheim am Main;65439;Hessen; Main-Taunus-Kreis
+14523;Auerbach;08209;Freistaat Sachsen; Vogtlandkreis
+03255;Holzminden;37603;Niedersachsen; Holzminden
+08117;Eislingen/ Fils;73054;Baden-Württemberg; Göppingen
+12073;Prenzlau;17291;Brandenburg; Uckermark
+05758;Enger;32130;Nordrhein-Westfalen; Herford
+08416;Mössingen;72116;Baden-Württemberg; Tübingen
+05366;Zülpich;53909;Nordrhein-Westfalen; Euskirchen
+10041;Püttlingen;66346;Saarland; Regionalverband Saarbrücken
+06636;Eschwege;37269;Hessen; Werra-Meißner-Kreis
+16068;Sömmerda;99610;Freistaat Thüringen; Sömmerda
+05970;Bad Berleburg;57319;Nordrhein-Westfalen; Siegen-Wittgenstein
+08317;Oberkirch;77704;Baden-Württemberg; Ortenaukreis
+05570;Ennigerloh;59320;Nordrhein-Westfalen; Warendorf
+14730;Torgau;04860;Freistaat Sachsen; Nordsachsen
+05566;Hörstel;48477;Nordrhein-Westfalen; Steinfurt
+08436;Bad Waldsee;88339;Baden-Württemberg; Ravensburg
+01060;Kaltenkirchen;24568;Schleswig-Holstein; Segeberg
+10044;Lebach;66822;Saarland; Saarlouis
+06435;Nidderau;61130;Hessen; Main-Kinzig-Kreis
+09371;Sulzbach-Rosenberg;92237;Freistaat Bayern; Amberg-Sulzbach
+05374;Bergneustadt;51702;Nordrhein-Westfalen; Oberbergischer Kreis
+16061;Leinefelde-Worbis;37327;Freistaat Thüringen; Eichsfeld
+08426;Laupheim;88471;Baden-Württemberg; Biberach
+01055;Bad Schwartau;23611;Schleswig-Holstein; Ostholstein
+12071;Guben;03172;Brandenburg; Spree-Neiße
+15081;Salzwedel;29410;Sachsen-Anhalt; Altmarkkreis Salzwedel
+14626;Weißwasser;02943;Freistaat Sachsen; Görlitz
+09774;Günzburg;89312;Freistaat Bayern; Günzburg
+05758;Vlotho;32602;Nordrhein-Westfalen; Herford
+08135;Giengen an der Brenz;89537;Baden-Württemberg; Heidenheim
+05566;Ochtrup;48607;Nordrhein-Westfalen; Steinfurt
+07338;Schifferstadt;67105;Rheinland-Pfalz; Rhein-Pfalz-Kreis
+05374;Waldbröl;51545;Nordrhein-Westfalen; Oberbergischer Kreis
+05554;Rhede;46414;Nordrhein-Westfalen; Borken
+06532;Haiger;35708;Hessen; Lahn-Dill-Kreis
+05570;Telgte;48291;Nordrhein-Westfalen; Warendorf
+15083;Oschersleben;39387;Sachsen-Anhalt; Börde
+08417;Hechingen;72379;Baden-Württemberg; Zollernalbkreis
+03252;Hessisch Oldendorf;31840;Niedersachsen; Hameln-Pyrmont
+05762;Bad Driburg;33014;Nordrhein-Westfalen; Höxter
+03458;Wildeshausen;27793;Niedersachsen; Oldenburg
+15083;Haldensleben;39340;Sachsen-Anhalt; Börde
+05962;Werdohl;58791;Nordrhein-Westfalen; Märkischer Kreis
+09779;Nördlingen;86720;Freistaat Bayern; Donau-Ries
+08118;Gerlingen;70839;Baden-Württemberg; Ludwigsburg
+08115;Weil der Stadt;71263;Baden-Württemberg; Böblingen
+08336;Schopfheim;79650;Baden-Württemberg; Lörrach
+14729;Grimma;04668;Freistaat Sachsen; Leipzig
+03358;Schneverdingen;29640;Niedersachsen; Soltau-Fallingbostel
+06635;Frankenberg;35066;Hessen; Waldeck-Frankenberg
+07332;Bad Dürkheim;67098;Rheinland-Pfalz; Bad Dürkheim
+08125;Bad Friedrichshall;74177;Baden-Württemberg; Heilbronn
+03357;Bremervörde;27432;Niedersachsen; Rotenburg
+09189;Traunstein;83278;Freistaat Bayern; Traunstein
+09671;Alzenau;63755;Freistaat Bayern; Aschaffenburg
+05378;Burscheid;51399;Nordrhein-Westfalen; Rheinisch-Bergischer Kreis
+05962;Altena;58762;Nordrhein-Westfalen; Märkischer Kreis
+07137;Mayen;56727;Rheinland-Pfalz; Mayen-Koblenz
+05366;Bad Münstereifel;53902;Nordrhein-Westfalen; Euskirchen
+12070;Wittenberge;19322;Brandenburg; Prignitz
+14521;Schwarzenberg;08340;Freistaat Sachsen; Erzgebirgskreis
+13060;Parchim;19370;Mecklenburg-Vorpommern; Parchim
+06634;Schwalmstadt;34613;Hessen; Schwalm-Eder-Kreis
+03241;Hemmingen;30966;Niedersachsen;Hannover
+08435;Tettnang;88069;Baden-Württemberg; Bodenseekreis
+08415;Pfullingen;72793;Baden-Württemberg; Reutlingen
+08118;Korntal-Münchingen;70825;Baden-Württemberg; Ludwigsburg
+03254;Sarstedt;31157;Niedersachsen; Hildesheim
+03352;Langen;27607;Niedersachsen; Cuxhaven
+01053;Mölln;23879;Schleswig-Holstein; Herzogtum Lauenburg
+01056;Schenefeld;22869;Schleswig-Holstein; Pinneberg
+05970;Freudenberg;57258;Nordrhein-Westfalen; Siegen-Wittgenstein
+14625;Radeberg;01454;Freistaat Sachsen; Bautzen
+08225;Buchen;74722;Baden-Württemberg; Neckar-Odenwald-Kreis
+08315;Müllheim;79379;Baden-Württemberg; Breisgau-Hochschwarzwald
+09773;Dillingen a.d.Donau;89407;Freistaat Bayern; Dillingen a.d.Donau
+10045;Bexbach;66450;Saarland; Saarpfalz-Kreis
+06633;Vellmar;34246;Hessen; Kassel
+06438;Heusenstamm;63150;Hessen; Offenbach
+09777;Marktoberdorf;87616;Freistaat Bayern; Ostallgäu
+09171;Burghausen;84489;Freistaat Bayern; Altötting
+09779;Donauwörth;86609;Freistaat Bayern; Donau-Ries
+16064;Bad Langensalza;99947;Freistaat Thüringen; Unstrut-Hainich-Kreis
+09187;Bad Aibling;83043;Freistaat Bayern; Rosenheim
+06531;Pohlheim;35415;Hessen; Gießen
+09279;Dingolfing;84130;Freistaat Bayern; Dingolfing-Landau
+07141;Lahnstein;56112;Rheinland-Pfalz; Rhein-Lahn-Kreis
+07235;Konz;54329;Rheinland-Pfalz; Trier-Saarburg
+09173;Wolfratshausen;82515;Freistaat Bayern; Bad Tölz-Wolfratshausen
+05766;Horn-Bad Meinberg;32805;Nordrhein-Westfalen; Lippe
+09183;Mühldorf a.Inn;84453;Freistaat Bayern; Mühldorf a.Inn
+09187;Kolbermoor;83059;Freistaat Bayern; Rosenheim
+07231;Wittlich;54516;Rheinland-Pfalz; Bernkastel-Wittlich
+07331;Alzey;55232;Rheinland-Pfalz; Alzey-Worms
+14730;Schkeuditz;04435;Freistaat Sachsen; Nordsachsen
+06440;Nidda;63667;Hessen; Wetteraukreis
+03252;Bad Münder am Deister;31848;Niedersachsen; Hameln-Pyrmont
+09173;Bad Tölz;83646;Freistaat Bayern; Bad Tölz-Wolfratshausen
+01056;Uetersen;25436;Schleswig-Holstein; Pinneberg
+12072;Zossen;15806;Brandenburg; Teltow-Fläming
+06434;Kronberg im Taunus;61476;Hessen; Hochtaunuskreis
+08437;Bad Saulgau;88348;Baden-Württemberg; Sigmaringen
+14521;Aue;08280;Freistaat Sachsen; Erzgebirgskreis
+09577;Weißenburg;91781;Freistaat Bayern; Weißenburg-Gunzenhausen
+08118;Sachsenheim;74343;Baden-Württemberg; Ludwigsburg
+12062;Finsterwalde;03238;Brandenburg; Elbe-Elster
+06439;Eltville am Rhein;65343;Hessen; Rheingau-Taunus-Kreis
+07131;Sinzig;53489;Rheinland-Pfalz; Ahrweiler
+10041;Sulzbach/ Saar;66280;Saarland; Regionalverband Saarbrücken
+09178;Moosburg a.d.Isar;85368;Freistaat Bayern; Freising
+09476;Kronach;96317;Freistaat Bayern; Kronach
+06635;Bad Wildungen;34537;Hessen; Waldeck-Frankenberg
+09172;Bad Reichenhall;83435;Freistaat Bayern; Berchtesgadener Land
+09479;Marktredwitz;95615;Freistaat Bayern; Wunsiedel
+05962;Kierspe;58566;Nordrhein-Westfalen; Märkischer Kreis
+07334;Wörth am Rhein;76744;Rheinland-Pfalz; Germersheim
+12066;Lauchhammer;01979;Brandenburg; Oberspreewald-Lausitz
+08115;Renningen;71272;Baden-Württemberg; Böblingen
+01055;Eutin;23701;Schleswig-Holstein; Ostholstein
+05370;Wassenberg;41849;Nordrhein-Westfalen; Heinsberg
+14625;Kamenz;01917;Freistaat Sachsen; Bautzen
+05554;Gescher;48712;Nordrhein-Westfalen; Borken
+07137;Bendorf;56170;Rheinland-Pfalz; Mayen-Koblenz
+06432;Reinheim;64354;Hessen; Darmstadt-Dieburg
+05762;Brakel;33034;Nordrhein-Westfalen; Höxter
+09573;Oberasbach;90522;Freistaat Bayern; Fürth
+09372;Cham;93413;Freistaat Bayern; Cham
+14729;Wurzen;04808;Freistaat Sachsen; Leipzig
+12066;Lübbenau;03222;Brandenburg; Oberspreewald-Lausitz
+05962;Halver;58553;Nordrhein-Westfalen; Märkischer Kreis
+06436;Hochheim am Main;65239;Hessen; Main-Taunus-Kreis
+14627;Großenhain;01558;Freistaat Sachsen; Meißen
+06435;Schlüchtern;36381;Hessen; Main-Kinzig-Kreis
+08337;Bad Säckingen;79713;Baden-Württemberg; Waldshut
+14730;Eilenburg;04838;Freistaat Sachsen; Nordsachsen
+05766;Oerlinghausen;33813;Nordrhein-Westfalen; Lippe
+16061;Heilbad Heiligenstadt;37308;Freistaat Thüringen; Eichsfeld
+06535;Alsfeld;36304;Hessen; Vogelsbergkreis
+08315;Bad Krozingen;79189;Baden-Württemberg; Breisgau-Hochschwarzwald
+15085;Thale;06502;Sachsen-Anhalt; Harz
+01055;Neustadt in Holstein;23730;Schleswig-Holstein; Ostholstein
+14626;Löbau;02708;Freistaat Sachsen; Görlitz
+08335;Stockach;78333;Baden-Württemberg; Konstanz
+06437;Michelstadt;64720;Hessen; Odenwaldkreis
+10042;Wadern;66687;Saarland; Merzig-Wadern
+03251;Diepholz;49356;Niedersachsen; Diepholz
+12063;Nauen;14641;Brandenburg; Havelland
+12073;Templin;17268;Brandenburg; Uckermark
+09775;Illertissen;89257;Freistaat Bayern; Neu-Ulm
+09772;Bobingen;86399;Freistaat Bayern; Augsburg
+03358;Munster;29633;Niedersachsen; Soltau-Fallingbostel
+03460;Damme;49401;Niedersachsen; Vechta
+08437;Sigmaringen;72488;Baden-Württemberg; Sigmaringen
+14628;Heidenau;01809;Freistaat Sachsen; Sächs. Schweiz-Osterzgebirge
+16076;Zeulenroda-Triebes;07937;Freistaat Thüringen; Greiz
+14524;Meerane;08393;Freistaat Sachsen; Zwickau
+09275;Vilshofen an der Donau;94474;Freistaat Bayern; Passau
+06635;Bad Arolsen;34454;Hessen; Waldeck-Frankenberg
+05766;Blomberg;32825;Nordrhein-Westfalen; Lippe
+01062;Glinde;21509;Schleswig-Holstein; Stormarn
+06534;Kirchhain;35274;Hessen; Marburg-Biedenkopf
+09190;Penzberg;82377;Freistaat Bayern; Weilheim-Schongau
+09577;Gunzenhausen;91710;Freistaat Bayern; Weißenburg-Gunzenhausen
+07131;Remagen;53424;Rheinland-Pfalz; Ahrweiler
+13057;Ribnitz-Damgarten;18311;Mecklenburg-Vorpommern; Nordvorpommern
+06432;Babenhausen;64832;Hessen; Darmstadt-Dieburg
+06631;Hünfeld;36088;Hessen; Fulda
+09479;Selb;95100;Freistaat Bayern; Wunsiedel
+09185;Schrobenhausen;86529;Freistaat Bayern; Neuburg-Schrobenhausen
+08116;Wendlingen am Neckar;73240;Baden-Württemberg; Esslingen
+16063;Bad Salzungen;36433;Freistaat Thüringen; Wartburgkreis
+09473;Neustadt b.Coburg;96465;Freistaat Bayern; Coburg
+14524;Hohenstein-Ernstthal;09337;Freistaat Sachsen; Zwickau
+03154;Königslutter am Elm;38154;Niedersachsen; Helmstedt
+03251;Bassum;27211;Niedersachsen; Diepholz
+09172;Freilassing;83395;Freistaat Bayern; Berchtesgadener Land
+07140;Boppard;56154;Rheinland-Pfalz; Rhein-Hunsrück-Kreis
+14522;Frankenberg;09669;Freistaat Sachsen; Mittelsachsen
+01060;Bad Segeberg;23795;Schleswig-Holstein; Segeberg
+09677;Lohr;97816;Freistaat Bayern; Main-Spessart
+01057;Preetz;24211;Schleswig-Holstein; Plön
+06633;Hofgeismar;34369;Hessen; Kassel
+05374;Hückeswagen;42499;Nordrhein-Westfalen; Oberbergischer Kreis
+15082;Sandersdorf-Brehna;06792;Sachsen-Anhalt; Anhalt-Bitterfeld
+06434;Königstein im Taunus;61462;Hessen; Hochtaunuskreis
+05770;Rahden;32369;Nordrhein-Westfalen; Minden-Lübbecke
+08118;Freiberg am Neckar;71691;Baden-Württemberg; Ludwigsburg
+05974;Erwitte;59597;Nordrhein-Westfalen; Soest
+03461;Brake;26919;Niedersachsen; Wesermarsch
+05970;Hilchenbach;57271;Nordrhein-Westfalen; Siegen-Wittgenstein
+14522;Mittweida;09648;Freistaat Sachsen; Mittelsachsen
+03457;Weener;26826;Niedersachsen; Leer
+15086;Genthin;39307;Sachsen-Anhalt; Jerichower Land
+09673;Bad Neustadt a.d.Saale;97616;Freistaat Bayern; Rhön-Grabfeld
+06431;Bürstadt;68642;Hessen; Bergstraße
+03456;Bad Bentheim;48455;Niedersachsen; Grafschaft Bentheim
+08118;Marbach am Neckar;71672;Baden-Württemberg; Ludwigsburg
+14521;Schneeberg;08289;Freistaat Sachsen; Erzgebirgskreis
+09273;Kelheim;93309;Freistaat Bayern; Kelheim
+14730;Oschatz;04758;Freistaat Sachsen; Nordsachsen
+05154;Straelen;47638;Nordrhein-Westfalen; Kleve
+09184;Garching;85748;Freistaat Bayern; München
+12068;Wittstock;16909;Brandenburg; Ostprignitz-Ruppin
+06636;Witzenhausen;37213;Hessen; Werra-Meißner-Kreis
+09574;Altdorf b.Nürnberg;90518;Freistaat Bayern; Nürnberger Land
+08117;Ebersbach an der Fils;73061;Baden-Württemberg; Göppingen
+05570;Drensteinfurt;48317;Nordrhein-Westfalen; Warendorf
+08327;Trossingen;78647;Baden-Württemberg; Tuttlingen
+08125;Brackenheim;74336;Baden-Württemberg; Heilbronn
+06432;Dieburg;64807;Hessen; Darmstadt-Dieburg
+05958;Olsberg;59939;Nordrhein-Westfalen; Hochsauerlandkreis
+05774;Bad Lippspringe;33175;Nordrhein-Westfalen; Paderborn
+01062;Bargteheide;22941;Schleswig-Holstein; Stormarn
+06432;Ober-Ramstadt;64372;Hessen; Darmstadt-Dieburg
+14729;Markranstädt;04420;Freistaat Sachsen; Leipzig
+08226;Eberbach;69412;Baden-Württemberg; Rhein-Neckar-Kreis
+05758;Spenge;32139;Nordrhein-Westfalen; Herford
+10043;Ottweiler;66564;Saarland; Neunkirchen
+01053;Schwarzenbek;21493;Schleswig-Holstein; Herzogtum Lauenburg
+09677;Karlstadt;97753;Freistaat Bayern; Main-Spessart
+08226;Schriesheim;69198;Baden-Württemberg; Rhein-Neckar-Kreis
+15085;Blankenburg;38889;Sachsen-Anhalt; Harz
+09275;Pocking;94060;Freistaat Bayern; Passau
+08215;Kraichtal;76703;Baden-Württemberg; Karlsruhe
+08126;Künzelsau;74653;Baden-Württemberg; Hohenlohekreis
+03155;Uslar;37170;Niedersachsen; Northeim
+06434;Neu-Anspach;61267;Hessen; Hochtaunuskreis
+06433;Raunheim;65479;Hessen; Groß-Gerau
+09772;Stadtbergen;86391;Freistaat Bayern; Augsburg
+08226;Walldorf;69190;Baden-Württemberg; Rhein-Neckar-Kreis
+08226;Eppelheim;69214;Baden-Württemberg; Rhein-Neckar-Kreis
+06436;Schwalbach am Taunus;65824;Hessen; Main-Taunus-Kreis
+08128;Lauda-Königshofen;97922;Baden-Württemberg; Main-Tauber-Kreis
+15082;Zerbst/Anhalt;39261;Sachsen-Anhalt; Anhalt-Bitterfeld
+03241;Gehrden;30989;Niedersachsen;Hannover
+15088;Leuna;06237;Sachsen-Anhalt; Saalekreis
+03153;Clausthal-Zellerfeld;38678;Niedersachsen; Goslar
+05970;Bad Laasphe;57334;Nordrhein-Westfalen; Siegen-Wittgenstein
+08415;Münsingen;72525;Baden-Württemberg; Reutlingen
+12073;Angermünde;16278;Brandenburg; Uckermark
+08325;Oberndorf am Neckar;78727;Baden-Württemberg; Rottweil
+08118;Markgröningen;71706;Baden-Württemberg; Ludwigsburg
+06634;Fritzlar;34560;Hessen; Schwalm-Eder-Kreis
+08436;Isny;88316;Baden-Württemberg; Ravensburg
+15087;Hettstedt;06333;Sachsen-Anhalt; Mansfeld-Südharz
+08216;Gernsbach;76593;Baden-Württemberg; Rastatt
+08315;Breisach am Rhein;79206;Baden-Württemberg; Breisgau-Hochschwarzwald
+08425;Langenau;89129;Baden-Württemberg; Alb-Donau-Kreis
+08436;Bad Wurzach;88410;Baden-Württemberg; Ravensburg
+14730;Taucha;04425;Freistaat Sachsen; Nordsachsen
+05762;Beverungen;37688;Nordrhein-Westfalen; Höxter
+06634;Homberg;34576;Hessen; Schwalm-Eder-Kreis
+05570;Sassenberg;48336;Nordrhein-Westfalen; Warendorf
+09777;Füssen;87629;Freistaat Bayern; Ostallgäu
+09780;Immenstadt;87509;Freistaat Bayern; Oberallgäu
+15091;Jessen;06917;Sachsen-Anhalt; Wittenberg
+06533;Bad Camberg;65520;Hessen; Limburg-Weilburg
+12061;Lübben;15907;Brandenburg; Dahme-Spreewald
+08116;Plochingen;73207;Baden-Württemberg; Esslingen
+13061;Bergen auf Rügen;18528;Mecklenburg-Vorpommern; Rügen
+12065;Zehdenick;16792;Brandenburg; Oberhavel
+09778;Mindelheim;87719;Freistaat Bayern; Unterallgäu
+03156;Herzberg am Harz;37412;Niedersachsen; Osterode am Harz
+09778;Bad Wörishofen;86825;Freistaat Bayern; Unterallgäu
+09273;Mainburg;84048;Freistaat Bayern; Kelheim
+06535;Lauterbach;36341;Hessen; Vogelsbergkreis
+08119;Murrhardt;71540;Baden-Württemberg; Rems-Murr-Kreis
+14628;Neustadt;01844;Freistaat Sachsen; Sächs. Schweiz-Osterzgebirge
+05154;Kalkar;47546;Nordrhein-Westfalen; Kleve
+03241;Pattensen;30982;Niedersachsen;Hannover
+08226;Neckargemünd;69151;Baden-Württemberg; Rhein-Neckar-Kreis
+06632;Bebra;36179;Hessen; Hersfeld-Rotenburg
+03455;Jever;26441;Niedersachsen; Friesland
+06531;Grünberg;35305;Hessen; Gießen
+09573;Stein;90547;Freistaat Bayern; Fürth
+09176;Eichstätt;85072;Freistaat Bayern; Eichstätt
+03254;Bad Salzdetfurth;31162;Niedersachsen; Hildesheim
+05958;Winterberg;59955;Nordrhein-Westfalen; Hochsauerlandkreis
+08117;Uhingen;73066;Baden-Württemberg; Göppingen
+09177;Dorfen;84405;Freistaat Bayern; Erding
+01053;Ratzeburg;23909;Schleswig-Holstein; Herzogtum Lauenburg
+01060;Bad Bramstedt;24576;Schleswig-Holstein; Segeberg
+06532;Aßlar;35614;Hessen; Lahn-Dill-Kreis
+14628;Wilsdruff;01723;Freistaat Sachsen; Sächs. Schweiz-Osterzgebirge
+06632;Rotenburg;36199;Hessen; Hersfeld-Rotenburg
+09472;Pegnitz;91257;Freistaat Bayern; Bayreuth
+01057;Schwentinental;24223;Schleswig-Holstein; Plön
+05358;Linnich;52441;Nordrhein-Westfalen; Düren
+06435;Bad Soden-Salmünster;63628;Hessen; Main-Kinzig-Kreis
+06634;Melsungen;34212;Hessen; Schwalm-Eder-Kreis
+05366;Schleiden;53937;Nordrhein-Westfalen; Euskirchen
+06532;Solms;35606;Hessen; Lahn-Dill-Kreis
+03357;Zeven;27404;Niedersachsen; Rotenburg
+14521;Marienberg;09496;Freistaat Sachsen; Erzgebirgskreis
+06433;Kelsterbach;65451;Hessen; Groß-Gerau
+06435;Langenselbold;63505;Hessen; Main-Kinzig-Kreis
+06531;Lich;35423;Hessen; Gießen
+09473;Rödental;96472;Freistaat Bayern; Coburg
+06437;Erbach;64711;Hessen; Odenwaldkreis
+09674;Haßfurt;97437;Freistaat Bayern; Haßberge
+03452;Wiesmoor;26639;Niedersachsen; Aurich
+05570;Sendenhorst;48324;Nordrhein-Westfalen; Warendorf
+06534;Biedenkopf;35216;Hessen; Marburg-Biedenkopf
+05762;Steinheim;32839;Nordrhein-Westfalen; Höxter
+09775;Weißenhorn;89264;Freistaat Bayern; Neu-Ulm
+06436;Eppstein;65817;Hessen; Main-Taunus-Kreis
+09772;Schwabmünchen;86830;Freistaat Bayern; Augsburg
+13059;Anklam;17389;Mecklenburg-Vorpommern; Ostvorpommern
+03453;Löningen;49624;Niedersachsen; Cloppenburg
+01051;Brunsbüttel;25541;Schleswig-Holstein; Dithmarschen
+06434;Usingen;61250;Hessen; Hochtaunuskreis
+08425;Erbach;89155;Baden-Württemberg; Alb-Donau-Kreis
+08326;St. Georgen im Schwarzwald;78112;Baden-Württemberg; Schwarzwald-Baar-Kreis
+09576;Hilpoltstein;91161;Freistaat Bayern; Roth
+06533;Weilburg;35781;Hessen; Limburg-Weilburg
+09572;Höchstadt a.d.Aisch;91315;Freistaat Bayern; Erlangen-Höchstadt
+08128;Tauberbischofsheim;97941;Baden-Württemberg; Main-Tauber-Kreis
+09775;Vöhringen;89269;Freistaat Bayern; Neu-Ulm
+08135;Herbrechtingen;89542;Baden-Württemberg; Heidenheim
+07332;Grünstadt;67269;Rheinland-Pfalz; Bad Dürkheim
+08118;Asperg;71679;Baden-Württemberg; Ludwigsburg
+08437;Pfullendorf;88630;Baden-Württemberg; Sigmaringen
+03351;Bergen;29303;Niedersachsen; Celle
+05770;Preußisch Oldendorf;32361;Nordrhein-Westfalen; Minden-Lübbecke
+06431;Lorsch;64653;Hessen; Bergstraße
+01055;Fehmarn;23769;Schleswig-Holstein; Ostholstein
+16075;Pößneck;07381;Freistaat Thüringen; Saale-Orla-Kreis
+12064;Bad Freienwalde;16259;Brandenburg; Märkisch-Oderland
+08326;Bad Dürrheim;78073;Baden-Württemberg; Schwarzwald-Baar-Kreis
+01056;Tornesch;25437;Schleswig-Holstein; Pinneberg
+06634;Borken;34582;Hessen; Schwalm-Eder-Kreis
+08435;Markdorf;88677;Baden-Württemberg; Bodenseekreis
+15081;Gardelegen;39638;Sachsen-Anhalt; Altmarkkreis Salzwedel
+03454;Haselünne;49740;Niedersachsen; Emsland
+08337;Wehr;79664;Baden-Württemberg; Waldshut
+01057;Plön;24306;Schleswig-Holstein; Plön
+06633;Wolfhagen;34466;Hessen; Kassel
+08215;Östringen;76684;Baden-Württemberg; Karlsruhe
+09277;Eggenfelden;84307;Freistaat Bayern; Rottal-Inn
+14524;Lichtenstein;09350;Freistaat Sachsen; Zwickau
+03459;Quakenbrück;49610;Niedersachsen; Osnabrück
+09577;Treuchtlingen;91757;Freistaat Bayern; Weißenburg-Gunzenhausen
+07232;Bitburg;54634;Rheinland-Pfalz; Eifelkreis Bitburg-Prüm
+09175;Grafing;85567;Freistaat Bayern; Ebersberg
+09273;Neustadt a.d.Donau;93333;Freistaat Bayern; Kelheim
+03460;Dinklage;49413;Niedersachsen; Vechta
+08115;Holzgerlingen;71088;Baden-Württemberg; Böblingen
+12072;Jüterbog;14913;Brandenburg; Teltow-Fläming
+12070;Pritzwalk;16928;Brandenburg; Prignitz
+03251;Sulingen;27232;Niedersachsen; Diepholz
+09271;Plattling;94447;Freistaat Bayern; Deggendorf
+09375;Neutraubling;93073;Freistaat Bayern; Regensburg
+06636;Hessisch Lichtenau;37235;Hessen; Werra-Meißner-Kreis
+09273;Abensberg;93326;Freistaat Bayern; Kelheim
+06531;Hungen;35410;Hessen; Gießen
+09171;Altötting;84503;Freistaat Bayern; Altötting
+09279;Landau a.d.Isar;94405;Freistaat Bayern; Dingolfing-Landau
+05334;Monschau;52156;Nordrhein-Westfalen; Leverkusen
+09774;Krumbach;86381;Freistaat Bayern; Günzburg
+15086;Möckern;39291;Sachsen-Anhalt; Jerichower Land
+08417;Burladingen;72393;Baden-Württemberg; Zollernalbkreis
+15091;Coswig;06869;Sachsen-Anhalt; Wittenberg
+12070;Perleberg;19348;Brandenburg; Prignitz
+07143;Montabaur;56410;Rheinland-Pfalz; Westerwaldkreis
+03251;Twistringen;27239;Niedersachsen; Diepholz
+08127;Gaildorf;74405;Baden-Württemberg; Schwäbisch Hall
+03153;Langelsheim;38685;Niedersachsen; Goslar
+08415;Bad Urach;72574;Baden-Württemberg; Reutlingen
+08215;Philippsburg;76661;Baden-Württemberg; Karlsruhe
+06435;Wächtersbach;63607;Hessen; Main-Kinzig-Kreis
+09376;Burglengenfeld;93133;Freistaat Bayern; Schwandorf
+13054;Ludwigslust;19288;Mecklenburg-Vorpommern; Ludwigslust
+09574;Hersbruck;91217;Freistaat Bayern; Nürnberger Land
+08327;Spaichingen;78549;Baden-Württemberg; Tuttlingen
+08116;Wernau;73249;Baden-Württemberg; Esslingen
+05774;Bad Wünnenberg;33181;Nordrhein-Westfalen; Paderborn
+03154;Schöningen;38364;Niedersachsen; Helmstedt
+08325;Sulz am Neckar;72172;Baden-Württemberg; Rottweil
+08136;Bopfingen;73441;Baden-Württemberg; Ostalbkreis
+05558;Olfen;59399;Nordrhein-Westfalen; Coesfeld
+14625;Bischofswerda;01877;Freistaat Sachsen; Bautzen
+06534;Gladenbach;35075;Hessen; Marburg-Biedenkopf
+08226;Hemsbach;69502;Baden-Württemberg; Rhein-Neckar-Kreis
+09187;Wasserburg a.Inn;83512;Freistaat Bayern; Rosenheim
+09575;Neustadt a.d.Aisch;91413;Freistaat Bayern; Neustadt a.d.Aisch-Bad Windsh.
+08317;Ettenheim;77955;Baden-Württemberg; Ortenaukreis
+06533;Hadamar;65589;Hessen; Limburg-Weilburg
+09571;Feuchtwangen;91555;Freistaat Bayern; Ansbach
+06531;Linden;35440;Hessen; Gießen
+05966;Drolshagen;57489;Nordrhein-Westfalen; Olpe
+15083;Wolmirstedt;39326;Sachsen-Anhalt; Börde
+05962;Neuenrade;58809;Nordrhein-Westfalen; Märkischer Kreis
+06440;Rosbach;61191;Hessen; Wetteraukreis
+09777;Buchloe;86807;Freistaat Bayern; Ostallgäu
+13052;Demmin;17109;Mecklenburg-Vorpommern; Demmin
+14521;Oelsnitz;09376;Freistaat Sachsen; Erzgebirgskreis
+15088;Braunsbedra;06242;Sachsen-Anhalt; Saalekreis
+16077;Schmölln;04626;Freistaat Thüringen; Altenburger Land
+09275;Hauzenberg;94051;Freistaat Bayern; Passau
+09190;Schongau;86956;Freistaat Bayern; Weilheim-Schongau
+08118;Steinheim an der Murr;71711;Baden-Württemberg; Ludwigsburg
+16069;Hildburghausen;98646;Freistaat Thüringen; Hildburghausen
+15088;Querfurt;06268;Sachsen-Anhalt; Saalekreis
+05962;Balve;58802;Nordrhein-Westfalen; Märkischer Kreis
+12069;Beelitz;14547;Brandenburg; Potsdam-Mittelmark
+13059;Wolgast;17438;Mecklenburg-Vorpommern; Ostvorpommern
+08315;Neuenburg am Rhein;79395;Baden-Württemberg; Breisgau-Hochschwarzwald
+08425;Blaubeuren;89143;Baden-Württemberg; Alb-Donau-Kreis
+14521;Stollberg;09366;Freistaat Sachsen; Erzgebirgskreis
+09574;Röthenbach a.d.Pegnitz;90552;Freistaat Bayern; Nürnberger Land
+13054;Hagenow;19230;Mecklenburg-Vorpommern; Ludwigslust
+03151;Wittingen;29378;Niedersachsen; Gifhorn
+09277;Pfarrkirchen;84347;Freistaat Bayern; Rottal-Inn
+09575;Bad Windsheim;91438;Freistaat Bayern; Neustadt a.d.Aisch-Bad Windsh.
+12065;Velten;16727;Brandenburg; Oberhavel
+09276;Regen;94209;Freistaat Bayern; Regen
+06439;Oestrich-Winkel;65375;Hessen; Rheingau-Taunus-Kreis
+08315;Titisee-Neustadt;79822;Baden-Württemberg; Breisgau-Hochschwarzwald
+16066;Zella-Mehlis;98544;Freistaat Thüringen; Schmalkalden-Meiningen
+08225;Walldürn;74731;Baden-Württemberg; Neckar-Odenwald-Kreis
+09271;Osterhofen;94486;Freistaat Bayern; Deggendorf
+08118;Besigheim;74354;Baden-Württemberg; Ludwigsburg
+12067;Erkner;15537;Brandenburg; Oder-Spree
+14522;Burgstädt;09217;Freistaat Sachsen; Mittelsachsen
+09189;Trostberg;83308;Freistaat Bayern; Traunstein
+06439;Geisenheim;65366;Hessen; Rheingau-Taunus-Kreis
+09672;Hammelburg;97762;Freistaat Bayern; Bad Kissingen
+03456;Schüttorf;48465;Niedersachsen; Grafschaft Bentheim
+08125;Weinsberg;74189;Baden-Württemberg; Heilbronn
+05558;Billerbeck;48727;Nordrhein-Westfalen; Coesfeld
+01061;Glückstadt;25348;Schleswig-Holstein; Steinburg
+14523;Oelsnitz;08606;Freistaat Sachsen; Vogtlandkreis
+08226;Ladenburg;68526;Baden-Württemberg; Rhein-Neckar-Kreis
+03459;Bad Iburg;49186;Niedersachsen; Osnabrück
+09274;Vilsbiburg;84137;Freistaat Bayern; Landshut
+03358;Bad Fallingbostel;29683;Niedersachsen; Soltau-Fallingbostel
+09372;Roding;93426;Freistaat Bayern; Cham
+05754;Werther;33824;Nordrhein-Westfalen; Gütersloh
+09571;Dinkelsbühl;91550;Freistaat Bayern; Ansbach
+16077;Meuselwitz;04610;Freistaat Thüringen; Altenburger Land
+13062;Pasewalk;17309;Mecklenburg-Vorpommern; Uecker-Randow
+09175;Ebersberg;85560;Freistaat Bayern; Ebersberg
+01053;Lauenburg/ Elbe;21481;Schleswig-Holstein; Herzogtum Lauenburg
+13051;Bad Doberan;18209;Mecklenburg-Vorpommern; Bad Doberan
+14521;Zwönitz;08297;Freistaat Sachsen; Erzgebirgskreis
+08317;Rheinau;77866;Baden-Württemberg; Ortenaukreis
+03156;Bad Lauterberg im Harz;37431;Niedersachsen; Osterode am Harz
+15086;Gommern;39245;Sachsen-Anhalt; Jerichower Land
+09679;Ochsenfurt;97199;Freistaat Bayern; Würzburg
+05554;Isselburg;46419;Nordrhein-Westfalen; Borken
+12069;Belzig;14806;Brandenburg; Potsdam-Mittelmark
+09776;Lindenberg;88161;Freistaat Bayern; Lindau
+15090;Osterburg;39606;Sachsen-Anhalt; Stendal
+09182;Miesbach;83714;Freistaat Bayern; Miesbach
+08317;Gengenbach;77723;Baden-Württemberg; Ortenaukreis
+14524;Wilkau-Haßlau;08112;Freistaat Sachsen; Zwickau
+08136;Lorch;73547;Baden-Württemberg; Ostalbkreis
+16074;Eisenberg;07607;Freistaat Thüringen; Saale-Holzland-Kreis
+08119;Welzheim;73642;Baden-Württemberg; Rems-Murr-Kreis
+09571;Rothenburg ob der Tauber;91541;Freistaat Bayern; Ansbach
+08125;Schwaigern;74193;Baden-Württemberg; Heilbronn
+14729;Frohburg;04654;Freistaat Sachsen; Leipzig
+05774;Lichtenau;33165;Nordrhein-Westfalen; Paderborn
+08235;Altensteig;72213;Baden-Württemberg; Calw
+15088;Bad Dürrenberg;06231;Sachsen-Anhalt; Saalekreis
+06532;Braunfels;35619;Hessen; Lahn-Dill-Kreis
+06535;Schotten;63679;Hessen; Vogelsbergkreis
+09475;Münchberg;95213;Freistaat Bayern; Hof
+08425;Laichingen;89150;Baden-Württemberg; Alb-Donau-Kreis
+06435;Steinau an der Straße;36396;Hessen; Main-Kinzig-Kreis
+10041;Friedrichsthal;66299;Saarland; Regionalverband Saarbrücken
+09677;Marktheidenfeld;97828;Freistaat Bayern; Main-Spessart
+08125;Lauffen am Neckar;74348;Baden-Württemberg; Heilbronn
+08117;Donzdorf;73072;Baden-Württemberg; Göppingen
+07137;Mülheim-Kärlich;56218;Rheinland-Pfalz; Mayen-Koblenz
+13058;Grevesmühlen;23936;Mecklenburg-Vorpommern; Nordwestmecklenburg
+03153;Vienenburg;38690;Niedersachsen; Goslar
+06439;Bad Schwalbach;65307;Hessen; Rheingau-Taunus-Kreis
+08417;Haigerloch;72401;Baden-Württemberg; Zollernalbkreis
+16067;Waltershausen;99880;Freistaat Thüringen; Gotha
+09773;Lauingen;89415;Freistaat Bayern; Dillingen a.d.Donau
+09677;Gemünden;97737;Freistaat Bayern; Main-Spessart
+05358;Nideggen;52385;Nordrhein-Westfalen; Düren
+14522;Brand-Erbisdorf;09618;Freistaat Sachsen; Mittelsachsen
+07141;Diez;65582;Rheinland-Pfalz; Rhein-Lahn-Kreis
+03254;Bockenem;31167;Niedersachsen; Hildesheim
+05974;Rüthen;59602;Nordrhein-Westfalen; Soest
+06634;Felsberg;34587;Hessen; Schwalm-Eder-Kreis
+13054;Boizenburg/ Elbe;19258;Mecklenburg-Vorpommern; Ludwigslust
+08235;Bad Wildbad;75323;Baden-Württemberg; Calw
+13057;Grimmen;18507;Mecklenburg-Vorpommern; Nordvorpommern
+08417;Meßstetten;72469;Baden-Württemberg; Zollernalbkreis
+09478;Bad Staffelstein;96231;Freistaat Bayern; Lichtenfels
+05766;Lügde;32676;Nordrhein-Westfalen; Lippe
+13061;Sassnitz;18546;Mecklenburg-Vorpommern; Rügen
+14521;Zschopau;09405;Freistaat Sachsen; Erzgebirgskreis
+03155;Bad Gandersheim;37581;Niedersachsen; Northeim
+09376;Maxhütte-Haidhof;93142;Freistaat Bayern; Schwandorf
+03257;Bad Nenndorf;31542;Niedersachsen; Schaumburg
+03256;Rehburg-Loccum;31547;Niedersachsen; Nienburg
+09272;Waldkirchen;94065;Freistaat Bayern; Freyung-Grafenau
+12066;Großräschen;01983;Brandenburg; Oberspreewald-Lausitz
+09573;Langenzenn;90579;Freistaat Bayern; Fürth
+03155;Dassel;37586;Niedersachsen; Northeim
+14628;Dippoldiswalde;01744;Freistaat Sachsen; Sächs. Schweiz-Osterzgebirge
+03357;Visselhövede;27374;Niedersachsen; Rotenburg
+08426;Riedlingen;88499;Baden-Württemberg; Biberach
+12061;Luckau;15926;Brandenburg; Dahme-Spreewald
+08115;Rutesheim;71277;Baden-Württemberg; Böblingen
+08326;Blumberg;78176;Baden-Württemberg; Schwarzwald-Baar-Kreis
+08335;Engen;78234;Baden-Württemberg; Konstanz
+14626;Niesky;02906;Freistaat Sachsen; Görlitz
+15089;Calbe;39240;Sachsen-Anhalt; Salzlandkreis
+01058;Büdelsdorf;24782;Schleswig-Holstein; Rendsburg-Eckernförde
+07132;Betzdorf;57518;Rheinland-Pfalz; Altenkirchen
+09278;Bogen;94327;Freistaat Bayern; Straubing-Bogen
+12062;Herzberg;04916;Brandenburg; Elbe-Elster
+13062;Ueckermünde;17373;Mecklenburg-Vorpommern; Uecker-Randow
+14521;Olbernhau;09526;Freistaat Sachsen; Erzgebirgskreis
+08136;Heubach;73540;Baden-Württemberg; Ostalbkreis
+12062;Bad Liebenwerda;04924;Brandenburg; Elbe-Elster
+06531;Laubach;35321;Hessen; Gießen
+06434;Steinbach;61449;Hessen; Hochtaunuskreis
+14522;Flöha;09557;Freistaat Sachsen; Mittelsachsen
+08437;Mengen;88512;Baden-Württemberg; Sigmaringen
+09186;Geisenfeld;85290;Freistaat Bayern; Pfaffenhofen
+08235;Wildberg;72218;Baden-Württemberg; Calw
+08316;Herbolzheim;79336;Baden-Württemberg; Emmendingen
+08117;Süßen;73079;Baden-Württemberg; Göppingen
+15082;Zörbig;06780;Sachsen-Anhalt; Anhalt-Bitterfeld
+15087;Mansfeld;06343;Sachsen-Anhalt; Mansfeld-Südharz
+09676;Erlenbach;63906;Freistaat Bayern; Miltenberg
+06531;Lollar;35457;Hessen; Gießen
+08436;Aulendorf;88326;Baden-Württemberg; Ravensburg
+06535;Schlitz;36110;Hessen; Vogelsbergkreis
+09276;Zwiesel;94227;Freistaat Bayern; Regen
+03459;Fürstenau;49584;Niedersachsen; Osnabrück
+14522;Penig;09322;Freistaat Sachsen; Mittelsachsen
+09277;Simbach a.Inn;84359;Freistaat Bayern; Rottal-Inn
+15085;Ilsenburg;38871;Sachsen-Anhalt; Harz
+06435;Bad Orb;63619;Hessen; Main-Kinzig-Kreis
+08116;Aichtal;72631;Baden-Württemberg; Esslingen
+01056;Barmstedt;25355;Schleswig-Holstein; Pinneberg
+03456;Neuenhaus;49828;Niedersachsen; Grafschaft Bentheim
+01055;Oldenburg in Holstein;23758;Schleswig-Holstein; Ostholstein
+12068;Kyritz;16866;Brandenburg; Ostprignitz-Ruppin
+01059;Kappeln;24376;Schleswig-Holstein; Schleswig-Flensburg
+06433;Gernsheim, Schöfferstadt;64579;Hessen; Groß-Gerau
+03355;Bleckede;21354;Niedersachsen; Lüneburg
+06439;Rüdesheim am Rhein;65385;Hessen; Rheingau-Taunus-Kreis
+14521;Lößnitz;08294;Freistaat Sachsen; Erzgebirgskreis
+08125;Neuenstadt am Kocher;74196;Baden-Württemberg; Heilbronn
+14729;Brandis;04821;Freistaat Sachsen; Leipzig
+09479;Wunsiedel;95632;Freistaat Bayern; Wunsiedel
+03354;Lüchow;29439;Niedersachsen; Lüchow-Dannenberg
+06533;Runkel;65594;Hessen; Limburg-Weilburg
+08116;Weilheim an der Teck;73235;Baden-Württemberg; Esslingen
+09475;Rehau;95111;Freistaat Bayern; Hof
+14625;Lauta;02991;Freistaat Sachsen; Bautzen
+07333;Eisenberg;67304;Rheinland-Pfalz; Donnersbergkreis
+13062;Torgelow;17358;Mecklenburg-Vorpommern; Uecker-Randow
+03257;Obernkirchen;31683;Niedersachsen; Schaumburg
+08235;Bad Liebenzell;75378;Baden-Württemberg; Calw
+06437;Bad König;64732;Hessen; Odenwaldkreis
+09676;Miltenberg;63897;Freistaat Bayern; Miltenberg
+05954;Breckerfeld;58339;Nordrhein-Westfalen; Ennepe-Ruhr-Kreis
+15090;Tangermünde;39590;Sachsen-Anhalt; Stendal
+12072;Trebbin;14959;Brandenburg; Teltow-Fläming
+03459;Dissen am Teutoburger Wald;49201;Niedersachsen; Osnabrück
+07143;Höhr-Grenzhausen;56203;Rheinland-Pfalz; Westerwaldkreis
+08326;Furtwangen im Schwarzwald;78120;Baden-Württemberg; Schwarzwald-Baar-Kreis
+06440;Niddatal;61194;Hessen; Wetteraukreis
+09774;Burgau;89331;Freistaat Bayern; Günzburg
+01054;Niebüll;25899;Schleswig-Holstein; Nordfriesland
+05566;Tecklenburg;49545;Nordrhein-Westfalen; Steinfurt
+12062;Doberlug-Kirchhain;03253;Brandenburg; Elbe-Elster
+01060;Wahlstedt;23812;Schleswig-Holstein; Segeberg
+01055;Heiligenhafen;23774;Schleswig-Holstein; Ostholstein
+08316;Kenzingen;79341;Baden-Württemberg; Emmendingen
+06534;Wetter;35083;Hessen; Marburg-Biedenkopf
+05762;Borgentreich;34434;Nordrhein-Westfalen; Höxter
+07141;Bad Ems;56130;Rheinland-Pfalz; Rhein-Lahn-Kreis
+09675;Volkach;97332;Freistaat Bayern; Kitzingen
+15091;Bad Schmiedeberg;06905;Sachsen-Anhalt; Wittenberg
+03461;Elsfleth;26931;Niedersachsen; Wesermarsch
+09377;Tirschenreuth;95643;Freistaat Bayern; Tirschenreuth
+09171;Töging a.Inn;84513;Freistaat Bayern; Altötting
+12067;Storkow;15859;Brandenburg; Oder-Spree
+06440;Ortenberg;63683;Hessen; Wetteraukreis
+12063;Premnitz;14727;Brandenburg; Havelland
+08316;Endingen am Kaiserstuhl;79346;Baden-Württemberg; Emmendingen
+03254;Elze;31008;Niedersachsen; Hildesheim
+06634;Gudensberg;34281;Hessen; Schwalm-Eder-Kreis
+09571;Heilsbronn;91560;Freistaat Bayern; Ansbach
+09372;Furth im Wald;93437;Freistaat Bayern; Cham
+05766;Barntrup;32683;Nordrhein-Westfalen; Lippe
+13053;Teterow;17166;Mecklenburg-Vorpommern; Güstrow
+16065;Bad Frankenhausen/Kyffhäuser;06567;Freistaat Thüringen; Kyffhäuserkreis
+15084;Hohenmölsen;06679;Sachsen-Anhalt; Burgenlandkreis
+09475;Helmbrechts;95233;Freistaat Bayern; Hof
+14522;Hainichen;09661;Freistaat Sachsen; Mittelsachsen
+07339;Nieder-Olm;55268;Rheinland-Pfalz; Mainz-Bingen
+14524;Kirchberg;08107;Freistaat Sachsen; Zwickau
+15088;Mücheln;06249;Sachsen-Anhalt; Saalekreis
+05766;Schieder-Schwalenberg;32816;Nordrhein-Westfalen; Lippe
+09371;Auerbach;91275;Freistaat Bayern; Amberg-Sulzbach
+12066;Vetschau;03226;Brandenburg; Oberspreewald-Lausitz
+09773;Wertingen;86637;Freistaat Bayern; Dillingen a.d.Donau
+06534;Neustadt;35279;Hessen; Marburg-Biedenkopf
+07131;Bad Breisig;53498;Rheinland-Pfalz; Ahrweiler
+08426;Ochsenhausen;88416;Baden-Württemberg; Biberach
+14523;Falkenstein;08223;Freistaat Sachsen; Vogtlandkreis
+12062;Elsterwerda;04910;Brandenburg; Elbe-Elster
+07132;Kirchen;57548;Rheinland-Pfalz; Altenkirchen
+14729;Zwenkau;04442;Freistaat Sachsen; Leipzig
+13057;Barth;18356;Mecklenburg-Vorpommern; Nordvorpommern
+12064;Altlandsberg;15345;Brandenburg; Märkisch-Oderland
+16075;Schleiz;07907;Freistaat Thüringen; Saale-Orla-Kreis
+12061;Mittenwalde;15749;Brandenburg; Dahme-Spreewald
+03352;Hemmoor;21745;Niedersachsen; Cuxhaven
+05754;Borgholzhausen;33829;Nordrhein-Westfalen; Gütersloh
+09176;Beilngries;92339;Freistaat Bayern; Eichstätt
+12066;Calau;03205;Brandenburg; Oberspreewald-Lausitz
+07137;Mendig;56743;Rheinland-Pfalz; Mayen-Koblenz
+08337;Laufenburg;79725;Baden-Württemberg; Waldshut
+06440;Florstadt;61197;Hessen; Wetteraukreis
+03360;Bad Bevensen;29549;Niedersachsen; Uelzen
+14523;Treuen;08233;Freistaat Sachsen; Vogtlandkreis
+09272;Grafenau;94481;Freistaat Bayern; Freyung-Grafenau
+07335;Landstuhl;66849;Rheinland-Pfalz; Kaiserslautern
+09676;Obernburg;63785;Freistaat Bayern; Miltenberg
+05762;Willebadessen;34439;Nordrhein-Westfalen; Höxter
+09373;Berching;92334;Freistaat Bayern; Neumarkt
+12068;Rheinsberg;16831;Brandenburg; Ostprignitz-Ruppin
+14628;Sebnitz;01855;Freistaat Sachsen; Sächs. Schweiz-Osterzgebirge
+14729;Naunhof;04683;Freistaat Sachsen; Leipzig
+09471;Hallstadt;96103;Freistaat Bayern; Bamberg
+14729;Bad Lausick;04651;Freistaat Sachsen; Leipzig
+09373;Freystadt;92342;Freistaat Bayern; Neumarkt
+09375;Hemau;93155;Freistaat Bayern; Regensburg
+08115;Waldenbuch;71111;Baden-Württemberg; Böblingen
+09779;Rain;86641;Freistaat Bayern; Donau-Ries
+01062;Reinfeld;23858;Schleswig-Holstein; Stormarn
+14522;Waldheim;04736;Freistaat Sachsen; Mittelsachsen
+06636;Bad Sooden-Allendorf;37242;Hessen; Werra-Meißner-Kreis
+08426;Bad Schussenried;88427;Baden-Württemberg; Biberach
+16074;Hermsdorf;07629;Freistaat Thüringen; Saale-Holzland-Kreis
+16075;Neustadt an der Orla;07806;Freistaat Thüringen; Saale-Orla-Kreis
+09275;Bad Griesbach i.Rottal;94086;Freistaat Bayern; Passau
+15082;Aken;06385;Sachsen-Anhalt; Anhalt-Bitterfeld
+15088;Bad Lauchstädt;06246;Sachsen-Anhalt; Saalekreis
+14523;Klingenthal;08248;Freistaat Sachsen; Vogtlandkreis
+09171;Neuötting;84524;Freistaat Bayern; Altötting
+09774;Ichenhausen;89335;Freistaat Bayern; Günzburg
+07334;Kandel;76870;Rheinland-Pfalz; Germersheim
+14730;Bad Düben;04849;Freistaat Sachsen; Nordsachsen
+08437;Meßkirch;88605;Baden-Württemberg; Sigmaringen
+09376;Nittenau;93149;Freistaat Bayern; Schwandorf
+07137;Vallendar;56179;Rheinland-Pfalz; Mayen-Koblenz
+07133;Kirn;55606;Rheinland-Pfalz; Bad Kreuznach
+15088;Landsberg;06188;Sachsen-Anhalt; Saalekreis
+09276;Viechtach;94234;Freistaat Bayern; Regen
+07331;Osthofen;67574;Rheinland-Pfalz; Alzey-Worms
+03155;Hardegsen;37181;Niedersachsen; Northeim
+07233;Daun;54550;Rheinland-Pfalz; Vulkaneifel
+12067;Beeskow;15848;Brandenburg; Oder-Spree
+03354;Dannenberg;29451;Niedersachsen; Lüchow-Dannenberg
+07132;Wissen;57537;Rheinland-Pfalz; Altenkirchen
+08118;Großbottwar;71723;Baden-Württemberg; Ludwigsburg
+09677;Arnstein;97450;Freistaat Bayern; Main-Spessart
+15085;Harzgerode;06493;Sachsen-Anhalt; Harz
+14729;Groitzsch;04539;Freistaat Sachsen; Leipzig
+09475;Naila;95119;Freistaat Bayern; Hof
+08125;Möckmühl;74219;Baden-Württemberg; Heilbronn
+06531;Staufenberg;35460;Hessen; Gießen
+08336;Kandern;79400;Baden-Württemberg; Lörrach
+13052;Malchin;17139;Mecklenburg-Vorpommern; Demmin
+14626;Ebersbach;02730;Freistaat Sachsen; Görlitz
+08136;Neresheim;73450;Baden-Württemberg; Ostalbkreis
+08317;Zell am Harmersbach;77736;Baden-Württemberg; Ortenaukreis
+09376;Neunburg vorm Wald;92431;Freistaat Bayern; Schwandorf
+08237;Dornstetten;72280;Baden-Württemberg; Freudenstadt
+06636;Sontra;36205;Hessen; Werra-Meißner-Kreis
+03459;Bersenbrück;49593;Niedersachsen; Osnabrück
+05958;Medebach;59964;Nordrhein-Westfalen; Hochsauerlandkreis
+12060;Werneuchen;16356;Brandenburg; Barnim
+14522;Hartha;04746;Freistaat Sachsen; Mittelsachsen
+12069;Treuenbrietzen;14929;Brandenburg; Potsdam-Mittelmark
+08226;Rauenberg;69231;Baden-Württemberg; Rhein-Neckar-Kreis
+08136;Oberkochen;73447;Baden-Württemberg; Ostalbkreis
+01061;Kellinghusen;25548;Schleswig-Holstein; Steinburg
+09672;Münnerstadt;97702;Freistaat Bayern; Bad Kissingen
+16076;Weida;07570;Freistaat Thüringen; Greiz
+15089;Könnern;06420;Sachsen-Anhalt; Salzlandkreis
+07333;Kirchheimbolanden;67292;Rheinland-Pfalz; Donnersbergkreis
+03156;Bad Sachsa;37441;Niedersachsen; Osterode am Harz
+08315;Löffingen;79843;Baden-Württemberg; Breisgau-Hochschwarzwald
+14625;Pulsnitz;01896;Freistaat Sachsen; Bautzen
+08216;Kuppenheim;76456;Baden-Württemberg; Rastatt
+07137;Weißenthurm;56575;Rheinland-Pfalz; Mayen-Koblenz
+13053;Bützow;18246;Mecklenburg-Vorpommern; Güstrow
+09773;Gundelfingen a.d.Donau;89423;Freistaat Bayern; Dillingen a.d.Donau
+12064;Wriezen;16269;Brandenburg; Märkisch-Oderland
+07140;Simmern;55469;Rheinland-Pfalz; Rhein-Hunsrück-Kreis
+08326;Hüfingen;78183;Baden-Württemberg; Schwarzwald-Baar-Kreis
+14523;Lengenfeld;08485;Freistaat Sachsen; Vogtlandkreis
+14627;Radeburg;01471;Freistaat Sachsen; Meißen
+09374;Vohenstrauß;92648;Freistaat Bayern; Neustadt a.d.Waldnaab
+06535;Homberg;35315;Hessen; Vogelsbergkreis
+07337;Bad Bergzabern;76887;Rheinland-Pfalz; Südliche Weinstraße
+07331;Wörrstadt;55286;Rheinland-Pfalz; Alzey-Worms
+14522;Oederan;09569;Freistaat Sachsen; Mittelsachsen
+08315;Staufen im Breisgau;79219;Baden-Württemberg; Breisgau-Hochschwarzwald
+09571;Herrieden;91567;Freistaat Bayern; Ansbach
+09274;Rottenburg a.d.Laaber;84056;Freistaat Bayern; Landshut
+08236;Knittlingen;75438;Baden-Württemberg; Enzkreis
+08236;Neuenbürg;75305;Baden-Württemberg; Enzkreis
+08118;Bönnigheim;74357;Baden-Württemberg; Ludwigsburg
+06440;Gedern;63688;Hessen; Wetteraukreis
+06632;Heringen;36266;Hessen; Hersfeld-Rotenburg
+16071;Bad Berka;99438;Freistaat Thüringen; Weimarer Land
+15089;Hecklingen;39444;Sachsen-Anhalt; Salzlandkreis
+15091;Gräfenhainichen;06773;Sachsen-Anhalt; Wittenberg
+08128;Weikersheim;97990;Baden-Württemberg; Main-Tauber-Kreis
+07335;Ramstein-Miesenbach;66877;Rheinland-Pfalz; Kaiserslautern
+15085;Ballenstedt;06493;Sachsen-Anhalt; Harz
+07233;Gerolstein;54568;Rheinland-Pfalz; Vulkaneifel
+16067;Friedrichroda;99894;Freistaat Thüringen; Gotha
+01051;Meldorf;25704;Schleswig-Holstein; Dithmarschen
+07143;Ransbach-Baumbach;56235;Rheinland-Pfalz; Westerwaldkreis
+08235;Bad Herrenalb;76332;Baden-Württemberg; Calw
+09376;Teublitz;93158;Freistaat Bayern; Schwandorf
+09475;Schwarzenbach a.d.Saale;95126;Freistaat Bayern; Hof
+09372;Bad Kötzting;93444;Freistaat Bayern; Cham
+09674;Ebern;96106;Freistaat Bayern; Haßberge
+08317;Renchen;77871;Baden-Württemberg; Ortenaukreis
+06634;Neukirchen;34626;Hessen; Schwalm-Eder-Kreis
+07340;Rodalben;66976;Rheinland-Pfalz; Südwestpfalz
+06437;Breuberg;64747;Hessen; Odenwaldkreis
+09572;Baiersdorf;91083;Freistaat Bayern; Erlangen-Höchstadt
+16074;Kahla;07768;Freistaat Thüringen; Saale-Holzland-Kreis
+12062;Falkenberg;04895;Brandenburg; Elbe-Elster
+14627;Gröditz;01609;Freistaat Sachsen; Meißen
+06635;Waldeck;34513;Hessen; Waldeck-Frankenberg
+08125;Gundelsheim;74831;Baden-Württemberg; Heilbronn
+14628;Glashütte;01768;Freistaat Sachsen; Sächs. Schweiz-Osterzgebirge
+03155;Moringen;37186;Niedersachsen; Northeim
+14521;Lugau;09385;Freistaat Sachsen; Erzgebirgskreis
+14627;Nossen;01683;Freistaat Sachsen; Meißen
+12064;Müncheberg;15374;Brandenburg; Märkisch-Oderland
+16073;Bad Blankenburg;07422;Freistaat Thüringen; Saalfeld-Rudolstadt
+08425;Schelklingen;89601;Baden-Württemberg; Alb-Donau-Kreis
+09186;Vohburg a.d.Donau;85088;Freistaat Bayern; Pfaffenhofen
+13051;Kühlungsborn;18225;Mecklenburg-Vorpommern; Bad Doberan
+12065;Kremmen;16766;Brandenburg; Oberhavel
+15090;Havelberg;39539;Sachsen-Anhalt; Stendal
+03352;Otterndorf;21762;Niedersachsen; Cuxhaven
+07339;Oppenheim;55276;Rheinland-Pfalz; Mainz-Bingen
+09377;Waldsassen;95652;Freistaat Bayern; Tirschenreuth
+09471;Scheßlitz;96110;Freistaat Bayern; Bamberg
+15083;Oebisfelde;39646;Sachsen-Anhalt; Börde
+14523;Rodewisch;08228;Freistaat Sachsen; Vogtlandkreis
+09576;Greding;91171;Freistaat Bayern; Roth
+08128;Boxberg;97944;Baden-Württemberg; Main-Tauber-Kreis
+06633;Immenhausen;34376;Hessen; Kassel
+14522;Roßwein;04741;Freistaat Sachsen; Mittelsachsen
+09372;Waldmünchen;93449;Freistaat Bayern; Cham
+08316;Elzach;79215;Baden-Württemberg; Emmendingen
+09272;Freyung;94078;Freistaat Bayern; Freyung-Grafenau
+08317;Haslach im Kinzigtal;77716;Baden-Württemberg; Ortenaukreis
+14521;Thalheim;09380;Freistaat Sachsen; Erzgebirgskreis
+09675;Dettelbach;97337;Freistaat Bayern; Kitzingen
+07132;Herdorf;57562;Rheinland-Pfalz; Altenkirchen
+03462;Esens;26427;Niedersachsen; Wittmund
+09673;Bad Königshofen i.Grabfeld;97631;Freistaat Bayern; Rhön-Grabfeld
+06636;Großalmerode;37247;Hessen; Werra-Meißner-Kreis
+14625;Großröhrsdorf;01900;Freistaat Sachsen; Bautzen
+14729;Böhlen;04564;Freistaat Sachsen; Leipzig
+08337;Bonndorf im Schwarzwald;79848;Baden-Württemberg; Waldshut
+09377;Mitterteich;95666;Freistaat Bayern; Tirschenreuth
+13056;Malchow;17213;Mecklenburg-Vorpommern; Müritz
+07337;Annweiler am Trifels;76855;Rheinland-Pfalz; Südliche Weinstraße
+06635;Volkmarsen;34471;Hessen; Waldeck-Frankenberg
+09672;Bad Brückenau;97769;Freistaat Bayern; Bad Kissingen
+08125;Bad Wimpfen;74206;Baden-Württemberg; Heilbronn
+09474;Ebermannstadt;91320;Freistaat Bayern; Forchheim
+15089;Seeland;06469;Sachsen-Anhalt; Salzlandkreis
+07134;Birkenfeld;55765;Rheinland-Pfalz; Birkenfeld
+09278;Geiselhöring;94333;Freistaat Bayern; Straubing-Bogen
+06440;Reichelsheim;61203;Hessen; Wetteraukreis
+16062;Bleicherode;99752;Freistaat Thüringen; Nordhausen
+06431;Zwingenberg;64673;Hessen; Bergstraße
+06633;Zierenberg;34289;Hessen; Kassel
+09374;Grafenwöhr;92655;Freistaat Bayern; Neustadt a.d.Waldnaab
+09478;Burgkunstadt;96224;Freistaat Bayern; Lichtenfels
+09774;Leipheim;89340;Freistaat Bayern; Günzburg
+13054;Neustadt-Glewe;19306;Mecklenburg-Vorpommern; Ludwigslust
+07235;Schweich;54338;Rheinland-Pfalz; Trier-Saarburg
+14523;Markneukirchen;08258;Freistaat Sachsen; Vogtlandkreis
+09773;Höchstädt a.d.Donau;89420;Freistaat Bayern; Dillingen a.d.Donau
+08236;Maulbronn;75433;Baden-Württemberg; Enzkreis
+16071;Blankenhain;99444;Freistaat Thüringen; Weimarer Land
+05762;Nieheim;33039;Nordrhein-Westfalen; Höxter
+06437;Beerfelden;64743;Hessen; Odenwaldkreis
+08237;Alpirsbach;72275;Baden-Württemberg; Freudenstadt
+07337;Edenkoben;67480;Rheinland-Pfalz; Südliche Weinstraße
+09172;Laufen;83410;Freistaat Bayern; Berchtesgadener Land
+09373;Parsberg;92331;Freistaat Bayern; Neumarkt
+13055;Friedland;17098;Mecklenburg-Vorpommern; Mecklenburg-Strelitz
+08425;Dietenheim;89165;Baden-Württemberg; Alb-Donau-Kreis
+09678;Gerolzhofen;97447;Freistaat Bayern; Schweinfurt
+07231;Bernkastel-Kues;54470;Rheinland-Pfalz; Bernkastel-Wittlich
+07339;Gau-Algesheim;55435;Rheinland-Pfalz; Mainz-Bingen
+14522;Leisnig;04703;Freistaat Sachsen; Mittelsachsen
+05566;Horstmar;48612;Nordrhein-Westfalen; Steinfurt
+08437;Gammertingen;72501;Baden-Württemberg; Sigmaringen
+07137;Polch;56751;Rheinland-Pfalz; Mayen-Koblenz
+08415;Trochtelfingen;72818;Baden-Württemberg; Reutlingen
+08225;Osterburken;74706;Baden-Württemberg; Neckar-Odenwald-Kreis
+08417;Rosenfeld;72348;Baden-Württemberg; Zollernalbkreis
+07133;Bad Sobernheim;55566;Rheinland-Pfalz; Bad Kreuznach
+16075;Bad Lobenstein;07356;Freistaat Thüringen; Saale-Orla-Kreis
+09371;Vilseck;92249;Freistaat Bayern; Amberg-Sulzbach
+14524;Oberlungwitz;09353;Freistaat Sachsen; Zwickau
+12063;Ketzin;14669;Brandenburg; Havelland
+07235;Saarburg;54439;Rheinland-Pfalz; Trier-Saarburg
+14522;Rochlitz;09306;Freistaat Sachsen; Mittelsachsen
+12065;Fürstenberg;16798;Brandenburg; Oberhavel
+14521;Grünhain-Beierfeld;08344;Freistaat Sachsen; Erzgebirgskreis
+09473;Bad Rodach;96476;Freistaat Bayern; Coburg
+13060;Lübz;19386;Mecklenburg-Vorpommern; Parchim
+08126;Neuenstein;74632;Baden-Württemberg; Hohenlohekreis
+01058;Nortorf;24589;Schleswig-Holstein; Rendsburg-Eckernförde
+06634;Spangenberg;34286;Hessen; Schwalm-Eder-Kreis
+14628;Dohna;01809;Freistaat Sachsen; Sächs. Schweiz-Osterzgebirge
+08127;Ilshofen;74532;Baden-Württemberg; Schwäbisch Hall
+12066;Schwarzheide;01987;Brandenburg; Oberspreewald-Lausitz
+16063;Ruhla;99842;Freistaat Thüringen; Wartburgkreis
+08116;Neuffen;72639;Baden-Württemberg; Esslingen
+14521;Eibenstock;08309;Freistaat Sachsen; Erzgebirgskreis
+08325;Dornhan;72175;Baden-Württemberg; Rottweil
+09676;Klingenberg;63911;Freistaat Bayern; Miltenberg
+09575;Uffenheim;97215;Freistaat Bayern; Neustadt a.d.Aisch-Bad Windsh.
+03257;Rodenberg;31552;Niedersachsen; Schaumburg
+08125;Beilstein;71717;Baden-Württemberg; Heilbronn
+08125;Güglingen;74363;Baden-Württemberg; Heilbronn
+16074;Stadtroda;07646;Freistaat Thüringen; Saale-Holzland-Kreis
+09376;Nabburg;92507;Freistaat Bayern; Schwandorf
+08326;Bräunlingen;78199;Baden-Württemberg; Schwarzwald-Baar-Kreis
+08315;Heitersheim;79423;Baden-Württemberg; Breisgau-Hochschwarzwald
+14625;Bernsdorf;02994;Freistaat Sachsen; Bautzen
+09183;Neumarkt-Sankt Veit;84494;Freistaat Bayern; Mühldorf a.Inn
+08327;Geisingen;78187;Baden-Württemberg; Tuttlingen
+09373;Dietfurt a.d.Altmühl;92345;Freistaat Bayern; Neumarkt
+12065;Gransee;16775;Brandenburg; Oberhavel
+07132;Altenkirchen;57610;Rheinland-Pfalz; Altenkirchen
+09189;Tittmoning;84529;Freistaat Bayern; Traunstein
+09571;Windsbach;91575;Freistaat Bayern; Ansbach
+08417;Geislingen;72351;Baden-Württemberg; Zollernalbkreis
+09371;Hirschau;92242;Freistaat Bayern; Amberg-Sulzbach
+14625;Wittichenau;02997;Freistaat Sachsen; Bautzen
+06633;Grebenstein;34393;Hessen; Kassel
+08336;Zell im Wiesental;79669;Baden-Württemberg; Lörrach
+12071;Drebkau;03116;Brandenburg; Spree-Neiße
+14522;Großschirma;09603;Freistaat Sachsen; Mittelsachsen
+09571;Wassertrüdingen;91717;Freistaat Bayern; Ansbach
+09774;Thannhausen;86470;Freistaat Bayern; Günzburg
+14626;Neugersdorf;02727;Freistaat Sachsen; Görlitz
+06631;Gersfeld;36129;Hessen; Fulda
+13052;Stavenhagen, Reuterstadt;17153;Mecklenburg-Vorpommern; Demmin
+01059;Glücksburg;24960;Schleswig-Holstein; Schleswig-Flensburg
+07231;Traben-Trarbach;56841;Rheinland-Pfalz; Bernkastel-Wittlich
+13052;Altentreptow;17087;Mecklenburg-Vorpommern; Demmin
+12062;Uebigau-Wahrenbrück;04938;Brandenburg; Elbe-Elster
+08127;Schrozberg;74575;Baden-Württemberg; Schwäbisch Hall
+09374;Neustadt a.d.Waldnaab;92660;Freistaat Bayern; Neustadt a.d.Waldnaab
+14628;Bad Gottleuba-Berggießhübel;01816;Freistaat Sachsen; Sächs. Schweiz-Osterzgebirge
+15085;Falkenstein/Harz;06463;Sachsen-Anhalt; Harz
+09673;Mellrichstadt;97638;Freistaat Bayern; Rhön-Grabfeld
+14729;Geithain;04643;Freistaat Sachsen; Leipzig
+01051;Marne;25709;Schleswig-Holstein; Dithmarschen
+14628;Stolpen;01833;Freistaat Sachsen; Sächs. Schweiz-Osterzgebirge
+06532;Leun;35638;Hessen; Lahn-Dill-Kreis
+13054;Grabow;19300;Mecklenburg-Vorpommern; Ludwigslust
+07138;Dierdorf;56269;Rheinland-Pfalz; Neuwied
+07138;Linz am Rhein;53545;Rheinland-Pfalz; Neuwied
+08317;Wolfach;77709;Baden-Württemberg; Ortenaukreis
+16065;Artern/Unstrut;06556;Freistaat Thüringen; Kyffhäuserkreis
+03452;Norderney;26548;Niedersachsen; Aurich
+08317;Hausach;77756;Baden-Württemberg; Ortenaukreis
+16062;Ellrich;99755;Freistaat Thüringen; Nordhausen
+16067;Ohrdruf;99885;Freistaat Thüringen; Gotha
+07138;Bad Hönningen;53557;Rheinland-Pfalz; Neuwied
+08126;Ingelfingen;74653;Baden-Württemberg; Hohenlohekreis
+13060;Plau am See;19395;Mecklenburg-Vorpommern; Parchim
+09471;Schlüsselfeld;96132;Freistaat Bayern; Bamberg
+13058;Gadebusch;19205;Mecklenburg-Vorpommern; Nordwestmecklenburg
+09674;Zeil;97475;Freistaat Bayern; Haßberge
+08226;Waibstadt;74915;Baden-Württemberg; Rhein-Neckar-Kreis
+07143;Hachenburg;57627;Rheinland-Pfalz; Westerwaldkreis
+14628;Altenberg;01773;Freistaat Sachsen; Sächs. Schweiz-Osterzgebirge
+14625;Wilthen;02681;Freistaat Sachsen; Bautzen
+16074;Dornburg-Camburg;07774;Freistaat Thüringen; Saale-Holzland-Kreis
+08315;Vogtsburg im Kaiserstuhl;79235;Baden-Württemberg; Breisgau-Hochschwarzwald
+08235;Haiterbach;72221;Baden-Württemberg; Calw
+16063;Treffurt;99830;Freistaat Thüringen; Wartburgkreis
+03255;Bodenwerder;37619;Niedersachsen; Holzminden
+09479;Arzberg;95659;Freistaat Bayern; Wunsiedel
+07235;Hermeskeil;54411;Rheinland-Pfalz; Trier-Saarburg
+13053;Laage;18299;Mecklenburg-Vorpommern; Güstrow
+07143;Bad Marienberg;56470;Rheinland-Pfalz; Westerwaldkreis
+16069;Eisfeld;98673;Freistaat Thüringen; Hildburghausen
+08435;Meersburg;88709;Baden-Württemberg; Bodenseekreis
+16065;Roßleben;06571;Freistaat Thüringen; Kyffhäuserkreis
+14729;Kitzscher;04567;Freistaat Sachsen; Leipzig
+09779;Wemding;86650;Freistaat Bayern; Donau-Ries
+09273;Riedenburg;93339;Freistaat Bayern; Kelheim
+03255;Stadtoldendorf;37627;Niedersachsen; Holzminden
+12064;Seelow;15306;Brandenburg; Märkisch-Oderland
+06440;Münzenberg;35516;Hessen; Wetteraukreis
+14521;Thum;09419;Freistaat Sachsen; Erzgebirgskreis
+09571;Leutershausen;91578;Freistaat Bayern; Ansbach
+12060;Biesenthal;16359;Brandenburg; Barnim
+08235;Neubulach;75387;Baden-Württemberg; Calw
+07143;Westerburg;56457;Rheinland-Pfalz; Westerwaldkreis
+16068;Kölleda;99625;Freistaat Thüringen; Sömmerda
+13062;Strasburg;17335;Mecklenburg-Vorpommern; Uecker-Randow
+06635;Battenberg;35088;Hessen; Waldeck-Frankenberg
+08128;Külsheim;97900;Baden-Württemberg; Main-Tauber-Kreis
+09779;Harburg;86655;Freistaat Bayern; Donau-Ries
+14627;Lommatzsch;01623;Freistaat Sachsen; Meißen
+14628;Tharandt;01737;Freistaat Sachsen; Sächs. Schweiz-Osterzgebirge
+09576;Abenberg;91183;Freistaat Bayern; Roth
+16072;Neuhaus am Rennweg;98724;Freistaat Thüringen; Sonneberg
+09376;Pfreimd;92536;Freistaat Bayern; Schwandorf
+08236;Heimsheim;71296;Baden-Württemberg; Enzkreis
+03158;Schöppenstedt;38170;Niedersachsen; Wolfenbüttel
+16069;Schleusingen;98553;Freistaat Thüringen; Hildburghausen
+15090;Tangerhütte;39517;Sachsen-Anhalt; Stendal
+07334;Hagenbach;76767;Rheinland-Pfalz; Germersheim
+07333;Rockenhausen;67806;Rheinland-Pfalz; Donnersbergkreis
+16066;Steinbach-Hallenberg;98587;Freistaat Thüringen; Schmalkalden-Meiningen
+12072;Dahme/Mark;15936;Brandenburg; Teltow-Fläming
+14523;Adorf;08626;Freistaat Sachsen; Vogtlandkreis
+01057;Lütjenburg;24321;Schleswig-Holstein; Plön
+06635;Diemelstadt;34474;Hessen; Waldeck-Frankenberg
+06634;Niedenstein;34305;Hessen; Schwalm-Eder-Kreis
+09377;Erbendorf;92681;Freistaat Bayern; Tirschenreuth
+09472;Pottenstein;91278;Freistaat Bayern; Bayreuth
+05762;Marienmünster;37696;Nordrhein-Westfalen; Höxter
+08225;Adelsheim;74740;Baden-Württemberg; Neckar-Odenwald-Kreis
+14626;Rothenburg;02929;Freistaat Sachsen; Görlitz
+06633;Trendelburg;34388;Hessen; Kassel
+15091;Kemberg;06901;Sachsen-Anhalt; Wittenberg
+07232;Prüm;54595;Rheinland-Pfalz; Eifelkreis Bitburg-Prüm
+06633;Naumburg;34311;Hessen; Kassel
+09374;Windischeschenbach;92670;Freistaat Bayern; Neustadt a.d.Waldnaab
+03254;Gronau;31028;Niedersachsen; Hildesheim
+09377;Kemnath;95478;Freistaat Bayern; Tirschenreuth
+13062;Eggesin;17367;Mecklenburg-Vorpommern; Uecker-Randow
+09674;Eltmann;97483;Freistaat Bayern; Haßberge
+15085;Elbingerode;38875;Sachsen-Anhalt; Harz
+13056;Röbel/Müritz;17207;Mecklenburg-Vorpommern; Müritz
+08128;Niederstetten;97996;Baden-Württemberg; Main-Tauber-Kreis
+09373;Velburg;92355;Freistaat Bayern; Neumarkt
+16076;Ronneburg;07580;Freistaat Thüringen; Greiz
+07335;Otterberg;67697;Rheinland-Pfalz; Kaiserslautern
+06534;Amöneburg;35287;Hessen; Marburg-Biedenkopf
+03457;Borkum;26757;Niedersachsen; Leer
+16073;Königsee;07426;Freistaat Thüringen; Saalfeld-Rudolstadt
+08125;Neudenau;74861;Baden-Württemberg; Heilbronn
+15083;Wanzleben;39164;Sachsen-Anhalt; Börde
+15084;Bad Kösen;06628;Sachsen-Anhalt; Burgenlandkreis
+09472;Hollfeld;96142;Freistaat Bayern; Bayreuth
+08337;Stühlingen;79780;Baden-Württemberg; Waldshut
+03454;Freren;49832;Niedersachsen; Emsland
+13051;Schwaan;18258;Mecklenburg-Vorpommern; Bad Doberan
+07140;Kastellaun;56288;Rheinland-Pfalz; Rhein-Hunsrück-Kreis
+14521;Ehrenfriedersdorf;09427;Freistaat Sachsen; Erzgebirgskreis
+07143;Wirges;56422;Rheinland-Pfalz; Westerwaldkreis
+06431;Lindenfels;64678;Hessen; Bergstraße
+15084;Freyburg;06632;Sachsen-Anhalt; Burgenlandkreis
+09779;Oettingen;86732;Freistaat Bayern; Donau-Ries
+15081;Klötze;38486;Sachsen-Anhalt; Altmarkkreis Salzwedel
+09576;Spalt;91174;Freistaat Bayern; Roth
+13055;Burg Stargard;17094;Mecklenburg-Vorpommern; Mecklenburg-Strelitz
+08216;Lichtenau;77839;Baden-Württemberg; Rastatt
+09674;Hofheim;97461;Freistaat Bayern; Haßberge
+08126;Forchtenberg;74670;Baden-Württemberg; Hohenlohekreis
+07332;Freinsheim;67251;Rheinland-Pfalz; Bad Dürkheim
+14522;Augustusburg;09573;Freistaat Sachsen; Mittelsachsen
+07138;Unkel;53572;Rheinland-Pfalz; Neuwied
+01054;Bredstedt;25821;Schleswig-Holstein; Nordfriesland
+07135;Cochem;56812;Rheinland-Pfalz; Cochem-Zell
+08336;Todtnau;79674;Baden-Württemberg; Lörrach
+06535;Herbstein;36358;Hessen; Vogelsbergkreis
+16070;Stadtilm;99326;Freistaat Thüringen; Ilm-Kreis
+08425;Munderkingen;89597;Baden-Württemberg; Alb-Donau-Kreis
+03354;Hitzacker;29456;Niedersachsen; Lüchow-Dannenberg
+09779;Monheim;86653;Freistaat Bayern; Donau-Ries
+08326;Triberg im Schwarzwald;78098;Baden-Württemberg; Schwarzwald-Baar-Kreis
+09676;Wörth;63939;Freistaat Bayern; Miltenberg
+14524;Hartenstein;08118;Freistaat Sachsen; Zwickau
+01054;Tönning;25832;Schleswig-Holstein; Nordfriesland
+07336;Kusel;66869;Rheinland-Pfalz; Kusel
+09376;Oberviechtach;92526;Freistaat Bayern; Schwandorf
+13054;Wittenburg;19243;Mecklenburg-Vorpommern; Ludwigslust
+08317;Oppenau;77728;Baden-Württemberg; Ortenaukreis
+14729;Colditz;04680;Freistaat Sachsen; Leipzig
+14522;Lunzenau;09328;Freistaat Sachsen; Mittelsachsen
+14730;Belgern;04874;Freistaat Sachsen; Nordsachsen
+09673;Bischofsheim;97653;Freistaat Bayern; Rhön-Grabfeld
+09475;Schwarzenbach;95131;Freistaat Bayern; Hof
+13051;Kröpelin;18236;Mecklenburg-Vorpommern; Bad Doberan
+13057;Marlow;18337;Mecklenburg-Vorpommern; Nordvorpommern
+14521;Lauter;08312;Freistaat Sachsen; Erzgebirgskreis
+03153;Braunlage;38700;Niedersachsen; Goslar
+14521;Johanngeorgenstadt;08349;Freistaat Sachsen; Erzgebirgskreis
+14730;Dahlen;04774;Freistaat Sachsen; Nordsachsen
+09478;Weismain;96260;Freistaat Bayern; Lichtenfels
+16063;Geisa;36419;Freistaat Thüringen; Wartburgkreis
+08126;Krautheim;74238;Baden-Württemberg; Hohenlohekreis
+14523;Elsterberg;07985;Freistaat Sachsen; Vogtlandkreis
+09576;Heideck;91180;Freistaat Bayern; Roth
+08128;Creglingen;97993;Baden-Württemberg; Main-Tauber-Kreis
+07141;Nassau;56377;Rheinland-Pfalz; Rhein-Lahn-Kreis
+08135;Niederstotzingen;89168;Baden-Württemberg; Heidenheim
+14522;Geringswalde;09326;Freistaat Sachsen; Mittelsachsen
+13052;Dargun;17159;Mecklenburg-Vorpommern; Demmin
+16061;Dingelstädt;37351;Freistaat Thüringen; Eichsfeld
+09472;Creußen;95473;Freistaat Bayern; Bayreuth
+12071;Peitz;03185;Brandenburg; Spree-Neiße
+09575;Scheinfeld;91443;Freistaat Bayern; Neustadt a.d.Aisch-Bad Windsh.
+06636;Waldkappel;37284;Hessen; Werra-Meißner-Kreis
+13060;Crivitz;19089;Mecklenburg-Vorpommern; Parchim
+08317;Mahlberg;77972;Baden-Württemberg; Ortenaukreis
+14729;Pegau;04523;Freistaat Sachsen; Leipzig
+08417;Schömberg;72355;Baden-Württemberg; Zollernalbkreis
+13054;Zarrentin am Schaalsee;19246;Mecklenburg-Vorpommern; Ludwigslust
+09472;Gefrees;95482;Freistaat Bayern; Bayreuth
+08335;Tengen;78250;Baden-Württemberg; Konstanz
+07332;Wachenheim an der Weinstraße;67157;Rheinland-Pfalz; Bad Dürkheim
+08136;Lauchheim;73466;Baden-Württemberg; Ostalbkreis
+13061;Putbus;18581;Mecklenburg-Vorpommern; Rügen
+09472;Bad Berneck;95460;Freistaat Bayern; Bayreuth
+13054;Lübtheen;19249;Mecklenburg-Vorpommern; Ludwigslust
+07340;Dahn;66994;Rheinland-Pfalz; Südwestpfalz
+08226;Schönau;69250;Baden-Württemberg; Rhein-Neckar-Kreis
+09475;Selbitz;95152;Freistaat Bayern; Hof
+14628;Rabenau;01734;Freistaat Sachsen; Sächs. Schweiz-Osterzgebirge
+06432;Groß-Bieberau;64401;Hessen; Darmstadt-Dieburg
+14521;Lengefeld;09514;Freistaat Sachsen; Erzgebirgskreis
+06631;Tann;36142;Hessen; Fulda
+14625;Königsbrück;01936;Freistaat Sachsen; Bautzen
+06534;Rauschenberg;35282;Hessen; Marburg-Biedenkopf
+12067;Müllrose;15299;Brandenburg; Oder-Spree
+05358;Heimbach;52396;Nordrhein-Westfalen; Düren
+09374;Pressath;92690;Freistaat Bayern; Neustadt a.d.Waldnaab
+14730;Mügeln;04769;Freistaat Sachsen; Nordsachsen
+09377;Waldershof;95679;Freistaat Bayern; Tirschenreuth
+16063;Berka/Werra;99837;Freistaat Thüringen; Wartburgkreis
+05958;Hallenberg;59969;Nordrhein-Westfalen; Hochsauerlandkreis
+13060;Sternberg;19406;Mecklenburg-Vorpommern; Parchim
+09375;Wörth a.d.Donau;93086;Freistaat Bayern; Regensburg
+01054;Wyk auf Föhr;25938;Schleswig-Holstein; Nordfriesland
+12065;Liebenwalde;16559;Brandenburg; Oberhavel
+01061;Wilster;25554;Schleswig-Holstein; Steinburg
+09675;Iphofen;97346;Freistaat Bayern; Kitzingen
+14524;Waldenburg;08396;Freistaat Sachsen; Zwickau
+13058;Schönberg;23923;Mecklenburg-Vorpommern; Nordwestmecklenburg
+12062;Mühlberg/Elbe;04931;Brandenburg; Elbe-Elster
+16072;Steinach;96523;Freistaat Thüringen; Sonneberg
+08127;Kirchberg an der Jagst;74592;Baden-Württemberg; Schwäbisch Hall
+08127;Gerabronn;74582;Baden-Württemberg; Schwäbisch Hall
+08317;Hornberg;78132;Baden-Württemberg; Ortenaukreis
+14626;Seifhennersdorf;02782;Freistaat Sachsen; Görlitz
+08127;Vellberg;74541;Baden-Württemberg; Schwäbisch Hall
+13052;Loitz;17121;Mecklenburg-Vorpommern; Demmin
+06636;Wanfried;37281;Hessen; Werra-Meißner-Kreis
+12072;Baruth/Mark;15837;Brandenburg; Teltow-Fläming
+09371;Schnaittenbach;92253;Freistaat Bayern; Amberg-Sulzbach
+16077;Lucka;04613;Freistaat Thüringen; Altenburger Land
+07141;Nastätten;56355;Rheinland-Pfalz; Rhein-Lahn-Kreis
+07135;Zell;56856;Rheinland-Pfalz; Cochem-Zell
+09374;Eschenbach;92676;Freistaat Bayern; Neustadt a.d.Waldnaab
+15089;Barby;39249;Sachsen-Anhalt; Salzlandkreis
+14729;Trebsen/Mulde;04687;Freistaat Sachsen; Leipzig
+15084;Lützen;06686;Sachsen-Anhalt; Burgenlandkreis
+14523;Netzschkau;08491;Freistaat Sachsen; Vogtlandkreis
+06635;Lichtenfels;35104;Hessen; Waldeck-Frankenberg
+14729;Regis-Breitingen;04565;Freistaat Sachsen; Leipzig
+14521;Wolkenstein;09429;Freistaat Sachsen; Erzgebirgskreis
+16067;Tambach-Dietharz;99897;Freistaat Thüringen; Gotha
+15091;Zahna;06895;Sachsen-Anhalt; Wittenberg
+03152;Dransfeld;37127;Niedersachsen; Göttingen
+09577;Pappenheim;91788;Freistaat Bayern; Weißenburg-Gunzenhausen
+15089;Nienburg;06429;Sachsen-Anhalt; Salzlandkreis
+14626;Reichenbach;02894;Freistaat Sachsen; Görlitz
+09473;Seßlach;96145;Freistaat Bayern; Coburg
+06531;Allendorf;35469;Hessen; Gießen
+07134;Baumholder;55774;Rheinland-Pfalz; Birkenfeld
+09474;Gräfenberg;91322;Freistaat Bayern; Forchheim
+13051;Neubukow;18231;Mecklenburg-Vorpommern; Bad Doberan
+15081;Kalbe;39624;Sachsen-Anhalt; Altmarkkreis Salzwedel
+16064;Schlotheim;99994;Freistaat Thüringen; Unstrut-Hainich-Kreis
+13058;Dassow;23942;Mecklenburg-Vorpommern; Nordwestmecklenburg
+08426;Bad Buchau;88422;Baden-Württemberg; Biberach
+13058;Neukloster;23992;Mecklenburg-Vorpommern; Nordwestmecklenburg
+06635;Gemünden;35285;Hessen; Waldeck-Frankenberg
+09471;Baunach;96148;Freistaat Bayern; Bamberg
+12071;Welzow;03119;Brandenburg; Spree-Neiße
+14627;Strehla;01616;Freistaat Sachsen; Meißen
+13051;Tessin;18195;Mecklenburg-Vorpommern; Bad Doberan
+16063;Bad Liebenstein;36448;Freistaat Thüringen; Wartburgkreis
+07140;Rheinböllen;55494;Rheinland-Pfalz; Rhein-Hunsrück-Kreis
+09676;Amorbach;63916;Freistaat Bayern; Miltenberg
+09182;Tegernsee;83684;Freistaat Bayern; Miesbach
+08325;Schiltach;77761;Baden-Württemberg; Rottweil
+08126;Niedernhall;74676;Baden-Württemberg; Hohenlohekreis
+16075;Tanna;07922;Freistaat Thüringen; Saale-Orla-Kreis
+12066;Ruhland;01945;Brandenburg; Oberspreewald-Lausitz
+14729;Rötha;04571;Freistaat Sachsen; Leipzig
+15090;Seehausen;39615;Sachsen-Anhalt; Stendal
+14524;Wildenfels;08134;Freistaat Sachsen; Zwickau
+14626;Bad Muskau;02953;Freistaat Sachsen; Görlitz
+08128;Freudenberg;97896;Baden-Württemberg; Main-Tauber-Kreis
+14729;Nerchau;04685;Freistaat Sachsen; Leipzig
+08337;St. Blasien;79837;Baden-Württemberg; Waldshut
+14521;Geyer;09468;Freistaat Sachsen; Erzgebirgskreis
+08326;Vöhrenbach;78147;Baden-Württemberg; Schwarzwald-Baar-Kreis
+07332;Lambrecht;67466;Rheinland-Pfalz; Bad Dürkheim
+15083;Gröningen;39397;Sachsen-Anhalt; Börde
+07133;Bad Münster am Stein-Ebernburg;55583;Rheinland-Pfalz; Bad Kreuznach
+08226;Neckarbischofsheim;74924;Baden-Württemberg; Rhein-Neckar-Kreis
+14523;Bad Elster;08645;Freistaat Sachsen; Vogtlandkreis
+06439;Lorch;65391;Hessen; Rheingau-Taunus-Kreis
+06633;Bad Karlshafen;34385;Hessen; Kassel
+13056;Penzlin;17217;Mecklenburg-Vorpommern; Müritz
+14626;Bernstadt a. d. Eigen;02748;Freistaat Sachsen; Görlitz
+15089;Güsten;39439;Sachsen-Anhalt; Salzlandkreis
+16077;Gößnitz;04639;Freistaat Thüringen; Altenburger Land
+13055;Woldegk;17348;Mecklenburg-Vorpommern; Mecklenburg-Strelitz
+16075;Saalburg-Ebersdorf;07929;Freistaat Thüringen; Saale-Orla-Kreis
+06431;Neckarsteinach;69239;Hessen; Bergstraße
+16065;Greußen;99718;Freistaat Thüringen; Kyffhäuserkreis
+07143;Rennerod;56477;Rheinland-Pfalz; Westerwaldkreis
+15089;Egeln;39435;Sachsen-Anhalt; Salzlandkreis
+16072;Lauscha;98724;Freistaat Thüringen; Sonneberg
+16075;Triptis;07819;Freistaat Thüringen; Saale-Orla-Kreis
+08128;Grünsfeld;97947;Baden-Württemberg; Main-Tauber-Kreis
+07332;Deidesheim;67146;Rheinland-Pfalz; Bad Dürkheim
+16076;Bad Köstritz;07586;Freistaat Thüringen; Greiz
+03256;Hoya;27318;Niedersachsen; Nienburg
+15087;Kelbra;06537;Sachsen-Anhalt; Mansfeld-Südharz
+15085;Gernrode;06507;Sachsen-Anhalt; Harz
+09674;Königsberg;97486;Freistaat Bayern; Haßberge
+15085;Osterwieck;38835;Sachsen-Anhalt; Harz
+07140;Kirchberg;55481;Rheinland-Pfalz; Rhein-Hunsrück-Kreis
+14626;Neusalza-Spremberg;02742;Freistaat Sachsen; Görlitz
+16063;Vacha;36404;Freistaat Thüringen; Wartburgkreis
+14523;Pausa;07952;Freistaat Sachsen; Vogtlandkreis
+09472;Goldkronach;95497;Freistaat Bayern; Bayreuth
+09577;Ellingen;91792;Freistaat Bayern; Weißenburg-Gunzenhausen
+15082;Raguhn;06779;Sachsen-Anhalt; Anhalt-Bitterfeld
+12071;Döbern;03159;Brandenburg; Spree-Neiße
+16076;Berga;07980;Freistaat Thüringen; Greiz
+12068;Neustadt;16845;Brandenburg; Ostprignitz-Ruppin
+12069;Brück;14822;Brandenburg; Potsdam-Mittelmark
+09675;Marktbreit;97340;Freistaat Bayern; Kitzingen
+06431;Hirschhorn;69434;Hessen; Bergstraße
+09476;Ludwigsstadt;96337;Freistaat Bayern; Kronach
+16066;Wasungen;98634;Freistaat Thüringen; Schmalkalden-Meiningen
+12073;Lychen;17279;Brandenburg; Uckermark
+14628;Hohnstein;01848;Freistaat Sachsen; Sächs. Schweiz-Osterzgebirge
+09479;Kirchenlamitz;95158;Freistaat Bayern; Wunsiedel
+14730;Schildau;04889;Freistaat Sachsen; Nordsachsen
+15082;Jeßnitz;06800;Sachsen-Anhalt; Anhalt-Bitterfeld
+16071;Kranichfeld;99448;Freistaat Thüringen; Weimarer Land
+16070;Langewiesen;98704;Freistaat Thüringen; Ilm-Kreis
+15091;Annaburg;06925;Sachsen-Anhalt; Wittenberg
+09479;Schönwald;95173;Freistaat Bayern; Wunsiedel
+13058;Warin;19417;Mecklenburg-Vorpommern; Nordwestmecklenburg
+09673;Ostheim v.d.Rhön;97645;Freistaat Bayern; Rhön-Grabfeld
+03255;Eschershausen;37632;Niedersachsen; Holzminden
+16068;Weißensee;99631;Freistaat Thüringen; Sömmerda
+12062;Sonnewalde;03249;Brandenburg; Elbe-Elster
+12069;Havelsee;14798;Brandenburg; Potsdam-Mittelmark
+14523;Schöneck;08261;Freistaat Sachsen; Vogtlandkreis
+08116;Owen;73277;Baden-Württemberg; Esslingen
+09372;Rötz;92444;Freistaat Bayern; Cham
+16070;Gehren;98708;Freistaat Thüringen; Ilm-Kreis
+08327;Mühlheim an der Donau;78570;Baden-Württemberg; Tuttlingen
+13055;Mirow;17252;Mecklenburg-Vorpommern; Mecklenburg-Strelitz
+16075;Wurzbach;07343;Freistaat Thüringen; Saale-Orla-Kreis
+09479;Marktleuthen;95168;Freistaat Bayern; Wunsiedel
+14625;Weißenberg;02627;Freistaat Sachsen; Bautzen
+07137;Münstermaifeld;56294;Rheinland-Pfalz; Mayen-Koblenz
+06635;Frankenau;35110;Hessen; Waldeck-Frankenberg
+15084;Teuchern;06682;Sachsen-Anhalt; Burgenlandkreis
+09479;Weißenstadt;95163;Freistaat Bayern; Wunsiedel
+09477;Stadtsteinach;95346;Freistaat Bayern; Kulmbach
+13053;Krakow am See;18292;Mecklenburg-Vorpommern; Güstrow
+12062;Schönewalde;04916;Brandenburg; Elbe-Elster
+06633;Liebenau;34396;Hessen; Kassel
+13060;Goldberg;19399;Mecklenburg-Vorpommern; Parchim
+06535;Kirtorf;36320;Hessen; Vogelsbergkreis
+15091;Oranienbaum;06785;Sachsen-Anhalt; Wittenberg
+16072;Schalkau;96528;Freistaat Thüringen; Sonneberg
+09377;Bärnau;95671;Freistaat Bayern; Tirschenreuth
+12060;Joachimsthal;16247;Brandenburg; Barnim
+06635;Hatzfeld;35116;Hessen; Waldeck-Frankenberg
+07135;Ulmen;56766;Rheinland-Pfalz; Cochem-Zell
+12064;Lebus;15326;Brandenburg; Märkisch-Oderland
+13052;Jarmen;17126;Mecklenburg-Vorpommern; Demmin
+12067;Friedland;15848;Brandenburg; Oder-Spree
+13054;Dömitz;19303;Mecklenburg-Vorpommern; Ludwigslust
+09472;Waischenfeld;91344;Freistaat Bayern; Bayreuth
+15084;Laucha an der Unstrut;06636;Sachsen-Anhalt; Burgenlandkreis
+09675;Prichsenstadt;97357;Freistaat Bayern; Kitzingen
+16074;Bürgel;07616;Freistaat Thüringen; Saale-Holzland-Kreis
+07133;Stromberg;55442;Rheinland-Pfalz; Bad Kreuznach
+08125;Löwenstein;74245;Baden-Württemberg; Heilbronn
+14628;Geising;01778;Freistaat Sachsen; Sächs. Schweiz-Osterzgebirge
+08327;Fridingen an der Donau;78567;Baden-Württemberg; Tuttlingen
+15090;Bismark;39629;Sachsen-Anhalt; Stendal
+14522;Frauenstein;09623;Freistaat Sachsen; Mittelsachsen
+08118;Oberriexingen;71739;Baden-Württemberg; Ludwigsburg
+12068;Lindow;16835;Brandenburg; Ostprignitz-Ruppin
+14521;Elterlein;09481;Freistaat Sachsen; Erzgebirgskreis
+06535;Ulrichstein;35327;Hessen; Vogelsbergkreis
+13055;Wesenberg;17255;Mecklenburg-Vorpommern; Mecklenburg-Strelitz
+13058;Klütz;23948;Mecklenburg-Vorpommern; Nordwestmecklenburg
+16076;Auma;07955;Freistaat Thüringen; Greiz
+16073;Remda-Teichel;07407;Freistaat Thüringen; Saalfeld-Rudolstadt
+16076;Münchenbernsdorf;07589;Freistaat Thüringen; Greiz
+07233;Hillesheim;54576;Rheinland-Pfalz; Vulkaneifel
+07141;Braubach;56338;Rheinland-Pfalz; Rhein-Lahn-Kreis
+01051;Wesselburen;25764;Schleswig-Holstein; Dithmarschen
+14521;Jöhstadt;09477;Freistaat Sachsen; Erzgebirgskreis
+07135;Kaisersesch;56759;Rheinland-Pfalz; Cochem-Zell
+15082;Gröbzig;06388;Sachsen-Anhalt; Anhalt-Bitterfeld
+13053;Gnoien;17179;Mecklenburg-Vorpommern; Güstrow
+15084;Nebra;06642;Sachsen-Anhalt; Burgenlandkreis
+15087;Allstedt;06542;Sachsen-Anhalt; Mansfeld-Südharz
+08126;Waldenburg;74638;Baden-Württemberg; Hohenlohekreis
+08225;Ravenstein;74747;Baden-Württemberg; Neckar-Odenwald-Kreis
+16069;Themar;98660;Freistaat Thüringen; Hildburghausen
+08235;Bad Teinach-Zavelstein;75385;Baden-Württemberg; Calw
+13058;Rehna;19217;Mecklenburg-Vorpommern; Nordwestmecklenburg
+03354;Wustrow;29462;Niedersachsen; Lüchow-Dannenberg
+16071;Bad Sulza;99518;Freistaat Thüringen; Weimarer Land
+15084;Bad Bibra;06647;Sachsen-Anhalt; Burgenlandkreis
+16065;Ebeleben;99713;Freistaat Thüringen; Kyffhäuserkreis
+09575;Burgbernheim;91593;Freistaat Bayern; Neustadt a.d.Aisch-Bad Windsh.
+07137;Rhens;56321;Rheinland-Pfalz; Mayen-Koblenz
+14625;Elstra;01920;Freistaat Sachsen; Bautzen
+09476;Wallenfels;96346;Freistaat Bayern; Kronach
+06535;Romrod;36329;Hessen; Vogelsbergkreis
+07140;Oberwesel;55430;Rheinland-Pfalz; Rhein-Hunsrück-Kreis
+14625;Schirgiswalde;02681;Freistaat Sachsen; Bautzen
+14628;Bad Schandau;01814;Freistaat Sachsen; Sächs. Schweiz-Osterzgebirge
+14521;Zöblitz;09517;Freistaat Sachsen; Erzgebirgskreis
+14729;Kohren-Sahlis;04655;Freistaat Sachsen; Leipzig
+09571;Wolframs-Eschenbach;91639;Freistaat Bayern; Ansbach
+15085;Wegeleben;38828;Sachsen-Anhalt; Harz
+15087;Gerbstedt;06347;Sachsen-Anhalt; Mansfeld-Südharz
+14523;Mylau;08499;Freistaat Sachsen; Vogtlandkreis
+07131;Adenau;53518;Rheinland-Pfalz; Ahrweiler
+12070;Putlitz;16949;Brandenburg; Prignitz
+15085;Hasselfelde;38899;Sachsen-Anhalt; Harz
+07133;Meisenheim;55590;Rheinland-Pfalz; Bad Kreuznach
+13060;Brüel;19412;Mecklenburg-Vorpommern; Parchim
+09679;Eibelstadt;97246;Freistaat Bayern; Würzburg
+16066;Brotterode;98599;Freistaat Thüringen; Schmalkalden-Meiningen
+15081;Arendsee;39619;Sachsen-Anhalt; Altmarkkreis Salzwedel
+07140;Sankt Goar;56329;Rheinland-Pfalz; Rhein-Hunsrück-Kreis
+14730;Dommitzsch;04880;Freistaat Sachsen; Nordsachsen
+09571;Merkendorf;91732;Freistaat Bayern; Ansbach
+09571;Schillingsfürst;91583;Freistaat Bayern; Ansbach
+08315;Sulzburg;79295;Baden-Württemberg; Breisgau-Hochschwarzwald
+16068;Rastenberg;99636;Freistaat Thüringen; Sömmerda
+07143;Selters;56242;Rheinland-Pfalz; Westerwaldkreis
+16074;Schkölen;07619;Freistaat Thüringen; Saale-Holzland-Kreis
+16075;Gefell;07926;Freistaat Thüringen; Saale-Orla-Kreis
+16070;Großbreitenbach;98701;Freistaat Thüringen; Ilm-Kreis
+13057;Tribsees;18465;Mecklenburg-Vorpommern; Nordvorpommern
+12062;Schlieben;04936;Brandenburg; Elbe-Elster
+16065;Großenehrich;99718;Freistaat Thüringen; Kyffhäuserkreis
+14626;Herrnhut;02747;Freistaat Sachsen; Görlitz
+08117;Lauterstein;73111;Baden-Württemberg; Göppingen
+09376;Schönsee;92539;Freistaat Bayern; Schwandorf
+01054;Garding;25836;Schleswig-Holstein; Nordfriesland
+12070;Bad Wilsnack;19336;Brandenburg; Prignitz
+13059;Gützkow;17506;Mecklenburg-Vorpommern; Ostvorpommern
+12063;Friesack;14662;Brandenburg; Havelland
+12061;Golßen;15938;Brandenburg; Dahme-Spreewald
+14626;Ostritz;02899;Freistaat Sachsen; Görlitz
+09374;Pleystein;92714;Freistaat Bayern; Neustadt a.d.Waldnaab
+12069;Ziesar;14793;Brandenburg; Potsdam-Mittelmark
+15089;Alsleben;06425;Sachsen-Anhalt; Salzlandkreis
+14521;Schlettau;09487;Freistaat Sachsen; Erzgebirgskreis
+16068;Buttstädt;99628;Freistaat Thüringen; Sömmerda
+16063;Stadtlengsfeld;36457;Freistaat Thüringen; Wartburgkreis
+06535;Grebenau;36323;Hessen; Vogelsbergkreis
+08437;Scheer;72516;Baden-Württemberg; Sigmaringen
+15085;Derenburg;38895;Sachsen-Anhalt; Harz
+03158;Hornburg;38315;Niedersachsen; Wolfenbüttel
+16064;Bad Tennstedt;99955;Freistaat Thüringen; Unstrut-Hainich-Kreis
+09472;Betzenstein;91282;Freistaat Bayern; Bayreuth
+14521;Oberwiesenthal;09484;Freistaat Sachsen; Erzgebirgskreis
+16073;Gräfenthal;98743;Freistaat Thüringen; Saalfeld-Rudolstadt
+12073;Gartz;16307;Brandenburg; Uckermark
+15084;Eckartsberga;06648;Sachsen-Anhalt; Burgenlandkreis
+16063;Creuzburg;99831;Freistaat Thüringen; Wartburgkreis
+16073;Leutenberg;07338;Freistaat Thüringen; Saalfeld-Rudolstadt
+08336;Schönau im Schwarzwald;79677;Baden-Württemberg; Lörrach
+01054;Friedrichstadt;25840;Schleswig-Holstein; Nordfriesland
+13061;Garz/Rügen;18574;Mecklenburg-Vorpommern; Rügen
+03156;Bad Grund;37539;Niedersachsen; Osterode am Harz
+12070;Lenzen;19309;Brandenburg; Prignitz
+16075;Hirschberg;07927;Freistaat Thüringen; Saale-Orla-Kreis
+15088;Wettin;06198;Sachsen-Anhalt; Saalekreis
+12070;Meyenburg;16945;Brandenburg; Prignitz
+09675;Mainbernheim;97350;Freistaat Bayern; Kitzingen
+14628;Königstein;01824;Freistaat Sachsen; Sächs. Schweiz-Osterzgebirge
+01061;Krempe;25361;Schleswig-Holstein; Steinburg
+12066;Ortrand;01990;Brandenburg; Oberspreewald-Lausitz
+03358;Rethem;27336;Niedersachsen; Soltau-Fallingbostel
+14729;Mutzschen;04688;Freistaat Sachsen; Leipzig
+14521;Scheibenberg;09481;Freistaat Sachsen; Erzgebirgskreis
+16062;Heringen/Helme;99765;Freistaat Thüringen; Nordhausen
+15088;Löbejün;06193;Sachsen-Anhalt; Saalekreis
+08437;Veringenstadt;72519;Baden-Württemberg; Sigmaringen
+13051;Rerik;18230;Mecklenburg-Vorpommern; Bad Doberan
+12060;Oderberg;16248;Brandenburg; Barnim
+06635;Rosenthal;35119;Hessen; Waldeck-Frankenberg
+15085;Schwanebeck;39397;Sachsen-Anhalt; Harz
+16065;Heldrungen;06577;Freistaat Thüringen; Kyffhäuserkreis
+08117;Wiesensteig;73349;Baden-Württemberg; Göppingen
+16068;Gebesee;99189;Freistaat Thüringen; Sömmerda
+09673;Fladungen;97650;Freistaat Bayern; Rhön-Grabfeld
+08335;Aach;78267;Baden-Württemberg; Konstanz
+15086;Jerichow;39319;Sachsen-Anhalt; Jerichower Land
+08415;Hayingen;72534;Baden-Württemberg; Reutlingen
+07141;Katzenelnbogen;56368;Rheinland-Pfalz; Rhein-Lahn-Kreis
+07336;Lauterecken;67742;Rheinland-Pfalz; Kusel
+16069;Bad Colberg-Heldburg;98663;Freistaat Thüringen; Hildburghausen
+12073;Brüssow;17326;Brandenburg; Uckermark
+15085;Benneckenstein;38877;Sachsen-Anhalt; Harz
+12069;Niemegk;14823;Brandenburg; Potsdam-Mittelmark
+09476;Teuschnitz;96358;Freistaat Bayern; Kronach
+16065;Wiehe;06571;Freistaat Thüringen; Kyffhäuserkreis
+14522;Sayda;09619;Freistaat Sachsen; Mittelsachsen
+09475;Schauenstein;95197;Freistaat Bayern; Hof
+13052;Neukalen;17154;Mecklenburg-Vorpommern; Demmin
+09677;Rieneck;97794;Freistaat Bayern; Main-Spessart
+03257;Sachsenhagen;31553;Niedersachsen; Schaumburg
+07336;Wolfstein;67752;Rheinland-Pfalz; Kusel
+07339;Bacharach;55422;Rheinland-Pfalz; Mainz-Bingen
+16071;Magdala;99441;Freistaat Thüringen; Weimarer Land
+13062;Penkun;17328;Mecklenburg-Vorpommern; Uecker-Randow
+08437;Hettingen;72513;Baden-Württemberg; Sigmaringen
+16073;Lehesten;07349;Freistaat Thüringen; Saalfeld-Rudolstadt
+13059;Usedom;17406;Mecklenburg-Vorpommern; Ostvorpommern
+08125;Widdern;74259;Baden-Württemberg; Heilbronn
+16073;Oberweißbach;98744;Freistaat Thüringen; Saalfeld-Rudolstadt
+15091;Prettin;06922;Sachsen-Anhalt; Wittenberg
+16069;Römhild;98631;Freistaat Thüringen; Hildburghausen
+16070;Plaue;99338;Freistaat Thüringen; Ilm-Kreis
+15087;Sandersleben;06456;Sachsen-Anhalt; Mansfeld-Südharz
+03153;Altenau;38707;Niedersachsen; Goslar
+12061;Teupitz;15755;Brandenburg; Dahme-Spreewald
+16075;Ranis;07389;Freistaat Thüringen; Saale-Orla-Kreis
+03153;Sankt Andreasberg;37444;Niedersachsen; Goslar
+09574;Velden;91235;Freistaat Bayern; Nürnberger Land
+09675;Marktsteft;97342;Freistaat Bayern; Kitzingen
+14523;Mühltroff;07919;Freistaat Sachsen; Vogtlandkreis
+08127;Langenburg;74595;Baden-Württemberg; Schwäbisch Hall
+15083;Seehausen;39365;Sachsen-Anhalt; Börde
+16068;Kindelbrück;99638;Freistaat Thüringen; Sömmerda
+15083;Hadmersleben;39398;Sachsen-Anhalt; Börde
+16063;Kaltennordheim;36452;Freistaat Thüringen; Wartburgkreis
+13057;Bad Sülze;18334;Mecklenburg-Vorpommern; Nordvorpommern
+12063;Rhinow;14728;Brandenburg; Havelland
+14628;Stadt Wehlen;01829;Freistaat Sachsen; Sächs. Schweiz-Osterzgebirge
+16076;Hohenleuben;07958;Freistaat Thüringen; Greiz
+15090;Arneburg;39596;Sachsen-Anhalt; Stendal
+09679;Röttingen;97285;Freistaat Bayern; Würzburg
+13059;Lassan;17440;Mecklenburg-Vorpommern; Ostvorpommern
+09571;Ornbau;91737;Freistaat Bayern; Ansbach
+12064;Buckow;15377;Brandenburg; Märkisch-Oderland
+07340;Hornbach;66500;Rheinland-Pfalz; Südwestpfalz
+09676;Stadtprozelten;97909;Freistaat Bayern; Miltenberg
+15083;Kroppenstedt;39397;Sachsen-Anhalt; Börde
+09679;Aub;97239;Freistaat Bayern; Würzburg
+15091;Wörlitz;06786;Sachsen-Anhalt; Wittenberg
+16066;Oberhof;98559;Freistaat Thüringen; Schmalkalden-Meiningen
+12061;Lieberose;15868;Brandenburg; Dahme-Spreewald
+07232;Neuerburg;54673;Rheinland-Pfalz; Eifelkreis Bitburg-Prüm
+13057;Franzburg;18461;Mecklenburg-Vorpommern; Nordvorpommern
+09479;Hohenberg;95691;Freistaat Bayern; Wunsiedel
+13057;Richtenberg;18461;Mecklenburg-Vorpommern; Nordvorpommern
+14628;Liebstadt;01825;Freistaat Sachsen; Sächs. Schweiz-Osterzgebirge
+16071;Buttelstedt;99439;Freistaat Thüringen; Weimarer Land
+07141;Sankt Goarshausen;56346;Rheinland-Pfalz; Rhein-Lahn-Kreis
+07231;Manderscheid;54531;Rheinland-Pfalz; Bernkastel-Wittlich
+15084;Osterfeld;06721;Sachsen-Anhalt; Burgenlandkreis
+15087;Stolberg;06547;Sachsen-Anhalt; Mansfeld-Südharz
+09374;Neustadt am Kulm;95514;Freistaat Bayern; Neustadt a.d.Waldnaab
+16074;Orlamünde;07768;Freistaat Thüringen; Saale-Holzland-Kreis
+15088;Schraplau;06279;Sachsen-Anhalt; Saalekreis
+15082;Radegast;06369;Sachsen-Anhalt; Anhalt-Bitterfeld
+07333;Obermoschel;67823;Rheinland-Pfalz; Donnersbergkreis
+09475;Lichtenberg;95192;Freistaat Bayern; Hof
+03153;Wildemann;38709;Niedersachsen; Goslar
+16065;Clingen;99718;Freistaat Thüringen; Kyffhäuserkreis
+06634;Schwarzenborn;34639;Hessen; Schwalm-Eder-Kreis
+15082;Lindau;39264;Sachsen-Anhalt; Anhalt-Bitterfeld
+09477;Kupferberg;95362;Freistaat Bayern; Kulmbach
+09677;Rothenfels;97851;Freistaat Bayern; Main-Spessart
+15090;Sandau;39524;Sachsen-Anhalt; Stendal
+15084;Stößen;06667;Sachsen-Anhalt; Burgenlandkreis
+07232;Kyllburg;54655;Rheinland-Pfalz; Eifelkreis Bitburg-Prüm
+07141;Kaub;56349;Rheinland-Pfalz; Rhein-Lahn-Kreis
+12061;Märkisch Buchholz;15748;Brandenburg; Dahme-Spreewald
+15090;Werben;39615;Sachsen-Anhalt; Stendal
+16075;Ziegenrück;07924;Freistaat Thüringen; Saale-Orla-Kreis
+03354;Schnackenburg;29493;Niedersachsen; Lüchow-Dannenberg
+16069;Ummerstadt;98663;Freistaat Thüringen; Hildburghausen
+16071;Neumark;99439;Freistaat Thüringen; Weimarer Land
+01059;Arnis;24399;Schleswig-Holstein; Schleswig-Flensburg
