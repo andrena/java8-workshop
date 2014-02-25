@@ -6,3 +6,4 @@
 6. Comparator.comparing() verwenden mit Lambda
 7. ::-Schreibweise für Lambda verwenden
 8. Static-Imports und Comparator inlinen
+9. Weitere Beispiele für neue Comparator-API

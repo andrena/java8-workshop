@@ -11,7 +11,7 @@ import org.junit.Test;
 
 import de.andrena.java8.Person;
 
-public class SortierungDemo8 {
+public class SortierungDemo9 {
 
 	@Test
 	public void sortierePersonenNachNachname() {
@@ -23,7 +23,14 @@ public class SortierungDemo8 {
 		List<Person> personen = Arrays.asList(stefan, antonio, julia);
 
 		personen.sort(comparing(Person::getNachname));
+		assertThat(personen, contains(antonio, julia, stefan));
 
+		// Sortierung in umgekehrter Reihenfolge
+		personen.sort(comparing(Person::getNachname).reversed());
+		assertThat(personen, contains(stefan, julia, antonio));
+
+		// Sortierung nach Nachname und danach (falls gleich) nach Vorname
+		personen.sort(comparing(Person::getNachname).thenComparing(Person::getVorname));
 		assertThat(personen, contains(antonio, julia, stefan));
 	}
 }
