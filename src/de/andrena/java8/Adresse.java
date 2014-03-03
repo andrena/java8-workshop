@@ -3,11 +3,11 @@ package de.andrena.java8;
 public class Adresse {
 
 	private final String strasse;
-	private final String hausnummer;
-	private final int postleitzahl;
+	private final int hausnummer;
+	private final String postleitzahl;
 	private final String stadt;
 
-	public Adresse(String strasse, String hausnummer, int postleitzahl, String stadt) {
+	public Adresse(String strasse, int hausnummer, String postleitzahl, String stadt) {
 		this.strasse = strasse;
 		this.hausnummer = hausnummer;
 		this.postleitzahl = postleitzahl;
@@ -18,11 +18,11 @@ public class Adresse {
 		return strasse;
 	}
 
-	public String getHausnummer() {
+	public int getHausnummer() {
 		return hausnummer;
 	}
 
-	public int getPostleitzahl() {
+	public String getPostleitzahl() {
 		return postleitzahl;
 	}
 
