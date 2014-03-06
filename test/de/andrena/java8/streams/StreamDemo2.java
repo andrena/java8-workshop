@@ -15,19 +15,22 @@ public class StreamDemo2 {
 
 	@Test
 	public void streamsKoennenNichtWiederverwendetWerden() throws Exception {
-		Stream<Person> stream = new PersonenGenerator().generiereStream();
-
-		stream.filter(person -> "Müller".equals(person.getNachname()));
+		Stream<Person> stream = new PersonenGenerator().generiereStream().limit(1000)
+				.filter(person -> "Müller".equals(person.getNachname()));
 
 		assertThat(stream.count(), is(greaterThan(1L)));
+
+		// Stream bereits geschlossen -> schlägt fehl!
+		stream.filter(person -> "Hans".equals(person.getVorname()));
 	}
 
 	@Test
-	public void streamsKoennenNichtWiederverwendetWerden_Richtig() throws Exception {
-		Stream<Person> stream = new PersonenGenerator().generiereStream();
+	public void streamsKoennenNichtWiederverwendetWerden2() throws Exception {
+		Stream<Person> stream = new PersonenGenerator().generiereStream().limit(1000);
 
-		stream = stream.filter(person -> "Müller".equals(person.getNachname()));
+		stream.filter(person -> "Müller".equals(person.getNachname()));
 
+		// stream wurde nicht neu zugewiesen -> schlägt fehl!
 		assertThat(stream.count(), is(greaterThan(1L)));
 	}
 }
