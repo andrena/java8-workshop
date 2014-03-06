@@ -16,7 +16,7 @@ import de.andrena.java8.PersonenGenerator;
 public class StreamDemo1 {
 
 	@Test
-	public void collectionStreamsSindNichtEntlos() throws Exception {
+	public void collectionStreamsSindNichtEndlos() throws Exception {
 
 		Person antonio = new Person("Antonio", "Calabrese");
 		Person julia = new Person("Julia", "Hall");
