@@ -19,9 +19,18 @@ public class PersonenGenerator {
 	private final List<String> nachnamen;
 	private final List<Ort> orte;
 
-	private final Random random = new Random();
+	private final Random random;
 
 	public PersonenGenerator() throws URISyntaxException, IOException {
+		this(new Random());
+	}
+
+	public PersonenGenerator(long seed) throws URISyntaxException, IOException {
+		this(new Random(seed));
+	}
+
+	private PersonenGenerator(Random random) throws URISyntaxException, IOException {
+		this.random = random;
 		vornamen = readFile("vornamen.txt");
 		nachnamen = readFile("nachnamen.txt");
 		orte = streamFile("Liste-Staedte-in-Deutschland.csv") //
