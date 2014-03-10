@@ -11,7 +11,7 @@ import org.junit.Test;
 import de.andrena.java8.Person;
 import de.andrena.java8.PersonenGenerator;
 
-public class StreamDemo2 {
+public class StreamDemo4PipeliningDoneRight {
 
 	@Test
 	public void streamsKoennenNichtWiederverwendetWerden() throws Exception {

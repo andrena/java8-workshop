@@ -13,7 +13,7 @@ import org.junit.Test;
 import de.andrena.java8.Person;
 import de.andrena.java8.PersonenGenerator;
 
-public class StreamDemo1 {
+public class StreamDemo5Endless {
 
 	@Test
 	public void collectionStreamsSindNichtEndlos() throws Exception {

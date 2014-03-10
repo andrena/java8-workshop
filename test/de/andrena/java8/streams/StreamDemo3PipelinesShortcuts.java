@@ -9,7 +9,7 @@ import org.junit.Test;
 
 import de.andrena.java8.PersonenGenerator;
 
-public class StreamDemo4 {
+public class StreamDemo3PipelinesShortcuts {
 
 	private int counter = 0;
 

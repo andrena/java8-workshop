@@ -11,7 +11,7 @@ import org.junit.Test;
 import de.andrena.java8.Person;
 import de.andrena.java8.PersonenGenerator;
 
-public class StreamDemo3 {
+public class StreamDemo2Lazyness {
 
 	@Test
 	public void streamsPipelinesSindLazy() throws Exception {

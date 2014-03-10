@@ -2,6 +2,7 @@ package de.andrena.java8;
 
 import static java.util.stream.Collectors.toList;
 
+import java.io.BufferedReader;
 import java.io.IOException;
 import java.net.URISyntaxException;
 import java.nio.file.Files;
@@ -22,7 +23,7 @@ public class PersonenGenerator {
 	private final Random random;
 
 	public PersonenGenerator() throws URISyntaxException, IOException {
-		this(new Random());
+		this(new Random(42));
 	}
 
 	public PersonenGenerator(long seed) throws URISyntaxException, IOException {
@@ -33,11 +34,14 @@ public class PersonenGenerator {
 		this.random = random;
 		vornamen = readFile("vornamen.txt");
 		nachnamen = readFile("nachnamen.txt");
-		orte = streamFile("Liste-Staedte-in-Deutschland.csv") //
-				.skip(1) //
-				.map(line -> line.split(";")) //
-				.map(parts -> new Ort(parts[2], parts[1])) //
-				.collect(toList());
+
+		try (BufferedReader reader = newBufferedReader("Liste-Staedte-in-Deutschland.csv")) {
+			orte = reader.lines() //
+					.skip(1) //
+					.map(line -> line.split(";")) //
+					.map(parts -> new Ort(parts[2], parts[1])) //
+					.collect(toList());
+		}
 	}
 
 	public Stream<Person> generiereStream() {
@@ -45,11 +49,16 @@ public class PersonenGenerator {
 	}
 
 	private Person generierePerson() {
+		Person person = generierePersonOhneAdresse();
+		person.add(generiereAdresse());
+		return person;
+	}
+
+	private Person generierePersonOhneAdresse() {
 		String vorname = vornamen.get(random.nextInt(vornamen.size()));
 		String nachname = nachnamen.get(random.nextInt(nachnamen.size()));
-		Adresse adresse = generiereAdresse();
 		LocalDate geburtstag = generiereGeburtstag();
-		return new Person(vorname, nachname, adresse, geburtstag);
+		return new Person(vorname, nachname, geburtstag);
 	}
 
 	private Adresse generiereAdresse() {
@@ -71,8 +80,8 @@ public class PersonenGenerator {
 		return Month.values()[random.nextInt(Month.values().length)];
 	}
 
-	private Stream<String> streamFile(String file) throws URISyntaxException, IOException {
-		return Files.newBufferedReader(toPath(file)).lines();
+	private BufferedReader newBufferedReader(String file) throws IOException, URISyntaxException {
+		return Files.newBufferedReader(toPath(file));
 	}
 
 	private List<String> readFile(String file) throws URISyntaxException, IOException {
