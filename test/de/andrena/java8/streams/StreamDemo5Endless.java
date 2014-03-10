@@ -30,7 +30,7 @@ public class StreamDemo5Endless {
 
 	@Test
 	public void streamsSindPotentiellEndlos() throws Exception {
-		Stream<Person> stream = new PersonenGenerator().generiereStream();
+		Stream<Person> stream = PersonenGenerator.personenStream();
 
 		assertThat(stream.count(), is(greaterThan(3L)));
 	}

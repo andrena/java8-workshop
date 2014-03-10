@@ -16,13 +16,21 @@ import java.util.stream.Stream;
 
 public class PersonenGenerator {
 
+	public static Stream<Person> personenStream() {
+		try {
+			return new PersonenGenerator().generiereStream();
+		} catch (URISyntaxException | IOException e) {
+			throw new RuntimeException(e);
+		}
+	}
+
 	private final List<String> vornamen;
 	private final List<String> nachnamen;
 	private final List<Ort> orte;
 
 	private final Random random;
 
-	public PersonenGenerator() throws URISyntaxException, IOException {
+	private PersonenGenerator() throws URISyntaxException, IOException {
 		this(new Random(42));
 	}
 
