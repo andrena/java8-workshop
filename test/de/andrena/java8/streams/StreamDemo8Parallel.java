@@ -15,7 +15,7 @@ public class StreamDemo8Parallel {
 
 	@Test
 	public void sequentiell() throws Exception {
-		performanceTest("sequentiell", werte, Math::exp);
+		performanceTest("sequentiell", werte.sequential(), Math::exp);
 	}
 
 	@Test
