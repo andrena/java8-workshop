@@ -15,21 +15,21 @@ public class StreamDemo8Parallel {
 
 	@Test
 	public void sequentiell() throws Exception {
-		performanceTest("sequentiell", werte.sequential(), Math::exp);
+		performanceTest(werte.sequential(), Math::exp);
 	}
 
 	@Test
 	public void parallel() throws Exception {
-		performanceTest("parallel", werte.parallel(), Math::exp);
+		performanceTest(werte.parallel(), Math::exp);
 	}
 
-	private void performanceTest(String type, DoubleStream stream, DoubleUnaryOperator operator) {
+	private void performanceTest(DoubleStream stream, DoubleUnaryOperator operator) {
 		long start = System.currentTimeMillis();
 
 		stream.map(operator).toArray();
 
+		String type = stream.isParallel() ? "parallel" : "sequentiell";
 		long time = System.currentTimeMillis() - start;
-
 		System.out.println(type + ": " + time);
 	}
 }
