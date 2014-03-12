@@ -25,12 +25,12 @@ public class SupplierDemo2 {
 
 	private void ueberpruefePerson(Person person) {
 		if (person == null) {
-			String message = "Keine Person\n" + ermittleKomplizierteFehlernachricht();
+			String message = "Keine Person\n" + ermittleKomplizierteNachricht();
 			throw new IllegalArgumentException(message);
 		}
 	}
 
-	private static String ermittleKomplizierteFehlernachricht() {
+	private static String ermittleKomplizierteNachricht() {
 		Stream<Entry<Object, Object>> systemPropertyStream = System.getProperties().entrySet().stream();
 		return systemPropertyStream//
 				.map(entry -> entry.getKey() + " = '" + entry.getValue() + "'")//

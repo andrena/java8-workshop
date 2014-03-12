@@ -24,11 +24,11 @@ public class SupplierDemo1 {
 	}
 
 	private void ueberpruefePerson(Person person) {
-		String message = "Keine Person\n" + ermittleKomplizierteFehlernachricht();
+		String message = "Keine Person\n" + ermittleKomplizierteNachricht();
 		// TODO Wenn person nicht gesetzt ist, Exception werfen
 	}
 
-	private static String ermittleKomplizierteFehlernachricht() {
+	private static String ermittleKomplizierteNachricht() {
 		Stream<Entry<Object, Object>> systemPropertyStream = System.getProperties().entrySet().stream();
 		return systemPropertyStream//
 				.map(entry -> entry.getKey() + " = '" + entry.getValue() + "'")//

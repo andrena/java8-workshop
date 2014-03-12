@@ -25,10 +25,10 @@ public class SupplierDemo4 {
 	}
 
 	private void ueberpruefePerson(Person person) {
-		Objects.requireNonNull(person, () -> "Keine Person\n" + ermittleKomplizierteFehlernachricht());
+		Objects.requireNonNull(person, () -> "Keine Person\n" + ermittleKomplizierteNachricht());
 	}
 
-	private static String ermittleKomplizierteFehlernachricht() {
+	private static String ermittleKomplizierteNachricht() {
 		Stream<Entry<Object, Object>> systemPropertyStream = System.getProperties().entrySet().stream();
 		return systemPropertyStream//
 				.map(entry -> entry.getKey() + " = '" + entry.getValue() + "'")//
