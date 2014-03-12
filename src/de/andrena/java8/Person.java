@@ -47,6 +47,12 @@ public class Person {
 		return geburtstag;
 	}
 
+	public Person ohneGeburtstag() {
+		Person person = new Person(vorname, nachname, null);
+		person.adressen.addAll(this.adressen);
+		return person;
+	}
+
 	@Override
 	public String toString() {
 		return vorname + " " + nachname;
