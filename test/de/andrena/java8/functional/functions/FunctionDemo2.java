@@ -1,4 +1,4 @@
-package de.andrena.java8.functional;
+package de.andrena.java8.functional.functions;
 
 import static org.hamcrest.Matchers.is;
 import static org.hamcrest.Matchers.nullValue;
@@ -13,7 +13,7 @@ import org.junit.Test;
 
 import de.andrena.java8.Person;
 
-public class FunctionDemo1 {
+public class FunctionDemo2 {
 
 	@Test
 	public void allePersonenMitGeburtsdatumErsetzen() throws Exception {
@@ -23,8 +23,12 @@ public class FunctionDemo1 {
 
 		List<Person> personen = new ArrayList<>(Arrays.asList(antonio, julia, stefan));
 
-		// TODO Ersetze Personen mit Geburtsdatum durch gleiche Person ohne
-		// Geburtsdatum
+		for (int index = 0; index < personen.size(); index++) {
+			Person person = personen.get(index);
+			if (person.getGeburtstag() != null) {
+				personen.set(index, person.ohneGeburtstag());
+			}
+		}
 
 		assertThat(personen.get(0), is(antonio));
 		assertThat(personen.get(1).getVorname(), is("Julia"));

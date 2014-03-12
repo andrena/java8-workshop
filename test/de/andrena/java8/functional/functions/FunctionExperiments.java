@@ -1,7 +1,7 @@
-package de.andrena.java8.functional;
+package de.andrena.java8.functional.functions;
 
-import static de.andrena.java8.functional.FunctionExperiments.FluentFunction.given;
-import static de.andrena.java8.functional.FunctionExperiments.FluentPredicate.when;
+import static de.andrena.java8.functional.functions.FunctionExperiments.FluentFunction.given;
+import static de.andrena.java8.functional.functions.FunctionExperiments.FluentPredicate.when;
 import static java.util.Objects.nonNull;
 import static org.hamcrest.Matchers.is;
 import static org.hamcrest.Matchers.nullValue;
