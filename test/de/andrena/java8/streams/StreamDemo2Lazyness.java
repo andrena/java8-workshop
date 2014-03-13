@@ -21,9 +21,7 @@ public class StreamDemo2Lazyness {
 			return "Müller".equals(person.getNachname());
 		});
 
-		System.out.println("warten");
-		Thread.sleep(5 * 1000);
-		System.out.println("warten beendet");
+		System.out.println("Wird ausgeführt bevor gefiltert wird");
 
 		assertThat(stream.count(), is(greaterThan(1L)));
 	}
