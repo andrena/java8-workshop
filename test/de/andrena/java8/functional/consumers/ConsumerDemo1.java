@@ -17,7 +17,5 @@ public class ConsumerDemo1 {
 		List<Person> personen = new ArrayList<>(Arrays.asList(antonio, julia, stefan));
 
 		// TODO Personen ausgeben
-
-		personen.forEach(System.out::println);
 	}
 }

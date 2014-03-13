@@ -3,6 +3,7 @@ package de.andrena.java8.functional.suppliers;
 import static java.util.stream.Collectors.joining;
 
 import java.util.Map.Entry;
+import java.util.logging.Level;
 import java.util.logging.Logger;
 import java.util.stream.Stream;
 
@@ -14,7 +15,9 @@ public class LoggingDemo1 {
 	public void loggingOhneLogging() {
 		Logger logger = Logger.getGlobal();
 		// logger.setLevel(Level.SEVERE);
-		logger.info(ermittleKomplizierteNachricht());
+		if (logger.isLoggable(Level.INFO)) {
+			logger.info(ermittleKomplizierteNachricht());
+		}
 	}
 
 	private static String ermittleKomplizierteNachricht() {

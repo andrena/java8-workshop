@@ -24,10 +24,10 @@ public class PredicateDemo3 {
 
 		List<Person> personen = new ArrayList<>(Arrays.asList(stefan, antonio, julia));
 
-		Predicate<Person> predicate = p -> p.getGeburtstag() == null;
+		Predicate<Person> keinGeburtstagBekannt = p -> p.getGeburtstag() == null;
 		for (Iterator<Person> iterator = personen.iterator(); iterator.hasNext();) {
 			Person person = iterator.next();
-			if (predicate.test(person)) {
+			if (keinGeburtstagBekannt.test(person)) {
 				iterator.remove();
 			}
 		}
