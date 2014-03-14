@@ -6,6 +6,7 @@ import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
 
 import java.util.List;
+import java.util.stream.Stream;
 
 import org.junit.Test;
 
@@ -15,32 +16,26 @@ public class StreamDemo6Parallel {
 
 	private final List<Person> personen = personenStream().limit(1_000_000).collect(toList());
 
-	// TODO sequentiell ist bei mir schneller :(
-
 	@Test
 	public void sequentiell() throws Exception {
-		long start = System.currentTimeMillis();
-
-		long anzahlMuellers = personen.stream() //
-				.filter(person -> person.getNachname().equals("Müller")) //
-				.count();
-		assertThat(anzahlMuellers, is(9928L));
-
-		long time = System.currentTimeMillis() - start;
-		System.out.println("sequentiell: " + time);
+		performanceTest(personen.stream());
 	}
 
 	@Test
 	public void parallel() throws Exception {
+		performanceTest(personen.stream().parallel());
+	}
+
+	private void performanceTest(Stream<Person> stream) {
 		long start = System.currentTimeMillis();
 
-		long anzahlMuellers = personen.stream() //
-				.parallel() //
+		long anzahlMuellers = stream //
 				.filter(person -> person.getNachname().equals("Müller")) //
 				.count();
 		assertThat(anzahlMuellers, is(9928L));
 
 		long time = System.currentTimeMillis() - start;
-		System.out.println("parallel: " + time);
+		String type = stream.isParallel() ? "parallel" : "sequentiell";
+		System.out.println(type + ": " + time);
 	}
 }
