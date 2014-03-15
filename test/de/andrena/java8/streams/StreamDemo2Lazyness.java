@@ -15,11 +15,11 @@ public class StreamDemo2Lazyness {
 
 	@Test
 	public void streamsPipelinesSindLazy() throws Exception {
-		Stream<Person> stream = personenStream();
-
-		stream = stream.limit(10_000).filter(person -> {
-			return "Müller".equals(person.getNachname());
-		});
+		Stream<Person> stream = personenStream() //
+				.limit(10_000) //
+				.filter(person -> {
+					return "Müller".equals(person.getNachname());
+				});
 
 		System.out.println("Wird ausgeführt bevor gefiltert wird");
 

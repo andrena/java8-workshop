@@ -11,7 +11,7 @@ import org.junit.Test;
 
 import de.andrena.java8.Person;
 
-public class StreamDemo4NoReuseOfStreams {
+public class StreamDemo3NoReuseOfStreams {
 
 	@Test
 	public void streamsKoennenNichtWiederverwendetWerden() throws Exception {

@@ -8,7 +8,7 @@ import static org.junit.Assert.assertThat;
 
 import org.junit.Test;
 
-public class StreamDemo3PipelinesShortcuts {
+public class StreamDemo4PipelinesShortcuts {
 
 	private int counter = 0;
 
