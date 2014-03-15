@@ -3,6 +3,7 @@ package de.andrena.java8;
 import static java.util.Collections.unmodifiableList;
 
 import java.time.LocalDate;
+import java.time.Period;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -56,5 +57,9 @@ public class Person {
 	@Override
 	public String toString() {
 		return vorname + " " + nachname;
+	}
+
+	public int alterInJahren() {
+		return Period.between(geburtstag, LocalDate.now()).getYears();
 	}
 }

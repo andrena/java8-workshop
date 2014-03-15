@@ -1,6 +1,7 @@
 package de.andrena.java8.streams;
 
 import static de.andrena.java8.PersonenGenerator.personenStream;
+import static java.util.stream.Collectors.groupingBy;
 import static org.hamcrest.Matchers.hasSize;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
@@ -33,18 +34,40 @@ public class StreamDemo9Collector {
 
 	@Test
 	public void grouping() {
-		Map<String, List<Person>> personenNachStadt = personenStream().limit(100_000) //
+		Map<String, List<Person>> personenNachStadt = personenStream() //
+				.limit(100_000) //
 				.filter(person -> !person.getAdressen().isEmpty()) //
-				.collect(Collectors.groupingBy(person -> person.getAdressen().get(0).getStadt()));
+				.collect(Collectors.groupingBy( //
+						person -> person.getAdressen().get(0).getStadt()));
 
 		personenNachStadt.entrySet() //
 				.stream() //
 				.sorted(Comparator.comparing(entry -> entry.getKey())) //
-				.forEach(entry -> System.out.println(entry.getKey() + ": " + entry.getValue().size()));
+				.forEach(entry -> System.out.println( //
+						entry.getKey() + ": " + entry.getValue().size()));
 
 		System.out.println(personenNachStadt.size());
 
 		assertThat(personenNachStadt.get("Karlsruhe"), hasSize(48));
 		assertThat(personenNachStadt.get("Stuttgart"), hasSize(51));
+	}
+
+	@Test
+	public void groupingByAge() {
+		Map<Integer, List<Person>> personenNachAlter = personenStream() //
+				.limit(100_000) //
+				.filter(person -> !person.getAdressen().isEmpty()) //
+				.collect(groupingBy(person -> person.alterInJahren()));
+
+		personenNachAlter.entrySet() //
+				.stream() //
+				.sorted(Comparator.comparing(entry -> entry.getKey())) //
+				.forEach(entry -> System.out.println( //
+						entry.getKey() + ": " + entry.getValue().size()));
+
+		System.out.println(personenNachAlter.size());
+
+		assertThat(personenNachAlter.get(34), hasSize(1061));
+		assertThat(personenNachAlter.get(99), hasSize(988));
 	}
 }
