@@ -26,7 +26,7 @@ public class StreamDemo9Collector {
 		List<Person> personenListe = Arrays.asList(antonio, julia, stefan);
 
 		String vornamen = personenListe.stream() //
-				.map(person -> person.getVorname()) //
+				.map(Person::getVorname) //
 				.collect(Collectors.joining(", "));
 
 		assertThat(vornamen, is("Antonio, Julia, Stefan"));
@@ -67,7 +67,7 @@ public class StreamDemo9Collector {
 
 		System.out.println(personenNachAlter.size());
 
-		assertThat(personenNachAlter.get(34), hasSize(1061));
-		assertThat(personenNachAlter.get(99), hasSize(988));
+		assertThat(personenNachAlter.get(34), hasSize(1055));
+		assertThat(personenNachAlter.get(99), hasSize(989));
 	}
 }

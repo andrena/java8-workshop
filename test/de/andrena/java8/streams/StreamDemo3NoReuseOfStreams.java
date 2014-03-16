@@ -15,7 +15,8 @@ public class StreamDemo3NoReuseOfStreams {
 
 	@Test
 	public void streamsKoennenNichtWiederverwendetWerden() throws Exception {
-		Stream<Person> stream = personenStream().limit(1_000).filter(person -> "Müller".equals(person.getNachname()));
+		Stream<Person> stream = personenStream().limit(1_000) //
+				.filter(person -> "Müller".equals(person.getNachname()));
 
 		assertThat(stream.count(), is(greaterThan(1L)));
 

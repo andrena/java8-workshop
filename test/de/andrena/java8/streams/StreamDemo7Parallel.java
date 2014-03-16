@@ -1,19 +1,16 @@
 package de.andrena.java8.streams;
 
 import static de.andrena.java8.PersonenGenerator.personenStream;
-import static java.lang.Math.exp;
 import static java.util.stream.Collectors.toList;
 
 import java.util.List;
 import java.util.function.Consumer;
-import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
 import org.junit.Test;
 
 import de.andrena.java8.Person;
 
-@SuppressWarnings("unused")
 public class StreamDemo7Parallel {
 
 	private final List<Person> personen = personenStream().limit(100).collect(toList());
@@ -29,7 +26,11 @@ public class StreamDemo7Parallel {
 	}
 
 	private void langsameOperation(Person person) {
-		IntStream.range(0, 1_000_000).asDoubleStream().forEach(Math::exp);
+		try {
+			Thread.sleep(50);
+		} catch (InterruptedException e) {
+			throw new RuntimeException(e);
+		}
 	}
 
 	private void performanceTest(String type, Stream<Person> stream, Consumer<? super Person> action) {
