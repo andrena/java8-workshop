@@ -1,4 +1,4 @@
-package de.andrena.java8.functional.consumers;
+package de.andrena.java8.function.consumers;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

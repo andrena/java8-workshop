@@ -1,4 +1,4 @@
-package de.andrena.java8.functional.functions;
+package de.andrena.java8.function.functions;
 
 import static org.hamcrest.Matchers.is;
 import static org.hamcrest.Matchers.nullValue;

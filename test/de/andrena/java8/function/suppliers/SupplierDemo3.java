@@ -1,4 +1,4 @@
-package de.andrena.java8.functional.suppliers;
+package de.andrena.java8.function.suppliers;
 
 import static java.util.stream.Collectors.joining;
 
@@ -10,7 +10,7 @@ import org.junit.Test;
 
 import de.andrena.java8.Person;
 
-public class SupplierDemo4 {
+public class SupplierDemo3 {
 
 	@Test
 	public void mitPerson() {
@@ -25,7 +25,8 @@ public class SupplierDemo4 {
 	}
 
 	private void ueberpruefePerson(Person person) {
-		Objects.requireNonNull(person, () -> "Keine Person\n" + ermittleKomplizierteNachricht());
+		String message = "Keine Person\n" + ermittleKomplizierteNachricht();
+		Objects.requireNonNull(person, message);
 	}
 
 	private static String ermittleKomplizierteNachricht() {

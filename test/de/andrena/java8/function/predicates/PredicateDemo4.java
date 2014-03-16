@@ -1,4 +1,4 @@
-package de.andrena.java8.functional.predicates;
+package de.andrena.java8.function.predicates;
 
 import static org.hamcrest.Matchers.contains;
 import static org.junit.Assert.assertThat;
@@ -6,14 +6,14 @@ import static org.junit.Assert.assertThat;
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Iterator;
 import java.util.List;
+import java.util.function.Predicate;
 
 import org.junit.Test;
 
 import de.andrena.java8.Person;
 
-public class PredicateDemo2 {
+public class PredicateDemo4 {
 
 	@Test
 	public void allePersonenOhneGeburtsdatumEntfernen() throws Exception {
@@ -23,12 +23,8 @@ public class PredicateDemo2 {
 
 		List<Person> personen = new ArrayList<>(Arrays.asList(stefan, antonio, julia));
 
-		for (Iterator<Person> iterator = personen.iterator(); iterator.hasNext();) {
-			Person person = iterator.next();
-			if (person.getGeburtstag() == null) {
-				iterator.remove();
-			}
-		}
+		Predicate<Person> keinGeburtstagBekannt = p -> p.getGeburtstag() == null;
+		personen.removeIf(keinGeburtstagBekannt);
 
 		assertThat(personen, contains(julia));
 	}

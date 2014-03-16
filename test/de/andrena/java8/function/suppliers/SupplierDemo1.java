@@ -1,4 +1,4 @@
-package de.andrena.java8.functional.suppliers;
+package de.andrena.java8.function.suppliers;
 
 import static java.util.stream.Collectors.joining;
 

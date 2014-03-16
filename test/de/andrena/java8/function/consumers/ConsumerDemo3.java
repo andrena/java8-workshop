@@ -1,13 +1,14 @@
-package de.andrena.java8.functional.consumers;
+package de.andrena.java8.function.consumers;
 
 import java.time.LocalDate;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
+import java.util.function.Consumer;
 
 import de.andrena.java8.Person;
 
-public class ConsumerDemo2 {
+public class ConsumerDemo3 {
 
 	public static void main(String[] args) {
 		Person antonio = new Person("Antonio", "Calabrese");
@@ -16,8 +17,9 @@ public class ConsumerDemo2 {
 
 		List<Person> personen = new ArrayList<>(Arrays.asList(antonio, julia, stefan));
 
+		Consumer<Person> consumer = person -> System.out.println(person);
 		for (Person person : personen) {
-			System.out.println(person);
+			consumer.accept(person);
 		}
 	}
 }

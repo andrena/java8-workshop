@@ -1,16 +1,15 @@
-package de.andrena.java8.functional.suppliers;
+package de.andrena.java8.function.suppliers;
 
 import static java.util.stream.Collectors.joining;
 
 import java.util.Map.Entry;
-import java.util.Objects;
 import java.util.stream.Stream;
 
 import org.junit.Test;
 
 import de.andrena.java8.Person;
 
-public class SupplierDemo3 {
+public class SupplierDemo2 {
 
 	@Test
 	public void mitPerson() {
@@ -25,8 +24,10 @@ public class SupplierDemo3 {
 	}
 
 	private void ueberpruefePerson(Person person) {
-		String message = "Keine Person\n" + ermittleKomplizierteNachricht();
-		Objects.requireNonNull(person, message);
+		if (person == null) {
+			String message = "Keine Person\n" + ermittleKomplizierteNachricht();
+			throw new IllegalArgumentException(message);
+		}
 	}
 
 	private static String ermittleKomplizierteNachricht() {
