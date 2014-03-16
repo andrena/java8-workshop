@@ -1,4 +1,4 @@
-1. Ursprungszustand
+1. Implementierung mit Collections.sort() und Comparator
 2. Konvertierung in Lambda mit Block-Schreibweise
 3. Entfernen der Parametertypen
 4. Konvertierung des Lambdas von Block-Schreibweise in Expression-Schreibweise
