@@ -29,7 +29,7 @@ public class DateTimeDemo4PeriodAndDuration {
 	}
 
 	@Test
-	public void weihnachten() throws Exception {
+	public void weihnachten() {
 		LocalDate weihnachten = LocalDate.now().with(Month.DECEMBER).withDayOfMonth(24);
 		Period period = LocalDate.now().until(weihnachten);
 		System.out.println("Noch " + period.getMonths() + " Monate und " + period.getDays() + " Tage bis Weihnachten");
