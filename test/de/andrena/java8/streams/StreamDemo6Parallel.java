@@ -30,7 +30,7 @@ public class StreamDemo6Parallel {
 		long start = System.currentTimeMillis();
 
 		long anzahlMuellers = stream //
-				.filter(person -> person.getNachname().equals("Müller")) //
+				.filter(person -> "Müller".equals(person.getNachname())) //
 				.count();
 		assertThat(anzahlMuellers, is(9928L));
 
