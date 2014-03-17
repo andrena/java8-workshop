@@ -101,8 +101,8 @@ public class PersonenGenerator {
 	}
 
 	private class Ort {
-		String plz;
-		String name;
+		final String plz;
+		final String name;
 
 		Ort(String plz, String name) {
 			this.plz = plz;
