@@ -1,7 +1,6 @@
 package de.andrena.java8.function.consumers;
 
 import java.time.LocalDate;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -14,7 +13,7 @@ public class ConsumerDemo6 {
 		Person julia = new Person("Julia", "Hall", LocalDate.of(1978, 3, 25));
 		Person stefan = new Person("Stefan", "Maier");
 
-		List<Person> personen = new ArrayList<>(Arrays.asList(antonio, julia, stefan));
+		List<Person> personen = Arrays.asList(antonio, julia, stefan);
 
 		personen.forEach(System.out::println);
 	}

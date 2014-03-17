@@ -5,7 +5,6 @@ import static org.hamcrest.Matchers.nullValue;
 import static org.junit.Assert.assertThat;
 
 import java.time.LocalDate;
-import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
@@ -21,7 +20,7 @@ public class FunctionDemo1 {
 		Person julia = new Person("Julia", "Hall", LocalDate.of(1978, 3, 25));
 		Person stefan = new Person("Stefan", "Maier");
 
-		List<Person> personen = new ArrayList<>(Arrays.asList(antonio, julia, stefan));
+		List<Person> personen = Arrays.asList(antonio, julia, stefan);
 
 		// TODO Ersetze Personen mit Geburtsdatum durch gleiche Person ohne
 		// Geburtsdatum
