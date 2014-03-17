@@ -10,6 +10,7 @@ import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.time.LocalDate;
 import java.time.Month;
+import java.time.Year;
 import java.util.List;
 import java.util.Random;
 import java.util.stream.Stream;
@@ -77,11 +78,10 @@ public class PersonenGenerator {
 	}
 
 	private LocalDate generiereGeburtstag() {
-		int vor100Jahren = LocalDate.now().getYear() - 100;
-		int year = vor100Jahren + random.nextInt(100);
+		Year year = Year.now().minusYears(100).plusYears(random.nextInt(100));
 		Month month = zufaelligerMonat();
-		int dayOfMonth = 1 + random.nextInt(month.length(false));
-		return LocalDate.of(year, month, dayOfMonth);
+		int dayOfMonth = 1 + random.nextInt(month.length(year.isLeap()));
+		return LocalDate.now().with(year).with(month).withDayOfMonth(dayOfMonth);
 	}
 
 	private Month zufaelligerMonat() {
