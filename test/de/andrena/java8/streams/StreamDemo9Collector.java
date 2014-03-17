@@ -67,7 +67,7 @@ public class StreamDemo9Collector {
 
 		System.out.println(personenNachAlter.size());
 
-		assertThat(personenNachAlter.get(34), hasSize(1055));
-		assertThat(personenNachAlter.get(99), hasSize(989));
+		assertThat(personenNachAlter.get(34), hasSize(1049));
+		assertThat(personenNachAlter.get(99), hasSize(986));
 	}
 }
