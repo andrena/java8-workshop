@@ -8,6 +8,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Stream;
 
+import org.junit.Ignore;
 import org.junit.Test;
 
 import de.andrena.java8.Person;
@@ -29,6 +30,7 @@ public class StreamDemo5Endless {
 	}
 
 	@Test
+	@Ignore
 	public void streamsSindPotentiellEndlos() throws Exception {
 		Stream<Person> stream = PersonenGenerator.personenStream();
 
