@@ -1,6 +1,5 @@
 package de.andrena.java8.streams;
 
-import static java.util.stream.Collectors.toList;
 import static org.hamcrest.Matchers.hasSize;
 import static org.hamcrest.Matchers.is;
 import static org.hamcrest.Matchers.notNullValue;
@@ -8,7 +7,6 @@ import static org.junit.Assert.assertThat;
 import static org.junit.Assert.assertTrue;
 
 import java.util.ArrayList;
-import java.util.Comparator;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -55,7 +53,7 @@ public class StreamDemo1Intro extends TestMit100000Personen {
 	public void map() {
 		List<String> nachnamen = personen.stream() //
 				.map(person -> person.getNachname()) //
-				.collect(toList());
+				.collect(Collectors.toList());
 
 		assertThat(nachnamen, hasSize(100000));
 	}
@@ -65,7 +63,7 @@ public class StreamDemo1Intro extends TestMit100000Personen {
 		List<String> vornamen = personen.stream() //
 				.filter(person -> "Müller".equals(person.getNachname())) //
 				.map(person -> person.getVorname()) //
-				.collect(toList());
+				.collect(Collectors.toList());
 
 		assertThat(vornamen, hasSize(950));
 	}
@@ -73,12 +71,12 @@ public class StreamDemo1Intro extends TestMit100000Personen {
 	@Test
 	public void loopingIsUgly() {
 		boolean esGibtJemandAusStuttgartDer2002GeborenWurde = false;
-		for (Person person : personen) {
+		outer: for (Person person : personen) {
 			if (person.getGeburtstag().getYear() == 2002) {
 				for (Adresse adresse : person.getAdressen()) {
 					if ("Stuttgart".equals(adresse.getStadt())) {
 						esGibtJemandAusStuttgartDer2002GeborenWurde = true;
-						break;
+						break outer;
 					}
 				}
 			}
@@ -97,34 +95,4 @@ public class StreamDemo1Intro extends TestMit100000Personen {
 		assertTrue(esGibtJemandAusStuttgartDer2002GeborenWurde);
 	}
 
-	@Test
-	public void loopingIsUgly2() {
-		List<String> nachnamenDie2002GeburtstagHaben = new ArrayList<>();
-		for (Person person : personen) {
-			if (person.getGeburtstag().getYear() == 2002) {
-				if (!nachnamenDie2002GeburtstagHaben.contains(person.getNachname())) {
-					nachnamenDie2002GeburtstagHaben.add(person.getNachname());
-				}
-			}
-		}
-		nachnamenDie2002GeburtstagHaben.sort(Comparator.naturalOrder());
-
-		assertThat(nachnamenDie2002GeburtstagHaben, hasSize(100));
-		assertThat(nachnamenDie2002GeburtstagHaben.get(0), is("Albrecht"));
-		assertThat(nachnamenDie2002GeburtstagHaben.get(99), is("Zimmermann"));
-	}
-
-	@Test
-	public void streamingIsBeautiful2() {
-		List<String> nachnamenDie2002GeburtstagHaben = personen.stream()
-				.filter(person -> person.getGeburtstag().getYear() == 2002) //
-				.map(person -> person.getNachname()) //
-				.distinct() //
-				.sorted() //
-				.collect(Collectors.toList());
-
-		assertThat(nachnamenDie2002GeburtstagHaben, hasSize(100));
-		assertThat(nachnamenDie2002GeburtstagHaben.get(0), is("Albrecht"));
-		assertThat(nachnamenDie2002GeburtstagHaben.get(99), is("Zimmermann"));
-	}
 }
