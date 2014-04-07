@@ -8,6 +8,7 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.Month;
 import java.time.Period;
+import java.time.Year;
 import java.time.temporal.ChronoUnit;
 
 import org.junit.Test;
@@ -30,8 +31,8 @@ public class DateTimeDemo4PeriodAndDuration {
 
 	@Test
 	public void weihnachten() {
-		LocalDate weihnachten = LocalDate.now().with(Month.DECEMBER).withDayOfMonth(24);
-		Period period = LocalDate.now().until(weihnachten);
+		LocalDate weihnachtenDiesesJahr = Year.now().atMonth(Month.DECEMBER).atDay(24);
+		Period period = LocalDate.now().until(weihnachtenDiesesJahr);
 		System.out.println("Noch " + period.getMonths() + " Monate und " + period.getDays() + " Tage bis Weihnachten");
 	}
 }

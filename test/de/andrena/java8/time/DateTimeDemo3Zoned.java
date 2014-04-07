@@ -17,7 +17,7 @@ public class DateTimeDemo3Zoned {
 
 	@Test
 	public void fromLocalDateTime() {
-		LocalDate date = LocalDate.of(2014, 3, 18);
+		LocalDate date = LocalDate.of(2014, 4, 7);
 		LocalTime time = LocalTime.of(18, 30);
 		LocalDateTime local = LocalDateTime.of(date, time);
 

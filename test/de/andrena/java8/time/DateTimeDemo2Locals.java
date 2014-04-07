@@ -1,5 +1,6 @@
 package de.andrena.java8.time;
 
+import static java.time.DayOfWeek.FRIDAY;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
 
@@ -13,6 +14,7 @@ import java.time.temporal.ChronoUnit;
 import java.time.temporal.Temporal;
 import java.time.temporal.TemporalAdjuster;
 import java.time.temporal.TemporalAdjusters;
+import java.time.temporal.TemporalQuery;
 import java.util.stream.Stream;
 
 import org.junit.Test;
@@ -59,8 +61,12 @@ public class DateTimeDemo2Locals {
 	}
 
 	private boolean isFridayThirteenth(Temporal temporal) {
-		int dayOfWeek = temporal.get(ChronoField.DAY_OF_WEEK);
-		int dayOfMonth = temporal.get(ChronoField.DAY_OF_MONTH);
-		return dayOfMonth == 13 && dayOfWeek == DayOfWeek.FRIDAY.getValue();
+		DayOfWeek dayOfWeek = DayOfWeek.from(temporal);
+		boolean is13th = temporal.query(is13th());
+		return dayOfWeek == FRIDAY && is13th;
+	}
+
+	private TemporalQuery<Boolean> is13th() {
+		return t -> t.get(ChronoField.DAY_OF_MONTH) == 13;
 	}
 }
