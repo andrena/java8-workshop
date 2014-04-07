@@ -70,29 +70,29 @@ public class StreamDemo1Intro extends TestMit100000Personen {
 
 	@Test
 	public void loopingIsUgly() {
-		boolean esGibtJemandAusStuttgartDer2002GeborenWurde = false;
-		outer: for (Person person : personen) {
-			if (person.getGeburtstag().getYear() == 2002) {
+		boolean esGibtJemandAusKarlsruheDer1917GeborenWurde = false;
+		for (Person person : personen) {
+			if (person.getGeburtstag().getYear() == 1917) {
 				for (Adresse adresse : person.getAdressen()) {
-					if ("Stuttgart".equals(adresse.getStadt())) {
-						esGibtJemandAusStuttgartDer2002GeborenWurde = true;
-						break outer;
+					if ("Karlsruhe".equals(adresse.getStadt())) {
+						esGibtJemandAusKarlsruheDer1917GeborenWurde = true;
+						break;
 					}
 				}
 			}
 		}
 
-		assertTrue(esGibtJemandAusStuttgartDer2002GeborenWurde);
+		assertTrue(esGibtJemandAusKarlsruheDer1917GeborenWurde);
 	}
 
 	@Test
 	public void streamingIsBeautiful() {
-		boolean esGibtJemandAusStuttgartDer2002GeborenWurde = personen.stream()
-				.filter(person -> person.getGeburtstag().getYear() == 2002)
+		boolean esGibtJemandAusKarlsruheDer1917GeborenWurde = personen.stream()
+				.filter(person -> person.getGeburtstag().getYear() == 1917)
 				.flatMap(person -> person.getAdressen().stream())
-				.anyMatch(adresse -> "Stuttgart".equals(adresse.getStadt()));
+				.anyMatch(adresse -> "Karlsruhe".equals(adresse.getStadt()));
 
-		assertTrue(esGibtJemandAusStuttgartDer2002GeborenWurde);
+		assertTrue(esGibtJemandAusKarlsruheDer1917GeborenWurde);
 	}
 
 }
