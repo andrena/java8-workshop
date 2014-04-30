@@ -17,9 +17,8 @@ public class SupplierUebung {
 	@Rule
 	public LogRecordCollector logCollector = new LogRecordCollector(logger);
 
-	void logIf(/* TODO */) {
-		// TODO
-		// logger.log(...);
+	void logIf(/* TODO Signatur */) {
+		// TODO Implementieren
 	}
 
 	@Test
