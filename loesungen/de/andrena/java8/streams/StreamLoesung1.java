@@ -1,5 +1,6 @@
-package de.andrena.java8.streams.teil1;
+package de.andrena.java8.streams;
 
+import static java.util.function.Predicate.isEqual;
 import static org.hamcrest.Matchers.closeTo;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
@@ -13,13 +14,14 @@ import org.junit.Test;
 import de.andrena.java8.Person;
 import de.andrena.java8.streams.TestMit100000Personen;
 
-public class StreamAufgabe1 extends TestMit100000Personen {
+public class StreamLoesung1 extends TestMit100000Personen {
 
 	@Test
 	public void esGibtPersonenMitNachnahmenMaier() {
 
-		// TODO boolean esGibtPersonenMitNachnahmenMaier = newPersonenStream()....
-		boolean esGibtPersonenMitNachnahmenMaier = false;
+		boolean esGibtPersonenMitNachnahmenMaier = newPersonenStream() //
+				.map(Person::getNachname) //
+				.anyMatch(nachname -> nachname.equals("Maier"));
 
 		assertTrue(esGibtPersonenMitNachnahmenMaier);
 	}
@@ -27,8 +29,10 @@ public class StreamAufgabe1 extends TestMit100000Personen {
 	@Test
 	public void wieVielePersonenGibtEsMitNachnahmenMaier() {
 
-		// TODO long anzahlPersonenMitNachnahmenMaier = newPersonenStream()....
-		long anzahlPersonenMitNachnahmenMaier = 0;
+		long anzahlPersonenMitNachnahmenMaier = newPersonenStream() //
+				.map(Person::getNachname) //
+				.filter(isEqual("Maier")) //
+				.count();
 
 		assertThat(anzahlPersonenMitNachnahmenMaier, is(1006L));
 	}
@@ -36,8 +40,10 @@ public class StreamAufgabe1 extends TestMit100000Personen {
 	@Test
 	public void anzahlVerschiedenerVornamen() {
 
-		// TODO long anzahlVerschiedenerVornamen = newPersonenStream()....
-		long anzahlVerschiedenerVornamen = 0;
+		long anzahlVerschiedenerVornamen = newPersonenStream() //
+				.map(person -> person.getVorname()) //
+				.distinct() //
+				.count();
 
 		assertThat(anzahlVerschiedenerVornamen, is(559L));
 	}
@@ -45,17 +51,20 @@ public class StreamAufgabe1 extends TestMit100000Personen {
 	@Test
 	public void esGibtPersonenMitNachnahmenMitMehrAls8Zeichen() {
 
-		// TODO boolean esGibtPersonenMitNachnahmenMitMehrAls8Zeichen = newPersonenStream()....
-		boolean esGibtPersonenMitNachnahmenMitMehrAls8Zeichen = false;
+		boolean esGibtPersonenMitNachnahmenMitMehrAls8Zeichen = newPersonenStream() //
+				.map(Person::getNachname) //
+				.mapToInt(String::length) //
+				.anyMatch(length -> length > 8);
 
 		assertTrue(esGibtPersonenMitNachnahmenMitMehrAls8Zeichen);
 	}
 
 	@Test
 	public void laengeDerNachnamen() {
-
-		// TODO IntSummaryStatistics laengeDerNachnamenStatistik = newPersonenStream()...
-		IntSummaryStatistics laengeDerNachnamenStatistik = new IntSummaryStatistics();
+		IntSummaryStatistics laengeDerNachnamenStatistik = newPersonenStream() //
+				.map(Person::getNachname) //
+				.mapToInt(String::length) //
+				.summaryStatistics();
 
 		assertThat(laengeDerNachnamenStatistik.getMin(), is(4));
 		assertThat(laengeDerNachnamenStatistik.getMax(), is(10));
