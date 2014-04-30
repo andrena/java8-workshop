@@ -1,8 +1,5 @@
 package de.andrena.java8.basics.predicates;
 
-import static org.hamcrest.Matchers.contains;
-import static org.junit.Assert.assertThat;
-
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collection;
@@ -27,6 +24,7 @@ public class PredicatesUebung {
 		// TODO Aufrufen
 		// removeIf(...);
 
-		assertThat(collection, contains(julia));
+		// TODO Testen
+		// assertThat(collection, contains(...));
 	}
 }

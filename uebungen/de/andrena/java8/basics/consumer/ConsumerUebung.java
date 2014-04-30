@@ -13,7 +13,7 @@ public class ConsumerUebung {
 
 	@Test
 	public void consumerWirdMitWertAusSupplierAufgerufen() {
-		// TODO Aufrufen
+		// TODO Aufrufen & Testen
 		// consume(...);
 	}
 }
