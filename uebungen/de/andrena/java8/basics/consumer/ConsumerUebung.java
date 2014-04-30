@@ -12,7 +12,7 @@ public class ConsumerUebung {
 	}
 
 	@Test
-	public void consumerWirdMitWertAusSupplierAufgerufen() throws Exception {
+	public void consumerWirdMitWertAusSupplierAufgerufen() {
 		// TODO Aufrufen
 		// consume(...);
 	}

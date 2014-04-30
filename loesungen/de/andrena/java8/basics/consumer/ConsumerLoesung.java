@@ -17,7 +17,7 @@ public class ConsumerLoesung {
 	}
 
 	@Test
-	public void consumerWirdMitWertAusSupplierAufgerufen() throws Exception {
+	public void consumerWirdMitWertAusSupplierAufgerufen() {
 		consume(() -> "Wert", s -> result = s);
 		assertThat(result, is("Wert"));
 	}

@@ -17,7 +17,7 @@ public class ConsumerBonusAntwort {
 	}
 
 	@Test
-	public void consumerWirdMitWertAusSupplierAufgerufen() throws Exception {
+	public void consumerWirdMitWertAusSupplierAufgerufen() {
 		Consumer<Object> consumer = s -> result = s;
 		Supplier<String> supplier = () -> "Wert";
 
