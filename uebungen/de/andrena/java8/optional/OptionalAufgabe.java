@@ -16,7 +16,7 @@ import org.junit.Test;
 import de.andrena.java8.Person;
 import de.andrena.java8.streams.TestMit100000Personen;
 
-public class OptionalUebung extends TestMit100000Personen {
+public class OptionalAufgabe extends TestMit100000Personen {
 
 	@Test
 	public void personAusOptionalAuslesen() {
