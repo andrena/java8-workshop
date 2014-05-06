@@ -145,10 +145,11 @@ Bearbeite die Klasse `OptionalAufgabe` ohne ein einziges `if`-Statement zu verwe
 
 ## DateTime-API
 
-1. Personen finden, die Dienstags Geburtstag haben
-1. Personen filtern, die im März geboren sind
-1. Personen nach Geburtsjahr gruppieren und Jahr+Anzahl ausgeben (nach Jahr sortiert)
-1. Alter der Personen ausrechnen
+1. Ermittle die Anzahl der Personen, die an einem Freitag den 13. geboren sind.
+1. Ermittle den Wochentag des 1. April 2014.
+1. Ermittle das Alter in Jahren, Monaten und Tagen einer Person, die am 12. März 1976 geboren ist. Tipp: Verwende die Klasse `Period`.
+1. Gib alle Zeitzonen sortiert aus. Siehe `ZoneId.getAvailableZoneIds`, verwende die `Stream`-API.
+1. Gruppiere die Personen nach Geburtsjahr und ermittle das Jahr mit den meisten Geburten.
 
 ---
 (C) Copyright 2014 andrena objects ag
