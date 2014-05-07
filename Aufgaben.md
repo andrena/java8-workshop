@@ -1,11 +1,3 @@
-Title:  Java 8 Workshop - Aufgaben  
-Author: David Burkhart, Marc Philipp  
-Quotes Language: de  
-CSS: Markdown/styles/swiss.css  
-HTML header:  <link rel="stylesheet" href="Markdown/highlight/styles/solarized_light.css">
-	<script src="Markdown/highlight/highlight.pack.js"></script>
-	<script>hljs.initHighlightingOnLoad();</script>  
-
 # Java 8 Workshop -- Aufgaben
 
 Code: <https://github.com/andrena/java8-workshop>
