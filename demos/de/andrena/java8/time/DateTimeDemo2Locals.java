@@ -9,6 +9,7 @@ import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.time.LocalTime;
 import java.time.Month;
+import java.time.Year;
 import java.time.temporal.ChronoField;
 import java.time.temporal.ChronoUnit;
 import java.time.temporal.Temporal;
@@ -42,10 +43,18 @@ public class DateTimeDemo2Locals {
 	@Test
 	public void temporalAdjusters() {
 		LocalDate nextFriday = LocalDate.now().with(TemporalAdjusters.next(DayOfWeek.FRIDAY));
-		assertThat(nextFriday, is(LocalDate.of(2014, 3, 21)));
+		assertThat(nextFriday, is(calculateNextFriday()));
 
 		LocalDate firstDayOfNextYear = LocalDate.now().with(TemporalAdjusters.firstDayOfNextYear());
-		assertThat(firstDayOfNextYear, is(LocalDate.of(2015, 1, 1)));
+		assertThat(firstDayOfNextYear, is(Year.now().plusYears(1).atDay(1)));
+	}
+
+	private LocalDate calculateNextFriday() {
+		return Stream //
+				.iterate(LocalDate.now(), d -> d.plusDays(1)) //
+				.filter(d -> d.getDayOfWeek() == DayOfWeek.FRIDAY) //
+				.findFirst() //
+				.get();
 	}
 
 	@Test
