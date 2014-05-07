@@ -6,9 +6,9 @@ HTML header:  <link rel="stylesheet" href="Markdown/highlight/styles/solarized_l
 	<script src="Markdown/highlight/highlight.pack.js"></script>
 	<script>hljs.initHighlightingOnLoad();</script>  
 
-<!-- multimarkdown -f Aufgaben.md -o Aufgaben.html -->
-
 # Java 8 Workshop -- Aufgaben
+
+Code: <https://github.com/andrena/java8-workshop>
 
 ## Functional Interfaces und Lambdas
 
