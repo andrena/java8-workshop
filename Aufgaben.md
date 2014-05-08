@@ -14,7 +14,7 @@ if (logger.isLoggable(Level.INFO)) {
 }
 ```
 
-Wie kann man das erreichen, dass die Nachricht nur dann gebaut wird, wenn sie benötigt wird, ohne ein `if`-Statement zu verwenden?
+Im obigen Beispiel wird `ermittleKomplizierteNachricht()` nur dann aufgerufen, wenn `Level.INFO` geloggt werden soll. Wie kann man das gleiche erreichen, ohne ein `if`-Statement zu verwenden?
 
 *Tipp:* Schau dir die `info`-Methoden der Klasse `java.util.logging.Logger` an.
 
