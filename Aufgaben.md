@@ -14,9 +14,9 @@ if (logger.isLoggable(Level.INFO)) {
 }
 ```
 
-Wie kann man das gleiche erreichen, ohne ein `if`-Statement zu verwenden?
+Wie kann man das erreichen, dass die Nachricht nur dann gebaut wird, wenn sie benötigt wird, ohne ein `if`-Statement zu verwenden?
 
-*Tipp:* Schau dir die Methoden der Klasse `java.util.logging.Logger` an.
+*Tipp:* Schau dir die `info`-Methoden der Klasse `java.util.logging.Logger` an.
 
 #### 2. `SupplierUebung`
 
@@ -51,6 +51,7 @@ Erzeuge eine Liste von Personen und gebe sie auf die Konsole aus ohne eine Schle
 #### 1. `PredicatesUebung`
 
 Implementiere eine statische Methode mit folgender Signatur, die alle Elemente aus einer `Collection` entfernt, die einem `Predicate` entsprechen und rufe sie auf.
+
 ```java
 <T> void removeIf(Collection<T> collection, Predicate<T> predicate)
 ```
