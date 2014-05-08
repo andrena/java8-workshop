@@ -81,7 +81,7 @@ Implementiere eine statische Methode mit folgender Signatur, die alle Elemente, 
 <T> void replaceIf(List<T> list, Predicate<T> predicate, Function<T, T> function)
 ```
 
-*Tipp:* Verwende `List#listIterator`.
+*Tipp:* Verwende `List#listIterator` und `ListIterator#set`.
 
 #### 2. `FunctionsBonusFrage`
 
