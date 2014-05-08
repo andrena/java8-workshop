@@ -12,29 +12,28 @@ import java.util.stream.Stream;
 import org.junit.Test;
 
 import de.andrena.java8.Person;
-import de.andrena.java8.streams.TestMit100000Personen;
 
 public class StreamLoesung1 extends TestMit100000Personen {
 
 	@Test
-	public void esGibtPersonenMitNachnahmenMaier() {
+	public void esGibtPersonenMitNachnamenMaier() {
 
-		boolean esGibtPersonenMitNachnahmenMaier = newPersonenStream() //
+		boolean esGibtPersonenMitNachnamenMaier = newPersonenStream() //
 				.map(Person::getNachname) //
 				.anyMatch(nachname -> nachname.equals("Maier"));
 
-		assertTrue(esGibtPersonenMitNachnahmenMaier);
+		assertTrue(esGibtPersonenMitNachnamenMaier);
 	}
 
 	@Test
-	public void wieVielePersonenGibtEsMitNachnahmenMaier() {
+	public void wieVielePersonenGibtEsMitNachnamenMaier() {
 
-		long anzahlPersonenMitNachnahmenMaier = newPersonenStream() //
+		long anzahlPersonenMitNachnamenMaier = newPersonenStream() //
 				.map(Person::getNachname) //
 				.filter(isEqual("Maier")) //
 				.count();
 
-		assertThat(anzahlPersonenMitNachnahmenMaier, is(1006L));
+		assertThat(anzahlPersonenMitNachnamenMaier, is(1006L));
 	}
 
 	@Test
@@ -49,14 +48,14 @@ public class StreamLoesung1 extends TestMit100000Personen {
 	}
 
 	@Test
-	public void esGibtPersonenMitNachnahmenMitMehrAls8Zeichen() {
+	public void esGibtPersonenMitNachnamenMitMehrAls8Zeichen() {
 
-		boolean esGibtPersonenMitNachnahmenMitMehrAls8Zeichen = newPersonenStream() //
+		boolean esGibtPersonenMitNachnamenMitMehrAls8Zeichen = newPersonenStream() //
 				.map(Person::getNachname) //
 				.mapToInt(String::length) //
 				.anyMatch(length -> length > 8);
 
-		assertTrue(esGibtPersonenMitNachnahmenMitMehrAls8Zeichen);
+		assertTrue(esGibtPersonenMitNachnamenMitMehrAls8Zeichen);
 	}
 
 	@Test

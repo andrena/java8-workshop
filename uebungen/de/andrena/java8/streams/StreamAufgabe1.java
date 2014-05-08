@@ -11,26 +11,25 @@ import java.util.stream.Stream;
 import org.junit.Test;
 
 import de.andrena.java8.Person;
-import de.andrena.java8.streams.TestMit100000Personen;
 
 public class StreamAufgabe1 extends TestMit100000Personen {
 
 	@Test
-	public void esGibtPersonenMitNachnahmenMaier() {
+	public void esGibtPersonenMitNachnamenMaier() {
 
-		// TODO boolean esGibtPersonenMitNachnahmenMaier = newPersonenStream()....
-		boolean esGibtPersonenMitNachnahmenMaier = false;
+		// TODO boolean esGibtPersonenMitNachnamenMaier = newPersonenStream()....
+		boolean esGibtPersonenMitNachnamenMaier = false;
 
-		assertTrue(esGibtPersonenMitNachnahmenMaier);
+		assertTrue(esGibtPersonenMitNachnamenMaier);
 	}
 
 	@Test
-	public void wieVielePersonenGibtEsMitNachnahmenMaier() {
+	public void wieVielePersonenGibtEsMitNachnamenMaier() {
 
-		// TODO long anzahlPersonenMitNachnahmenMaier = newPersonenStream()....
-		long anzahlPersonenMitNachnahmenMaier = 0;
+		// TODO long anzahlPersonenMitNachnamenMaier = newPersonenStream()....
+		long anzahlPersonenMitNachnamenMaier = 0;
 
-		assertThat(anzahlPersonenMitNachnahmenMaier, is(1006L));
+		assertThat(anzahlPersonenMitNachnamenMaier, is(1006L));
 	}
 
 	@Test
@@ -43,12 +42,12 @@ public class StreamAufgabe1 extends TestMit100000Personen {
 	}
 
 	@Test
-	public void esGibtPersonenMitNachnahmenMitMehrAls8Zeichen() {
+	public void esGibtPersonenMitNachnamenMitMehrAls8Zeichen() {
 
-		// TODO boolean esGibtPersonenMitNachnahmenMitMehrAls8Zeichen = newPersonenStream()....
-		boolean esGibtPersonenMitNachnahmenMitMehrAls8Zeichen = false;
+		// TODO boolean esGibtPersonenMitNachnamenMitMehrAls8Zeichen = newPersonenStream()....
+		boolean esGibtPersonenMitNachnamenMitMehrAls8Zeichen = false;
 
-		assertTrue(esGibtPersonenMitNachnahmenMitMehrAls8Zeichen);
+		assertTrue(esGibtPersonenMitNachnamenMitMehrAls8Zeichen);
 	}
 
 	@Test
