@@ -50,7 +50,7 @@ Erzeuge eine Liste von Personen und gebe sie auf die Konsole aus ohne eine Schle
 
 #### 1. `PredicatesUebung`
 
-Implementiere eine statische Methode mit folgender Signatur, die alle Elemente aus einer `Collection` entfernt, die einem `Predicate` entsprechen und rufe sie auf.
+Implementiere eine statische Methode mit folgender Signatur, die alle Elemente aus einer `Collection` entfernt, die einem `Predicate` entsprechen, und rufe sie auf.
 
 ```java
 <T> void removeIf(Collection<T> collection, Predicate<T> predicate)
@@ -75,7 +75,7 @@ Schreibe eine statische Methode mit folgender Signatur, die den vom `Supplier` g
 
 #### 1. `FunctionsUebung`
 
-Implementiere eine statische Methode mit folgender Signatur, die alle Elemente, die einem `Predicate` entsprechen, aus einer `List` mit dem Wert ersetzt, den die `Function` zurückgibt und rufe sie auf.
+Implementiere eine statische Methode mit folgender Signatur, die alle Elemente, die einem `Predicate` entsprechen, aus einer `List` mit dem Wert ersetzt, den die `Function` zurückgibt, und rufe sie auf.
 
 ```java
 <T> void replaceIf(List<T> list, Predicate<T> predicate, Function<T, T> function)
