@@ -1,6 +1,7 @@
 package de.andrena.java8.time;
 
 import static de.andrena.java8.PersonenGenerator.personenStream;
+import static org.hamcrest.Matchers.greaterThan;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
 
@@ -36,7 +37,7 @@ public class DateTimeAufgaben {
 		// Period alter = TODO ...;
 		Period alter = null;
 
-		assertThat(alter, is(Period.ofYears(38).plusMonths(1).plusDays(24)));
+		assertThat(alter.getYears(), is(greaterThan(37)));
 	}
 
 	@Test
