@@ -1,5 +1,6 @@
 package de.andrena.java8.streams;
 
+import static de.andrena.java8.streams.WherePredicate.where;
 import static org.hamcrest.Matchers.endsWith;
 import static org.hamcrest.Matchers.hasItem;
 import static org.hamcrest.Matchers.hasSize;
@@ -36,7 +37,7 @@ public class StreamLoesung2 extends TestMit100000Personen {
 	@Test
 	public void alleVerschiedenenVornamenDerMaiersSortiertAlsLinkedList() {
 		LinkedList<String> alleVornamenDerMaiers = newPersonenStream() //
-				.filter(person -> person.getNachname().equals("Maier")) //
+				.filter(where(Person::getNachname).is("Maier")) //
 				.map(Person::getVorname) //
 				.distinct() //
 				.sorted() //
