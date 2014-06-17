@@ -5,6 +5,7 @@ import static org.hamcrest.Matchers.hasSize;
 import static org.hamcrest.Matchers.is;
 import static org.junit.Assert.assertThat;
 
+import java.util.function.BooleanSupplier;
 import java.util.function.Supplier;
 import java.util.logging.Level;
 import java.util.logging.Logger;
@@ -19,9 +20,9 @@ public class SupplierLoesung {
 	@Rule
 	public LogRecordCollector logCollector = new LogRecordCollector(logger);
 
-	void logIf(Supplier<Boolean> condition, Level level, Supplier<String> messageSupplier) {
-		if (logger.isLoggable(level) && condition.get()) {
-			logger.log(level, messageSupplier);
+	void logIf(BooleanSupplier condition, Level level, Supplier<String> messageSupplier) {
+		if (logger.isLoggable(level) && condition.getAsBoolean()) {
+			logger.log(level, messageSupplier.get());
 		}
 	}
 
