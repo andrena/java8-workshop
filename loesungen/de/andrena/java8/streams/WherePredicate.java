@@ -12,6 +12,10 @@ public class WherePredicate<A, B> {
 		return new WherePredicate<>(function);
 	}
 
+	public static <A, B> Predicate<A> where(Function<? super A, ? extends B> function, Predicate<? super B> predicate) {
+		return new WherePredicate<A, B>(function).is(predicate);
+	}
+
 	private final Function<? super A, ? extends B> function;
 
 	private WherePredicate(Function<? super A, ? extends B> function) {
