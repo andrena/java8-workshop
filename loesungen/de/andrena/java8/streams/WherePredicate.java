@@ -18,19 +18,19 @@ public class WherePredicate<A, B> {
 		this.function = function;
 	}
 
-	public Predicate<? super A> isNull() {
+	public Predicate<A> isNull() {
 		return is(Objects::isNull);
 	}
 
-	public Predicate<? super A> isNotNull() {
+	public Predicate<A> isNotNull() {
 		return is(Objects::nonNull);
 	}
 
-	public Predicate<? super A> is(B value) {
+	public Predicate<A> is(B value) {
 		return is(isEqual(value));
 	}
 
-	public Predicate<? super A> is(Predicate<? super B> predicate) {
+	public Predicate<A> is(Predicate<? super B> predicate) {
 		return a -> predicate.test(function.apply(a));
 	}
 }
