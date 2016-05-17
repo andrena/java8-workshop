@@ -112,7 +112,7 @@ Jeder Test in der Klasse ist rot und soll durch Anwendung der richtigen `Stream`
 
 ### 2. Collector-Aufgaben
 
-Bearbeite die Klasse `StreamAufgabe2`. Beginne jeweils mit einem `Stream<Person>`, der über die Methode `newPersonenStream()` erzeugt werden kann.
+Bearbeite die Klasse `StreamAufgabe2`. Beginne jeweils mit einem `Stream<Person>`, der über die Methode `newPersonenStream()` erzeugt werden kann. (Tipp: vorgefertigte `Collector`-Implementierungen: siehe `java.util.stream.Collectors`)
 
 1. Erstelle eine sortierte Liste, die alle verschiedenen Vornamen der Personen mit Nachnamen "Maier" enthält.
 1. Genauso wie die vorherige Aufgabe, nur dass jetzt das Ergebnis eine `LinkedList` sein soll.
