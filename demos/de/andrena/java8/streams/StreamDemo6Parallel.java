@@ -32,7 +32,7 @@ public class StreamDemo6Parallel {
 		long anzahlMuellers = stream //
 				.filter(person -> "Müller".equals(person.getNachname())) //
 				.count();
-		assertThat(anzahlMuellers, is(9928L));
+		assertThat(anzahlMuellers, is(10_000L));
 
 		long time = System.currentTimeMillis() - start;
 		String type = stream.isParallel() ? "parallel" : "sequentiell";

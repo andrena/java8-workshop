@@ -32,7 +32,7 @@ public class DateTimeLoesungen {
 				.filter(isAtFriday.and(isAt13th)) //
 				.count();
 
-		assertThat(anzahlPersonenGeborenAmFreitagDer13te, is(491L));
+		assertThat(anzahlPersonenGeborenAmFreitagDer13te, is(336L));
 	}
 
 	@Test
@@ -56,14 +56,14 @@ public class DateTimeLoesungen {
 
 	@Test
 	public void jahrMitDenMeistenGeburten() {
-		Map<Integer, List<Person>> nachJahrGruppiert = newPersonenStream().collect(
-				Collectors.groupingBy(p -> p.getGeburtstag().getYear()));
+		Map<Integer, List<Person>> nachJahrGruppiert = newPersonenStream()
+				.collect(Collectors.groupingBy(p -> p.getGeburtstag().getYear()));
 		int jahrMitDenMeistenGeburten = nachJahrGruppiert.keySet().stream()
 				.max(Comparator.comparingInt(jahr -> nachJahrGruppiert.get(jahr).size())).get();
 		int anzahlGeburtenDiesesJahres = nachJahrGruppiert.get(jahrMitDenMeistenGeburten).size();
 
-		assertThat(jahrMitDenMeistenGeburten, is(1923));
-		assertThat(anzahlGeburtenDiesesJahres, is(1093));
+		assertThat(jahrMitDenMeistenGeburten, is(1916));
+		assertThat(anzahlGeburtenDiesesJahres, is(1000));
 	}
 
 	private Stream<Person> newPersonenStream() {

@@ -29,9 +29,9 @@ public class StreamLoesung2 extends TestMit100000Personen {
 				.sorted() //
 				.collect(Collectors.toList());
 
-		assertThat(alleVornamenDerMaiers, hasSize(472));
+		assertThat(alleVornamenDerMaiers, hasSize(559));
 		assertThat(alleVornamenDerMaiers.get(0), is("Agnes"));
-		assertThat(alleVornamenDerMaiers.get(471), is("Yvonne"));
+		assertThat(alleVornamenDerMaiers.get(558), is("Yvonne"));
 	}
 
 	@Test
@@ -43,9 +43,9 @@ public class StreamLoesung2 extends TestMit100000Personen {
 				.sorted() //
 				.collect(Collectors.toCollection(LinkedList::new));
 
-		assertThat(alleVornamenDerMaiers, hasSize(472));
+		assertThat(alleVornamenDerMaiers, hasSize(559));
 		assertThat(alleVornamenDerMaiers.get(0), is("Agnes"));
-		assertThat(alleVornamenDerMaiers.get(471), is("Yvonne"));
+		assertThat(alleVornamenDerMaiers.get(558), is("Yvonne"));
 	}
 
 	@Test
@@ -67,8 +67,8 @@ public class StreamLoesung2 extends TestMit100000Personen {
 				.collect(Collectors.groupingBy(Person::getNachname));
 
 		assertThat(gruppiertNachNachnamen.keySet(), hasSize(100));
-		assertThat(gruppiertNachNachnamen.get("Müller"), hasSize(950));
-		assertThat(gruppiertNachNachnamen.get("Schuster"), hasSize(981));
+		assertThat(gruppiertNachNachnamen.get("Müller"), hasSize(1000));
+		assertThat(gruppiertNachNachnamen.get("Schuster"), hasSize(1000));
 	}
 
 	@Test
@@ -84,7 +84,7 @@ public class StreamLoesung2 extends TestMit100000Personen {
 
 		assertThat(nachnamenMitAllenVornamen, hasSize(100));
 		assertThat(nachnamenMitAllenVornamen, hasItem(startsWith("Müller: Agnes, Agnieszka, Albert, ")));
-		assertThat(nachnamenMitAllenVornamen, hasItem(startsWith("Schuster: Agnes, Agnieszka, Alexander, ")));
+		assertThat(nachnamenMitAllenVornamen, hasItem(startsWith("Scholz: Agnes, Agnieszka, Albert, ")));
 	}
 
 	private String listeDerVerschiedenenVornamenKommaSepariert(List<Person> personen) {

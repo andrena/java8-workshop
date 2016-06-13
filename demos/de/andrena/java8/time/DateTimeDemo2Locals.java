@@ -60,7 +60,7 @@ public class DateTimeDemo2Locals {
 	@Test
 	public void temporalAdjustersCustom() {
 		LocalDate nextFriday13th = LocalDate.now().with(nextFridayThirteenth());
-		assertThat(nextFriday13th, is(LocalDate.of(2014, 6, 13)));
+		assertThat(nextFriday13th, is(LocalDate.of(2017, 1, 13)));
 	}
 
 	private TemporalAdjuster nextFridayThirteenth() {

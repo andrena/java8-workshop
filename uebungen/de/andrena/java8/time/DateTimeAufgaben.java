@@ -21,7 +21,7 @@ public class DateTimeAufgaben {
 		// long anzahlPersonenGeborenAmFreitagDer13te = TODO newPersonenStream(). ...
 		long anzahlPersonenGeborenAmFreitagDer13te = 0;
 
-		assertThat(anzahlPersonenGeborenAmFreitagDer13te, is(491L));
+		assertThat(anzahlPersonenGeborenAmFreitagDer13te, is(336L));
 	}
 
 	@Test
@@ -55,8 +55,8 @@ public class DateTimeAufgaben {
 		int jahrMitDenMeistenGeburten = 0;
 		int anzahlGeburtenDiesesJahres = 0;
 
-		assertThat(jahrMitDenMeistenGeburten, is(1923));
-		assertThat(anzahlGeburtenDiesesJahres, is(1093));
+		assertThat(jahrMitDenMeistenGeburten, is(1916));
+		assertThat(anzahlGeburtenDiesesJahres, is(1000));
 	}
 
 	private Stream<Person> newPersonenStream() {

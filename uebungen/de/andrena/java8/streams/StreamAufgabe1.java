@@ -29,7 +29,7 @@ public class StreamAufgabe1 extends TestMit100000Personen {
 		// TODO long anzahlPersonenMitNachnamenMaier = newPersonenStream()....
 		long anzahlPersonenMitNachnamenMaier = 0;
 
-		assertThat(anzahlPersonenMitNachnamenMaier, is(1006L));
+		assertThat(anzahlPersonenMitNachnamenMaier, is(1000L));
 	}
 
 	@Test
@@ -58,7 +58,7 @@ public class StreamAufgabe1 extends TestMit100000Personen {
 
 		assertThat(laengeDerNachnamenStatistik.getMin(), is(4));
 		assertThat(laengeDerNachnamenStatistik.getMax(), is(10));
-		assertThat(laengeDerNachnamenStatistik.getAverage(), is(closeTo(5.954, 0.001)));
+		assertThat(laengeDerNachnamenStatistik.getAverage(), is(closeTo(5.95, 0.001)));
 	}
 
 	private Stream<Person> newPersonenStream() {

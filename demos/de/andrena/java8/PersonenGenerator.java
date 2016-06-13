@@ -12,7 +12,6 @@ import java.time.LocalDate;
 import java.time.Month;
 import java.time.Year;
 import java.util.List;
-import java.util.Random;
 import java.util.stream.Stream;
 
 public class PersonenGenerator {
@@ -29,18 +28,9 @@ public class PersonenGenerator {
 	private final List<String> nachnamen;
 	private final List<Ort> orte;
 
-	private final Random random;
+	private int index;
 
 	private PersonenGenerator() throws URISyntaxException, IOException {
-		this(new Random(42));
-	}
-
-	public PersonenGenerator(long seed) throws URISyntaxException, IOException {
-		this(new Random(seed));
-	}
-
-	private PersonenGenerator(Random random) throws URISyntaxException, IOException {
-		this.random = random;
 		vornamen = readFile("vornamen.txt");
 		nachnamen = readFile("nachnamen.txt");
 
@@ -64,28 +54,28 @@ public class PersonenGenerator {
 	}
 
 	private Person generierePersonOhneAdresse() {
-		String vorname = vornamen.get(random.nextInt(vornamen.size()));
-		String nachname = nachnamen.get(random.nextInt(nachnamen.size()));
+		String vorname = vornamen.get(nextIndex(vornamen.size()));
+		String nachname = nachnamen.get(nextIndex(nachnamen.size()));
 		LocalDate geburtstag = generiereGeburtstag();
 		return new Person(vorname, nachname, geburtstag);
 	}
 
 	private Adresse generiereAdresse() {
 		String strasse = "Demostrasse";
-		int hausnummer = random.nextInt(100);
-		Ort ort = orte.get(random.nextInt(orte.size()));
+		int hausnummer = nextIndex(100);
+		Ort ort = orte.get(nextIndex(orte.size()));
 		return new Adresse(strasse, hausnummer, ort.plz, ort.name);
 	}
 
 	private LocalDate generiereGeburtstag() {
-		Year year = Year.now().minusYears(100).plusYears(random.nextInt(100));
+		Year year = Year.now().minusYears(100).plusYears(nextIndex(100));
 		Month month = zufaelligerMonat();
-		int dayOfMonth = 1 + random.nextInt(month.length(year.isLeap()));
+		int dayOfMonth = 1 + nextIndex(month.length(year.isLeap()));
 		return LocalDate.now().with(year).with(month).withDayOfMonth(dayOfMonth);
 	}
 
 	private Month zufaelligerMonat() {
-		return Month.values()[random.nextInt(Month.values().length)];
+		return Month.values()[nextIndex(Month.values().length)];
 	}
 
 	private BufferedReader newBufferedReader(String file) throws IOException, URISyntaxException {
@@ -110,4 +100,7 @@ public class PersonenGenerator {
 		}
 	}
 
+	private int nextIndex(int max) {
+		return index++ % max;
+	}
 }

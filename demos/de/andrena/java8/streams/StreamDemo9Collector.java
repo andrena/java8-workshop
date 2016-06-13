@@ -49,7 +49,7 @@ public class StreamDemo9Collector {
 
 		System.out.println(personenNachStadt.size());
 
-		assertThat(personenNachStadt.get("Karlsruhe"), hasSize(48));
+		assertThat(personenNachStadt.get("Karlsruhe"), hasSize(49));
 		assertThat(personenNachStadt.get("Stuttgart"), hasSize(51));
 	}
 
