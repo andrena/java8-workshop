@@ -68,7 +68,7 @@ public class PersonenGenerator {
 	}
 
 	private LocalDate generiereGeburtstag() {
-		Year year = Year.now().minusYears(100).plusYears(nextIndex(100));
+		Year year = Year.of(1916).plusYears(nextIndex(100));
 		Month month = zufaelligerMonat();
 		int dayOfMonth = 1 + nextIndex(month.length(year.isLeap()));
 		return LocalDate.now().with(year).with(month).withDayOfMonth(dayOfMonth);
